@@ -1,0 +1,1260 @@
+anonymity_id,company_anonymity,coworkers_know,supervisor_know,mental_health_interview,phys_health_interview,survey_id
+0,Yes,Some of them,Yes,No,Maybe,0
+1,Don't know,No,No,No,No,1
+2,Don't know,Yes,Yes,Yes,Yes,2
+3,No,Some of them,No,Maybe,Maybe,3
+4,Don't know,Some of them,Yes,Yes,Yes,4
+5,Don't know,Yes,Yes,No,Maybe,5
+6,No,Some of them,No,No,No,6
+7,Yes,No,No,No,No,7
+8,No,Yes,Yes,No,Maybe,8
+9,Don't know,Yes,Yes,Maybe,Maybe,9
+10,Don't know,Some of them,Yes,No,No,10
+11,Don't know,Yes,Yes,Yes,Yes,11
+12,Don't know,Yes,Yes,Maybe,Maybe,12
+13,Don't know,Yes,Yes,No,No,13
+14,Don't know,Some of them,Some of them,Maybe,Yes,14
+15,Don't know,Yes,Some of them,Maybe,Maybe,15
+16,Don't know,Some of them,No,Maybe,Maybe,16
+17,Don't know,Some of them,Yes,No,No,17
+18,Yes,Yes,Yes,No,Yes,18
+19,Yes,Some of them,Some of them,Maybe,Maybe,19
+20,No,Some of them,Some of them,No,No,20
+21,Yes,Some of them,Some of them,No,Maybe,21
+22,Don't know,Some of them,Yes,No,Maybe,22
+23,Don't know,No,No,No,Yes,23
+24,Yes,Yes,Yes,No,Yes,24
+25,No,Some of them,Yes,No,Yes,25
+26,Don't know,Some of them,No,No,No,26
+27,Don't know,Yes,Yes,Maybe,Maybe,27
+28,Don't know,Some of them,No,No,No,28
+29,Don't know,Some of them,No,No,Maybe,29
+30,Don't know,Some of them,Some of them,No,Maybe,30
+31,Don't know,No,No,No,No,31
+32,Yes,Some of them,Yes,No,Yes,32
+33,Yes,Some of them,Some of them,Maybe,Yes,33
+34,Don't know,Some of them,No,No,Maybe,34
+35,Don't know,Yes,Yes,Maybe,Maybe,35
+36,Don't know,Some of them,No,No,No,36
+37,Don't know,Some of them,Some of them,No,Maybe,37
+38,Don't know,Some of them,Yes,No,Maybe,38
+39,Yes,Yes,Yes,Maybe,Maybe,39
+40,Don't know,Some of them,No,No,Yes,40
+41,Don't know,Some of them,No,No,Maybe,41
+42,Yes,Some of them,No,No,No,42
+43,Don't know,No,Some of them,No,No,43
+44,Don't know,No,No,No,Maybe,44
+45,Yes,Some of them,Yes,No,No,45
+46,Don't know,Some of them,Yes,Maybe,Yes,46
+47,Don't know,Yes,Yes,Maybe,Yes,47
+48,Don't know,Yes,Yes,No,No,48
+49,Don't know,Some of them,Yes,No,No,49
+50,Yes,No,No,No,Maybe,50
+51,Don't know,Some of them,Yes,Maybe,Maybe,51
+52,Don't know,Some of them,Some of them,Maybe,Maybe,52
+53,Don't know,Some of them,Yes,No,No,53
+54,Don't know,No,No,No,Maybe,54
+55,Yes,No,No,No,No,55
+56,Don't know,Yes,Yes,No,No,56
+57,Don't know,Some of them,Yes,Yes,Yes,57
+58,Yes,Some of them,Yes,Maybe,Yes,58
+59,No,No,No,No,Maybe,59
+60,Don't know,Some of them,No,No,Maybe,60
+61,Yes,Yes,Yes,Maybe,Yes,61
+62,Don't know,Yes,Yes,Maybe,Maybe,62
+63,Don't know,No,No,No,No,63
+64,Don't know,Some of them,Yes,No,Maybe,64
+65,Don't know,Some of them,No,No,No,65
+66,Don't know,Some of them,Yes,No,Maybe,66
+67,Don't know,Some of them,Some of them,Maybe,Yes,67
+68,Don't know,Some of them,No,No,Maybe,68
+69,Don't know,Some of them,No,No,No,69
+70,Don't know,Some of them,Some of them,No,No,70
+71,Don't know,Some of them,Yes,No,No,71
+72,Yes,Yes,Yes,No,No,72
+73,Yes,Some of them,Yes,Maybe,Yes,73
+74,Don't know,Some of them,Some of them,No,Maybe,74
+75,No,No,No,No,Maybe,75
+76,Don't know,Yes,Yes,Maybe,Yes,76
+77,Yes,Yes,Yes,Maybe,Maybe,77
+78,Don't know,Some of them,No,No,Yes,78
+79,Don't know,Some of them,Some of them,Maybe,Yes,79
+80,Don't know,Yes,Some of them,Maybe,Maybe,80
+81,Don't know,Some of them,Yes,Maybe,Maybe,81
+82,Don't know,Some of them,Yes,No,No,82
+83,Yes,Some of them,Yes,No,Maybe,83
+84,Don't know,No,No,No,Maybe,84
+85,Don't know,Some of them,Yes,Maybe,Maybe,85
+86,Don't know,Some of them,No,No,Maybe,86
+87,Don't know,Some of them,Some of them,No,No,87
+88,Don't know,Some of them,Some of them,No,Maybe,88
+89,Don't know,Some of them,Some of them,No,No,89
+90,Yes,Some of them,Yes,No,No,90
+91,Yes,Yes,Yes,Yes,Yes,91
+92,Don't know,Some of them,No,No,Maybe,92
+93,Yes,Yes,Yes,Yes,Yes,93
+94,Don't know,Some of them,Yes,No,Maybe,94
+95,Don't know,Yes,Yes,Maybe,Maybe,95
+96,Don't know,Some of them,No,No,Maybe,96
+97,Don't know,Some of them,Yes,Maybe,Yes,97
+98,Don't know,Some of them,No,No,Maybe,98
+99,Yes,Yes,Yes,Maybe,Maybe,99
+100,No,No,No,No,Maybe,100
+101,Don't know,No,Some of them,No,No,101
+102,Don't know,Some of them,Yes,No,No,102
+103,Yes,Some of them,Yes,Maybe,Maybe,103
+104,Don't know,Some of them,Yes,No,No,104
+105,Yes,Some of them,Yes,No,No,105
+106,Don't know,Some of them,Yes,No,Maybe,106
+107,No,Yes,Yes,No,No,107
+108,Don't know,No,No,No,No,108
+109,Yes,Some of them,Yes,No,Maybe,109
+110,Yes,No,No,No,Yes,110
+111,Yes,Some of them,Some of them,No,Maybe,111
+112,Yes,Yes,Yes,Yes,Yes,112
+113,Don't know,Some of them,Some of them,No,No,113
+114,Don't know,Some of them,No,No,Maybe,114
+115,Don't know,Some of them,Some of them,No,No,115
+116,Yes,Some of them,Yes,No,Maybe,116
+117,Yes,Some of them,Yes,No,No,117
+118,Yes,Some of them,No,No,No,118
+119,Don't know,Some of them,Yes,Maybe,Maybe,119
+120,Don't know,No,No,No,No,120
+121,Don't know,Some of them,Yes,No,No,121
+122,Yes,Yes,Yes,No,Maybe,122
+123,Yes,No,No,No,No,123
+124,Don't know,Some of them,Yes,No,Maybe,124
+125,Yes,Some of them,No,No,Yes,125
+126,Don't know,Some of them,Some of them,No,No,126
+127,Yes,No,Yes,No,No,127
+128,Don't know,No,No,No,No,128
+129,Don't know,Some of them,No,No,No,129
+130,Don't know,Yes,Some of them,No,Yes,130
+131,Don't know,Yes,Some of them,No,Yes,131
+132,Don't know,Yes,Yes,Maybe,Maybe,132
+133,Yes,Yes,Yes,Maybe,Yes,133
+134,Don't know,Some of them,Yes,Maybe,Yes,134
+135,Don't know,No,No,No,No,135
+136,Yes,Some of them,Yes,Maybe,Maybe,136
+137,Don't know,Yes,Yes,No,No,137
+138,Don't know,Some of them,No,No,No,138
+139,Don't know,Some of them,Some of them,No,No,139
+140,Don't know,Some of them,Yes,No,No,140
+141,Yes,Some of them,No,No,Maybe,141
+142,Don't know,Some of them,No,No,Maybe,142
+143,Don't know,Some of them,Yes,No,No,143
+144,Don't know,Some of them,Some of them,No,Maybe,144
+145,Don't know,Some of them,Yes,Maybe,Maybe,145
+146,Yes,No,Some of them,No,No,146
+147,No,No,No,No,No,147
+148,Don't know,Some of them,No,No,No,148
+149,Don't know,No,Some of them,No,Maybe,149
+150,Yes,Some of them,Some of them,Maybe,Maybe,150
+151,Don't know,Some of them,Some of them,No,Maybe,151
+152,Don't know,Yes,Yes,Maybe,Yes,152
+153,Don't know,Some of them,Some of them,Maybe,Maybe,153
+154,Yes,Some of them,No,No,Yes,154
+155,Don't know,Some of them,Some of them,No,Maybe,155
+156,Don't know,No,Some of them,No,Maybe,156
+157,Don't know,Some of them,Yes,No,Maybe,157
+158,Don't know,Some of them,Yes,No,No,158
+159,Don't know,Some of them,No,No,No,159
+160,Yes,Some of them,Some of them,No,Maybe,160
+161,Don't know,Some of them,Some of them,No,No,161
+162,Don't know,Some of them,Some of them,No,No,162
+163,Don't know,Some of them,Yes,No,No,163
+164,Yes,Some of them,Yes,No,Yes,164
+165,Yes,Yes,Yes,No,Maybe,165
+166,Don't know,Some of them,Some of them,No,Maybe,166
+167,Don't know,Yes,Yes,No,Maybe,167
+168,Don't know,No,No,No,Maybe,168
+169,Don't know,Some of them,Some of them,No,Maybe,169
+170,Yes,Yes,Yes,No,No,170
+171,Don't know,Some of them,Yes,No,Maybe,171
+172,Don't know,No,No,Maybe,Maybe,172
+173,Don't know,Some of them,Yes,No,Maybe,173
+174,Don't know,Some of them,Yes,No,No,174
+175,Don't know,No,Some of them,No,Maybe,175
+176,Yes,Some of them,Some of them,Maybe,Maybe,176
+177,Yes,Yes,Yes,No,No,177
+178,Yes,Yes,Yes,No,No,178
+179,Don't know,Yes,Yes,No,Maybe,179
+180,No,No,Yes,Maybe,Yes,180
+181,Don't know,Some of them,Some of them,No,No,181
+182,Yes,Yes,Yes,Maybe,Maybe,182
+183,Don't know,Some of them,Some of them,No,No,183
+184,Don't know,No,No,No,No,184
+185,Don't know,Some of them,No,Maybe,Yes,185
+186,Don't know,Some of them,Yes,Maybe,Yes,186
+187,Don't know,Some of them,No,No,Maybe,187
+188,Don't know,Some of them,Yes,Maybe,Yes,188
+189,Yes,No,No,No,No,189
+190,Yes,Some of them,Some of them,No,Maybe,190
+191,Don't know,Some of them,No,No,Maybe,191
+192,Don't know,No,No,No,Maybe,192
+193,Yes,Some of them,Yes,No,No,193
+194,Don't know,Some of them,No,No,No,194
+195,Don't know,Some of them,Some of them,No,Maybe,195
+196,Don't know,Some of them,No,No,No,196
+197,Yes,Some of them,Yes,No,Maybe,197
+198,Don't know,Some of them,Some of them,No,Maybe,198
+199,Don't know,Some of them,No,No,Maybe,199
+200,Don't know,Some of them,Some of them,No,No,200
+201,Yes,Some of them,Yes,No,No,201
+202,Don't know,Some of them,Some of them,Maybe,Maybe,202
+203,Don't know,No,No,No,Yes,203
+204,Don't know,Yes,Yes,No,No,204
+205,Don't know,No,No,No,No,205
+206,Don't know,Some of them,Some of them,Maybe,Maybe,206
+207,Yes,Yes,Yes,No,Maybe,207
+208,Don't know,Some of them,Yes,No,No,208
+209,No,No,No,No,Maybe,209
+210,Yes,Some of them,Yes,No,No,210
+211,Don't know,Some of them,Yes,No,Maybe,211
+212,Don't know,No,No,No,Maybe,212
+213,No,Some of them,Some of them,No,Maybe,213
+214,Yes,Yes,Yes,No,Yes,214
+215,Don't know,Some of them,No,No,No,215
+216,Yes,Some of them,Yes,Maybe,Yes,216
+217,Yes,Some of them,Some of them,No,No,217
+218,Don't know,Some of them,No,No,No,218
+219,Don't know,No,Some of them,No,No,219
+220,Don't know,Yes,Yes,Maybe,Maybe,220
+221,Don't know,Yes,Yes,Yes,Yes,221
+222,Don't know,Some of them,Some of them,No,Maybe,222
+223,Yes,No,Some of them,No,No,223
+224,Don't know,No,Yes,No,Yes,224
+225,Yes,Yes,Yes,Maybe,Yes,225
+226,Don't know,Some of them,Yes,No,Maybe,226
+227,Don't know,No,No,No,Maybe,227
+228,Don't know,Some of them,No,Maybe,Maybe,228
+229,Don't know,Some of them,Some of them,No,Maybe,229
+230,Don't know,Some of them,Some of them,No,Maybe,230
+231,Don't know,Some of them,No,Maybe,Maybe,231
+232,Don't know,No,No,No,Maybe,232
+233,Don't know,Some of them,Yes,No,Maybe,233
+234,Yes,Some of them,Some of them,No,No,234
+235,Don't know,No,No,No,Maybe,235
+236,Don't know,Some of them,Some of them,No,Yes,236
+237,Yes,Some of them,Yes,No,Yes,237
+238,Yes,Some of them,Some of them,No,Maybe,238
+239,Yes,Some of them,Yes,No,No,239
+240,Don't know,Some of them,Yes,Maybe,Maybe,240
+241,Don't know,Some of them,Some of them,No,Maybe,241
+242,Yes,Some of them,Yes,No,No,242
+243,Yes,Some of them,Yes,No,Yes,243
+244,Yes,Some of them,Yes,Maybe,Maybe,244
+245,Yes,No,No,No,Maybe,245
+246,Don't know,No,No,No,Maybe,246
+247,Yes,Yes,Yes,Maybe,Yes,247
+248,Don't know,Yes,Yes,No,Yes,248
+249,Yes,Some of them,No,Maybe,Yes,249
+250,Yes,Some of them,Some of them,No,Yes,250
+251,Yes,Some of them,Yes,No,Maybe,251
+252,Yes,Some of them,Yes,No,Maybe,252
+253,No,Yes,Yes,No,No,253
+254,Don't know,Yes,Yes,Maybe,Maybe,254
+255,Don't know,No,No,No,Maybe,255
+256,Don't know,Some of them,Some of them,No,Maybe,256
+257,Don't know,Some of them,Yes,No,No,257
+258,Don't know,Some of them,Some of them,No,Yes,258
+259,No,No,No,No,Yes,259
+260,Yes,Yes,No,No,Maybe,260
+261,No,Some of them,Some of them,No,Maybe,261
+262,Yes,Yes,Yes,Maybe,No,262
+263,Yes,Some of them,Some of them,No,Yes,263
+264,Don't know,Yes,Yes,Yes,Yes,264
+265,Don't know,Some of them,Yes,No,Maybe,265
+266,Don't know,Yes,Yes,Yes,Yes,266
+267,Don't know,Yes,Some of them,Maybe,Maybe,267
+268,Yes,Some of them,Some of them,No,Yes,268
+269,Don't know,Yes,Yes,No,No,269
+270,Don't know,Some of them,Some of them,No,Maybe,270
+271,Yes,Some of them,Yes,Maybe,Maybe,271
+272,Yes,Some of them,Yes,No,No,272
+273,Don't know,Yes,Some of them,No,No,273
+274,Don't know,No,No,No,Maybe,274
+275,Yes,Some of them,Yes,No,No,275
+276,Don't know,Some of them,No,No,No,276
+277,Don't know,No,Some of them,No,No,277
+278,Don't know,Some of them,Some of them,No,No,278
+279,Don't know,Some of them,No,No,Maybe,279
+280,Don't know,Some of them,Yes,No,Yes,280
+281,Yes,No,No,No,Maybe,281
+282,Don't know,No,No,No,Maybe,282
+283,Yes,No,Some of them,No,Maybe,283
+284,Don't know,Some of them,Some of them,No,Yes,284
+285,Yes,Yes,Yes,Yes,Yes,285
+286,Don't know,Some of them,Some of them,No,No,286
+287,Don't know,Some of them,Some of them,No,Maybe,287
+288,Don't know,Some of them,No,No,No,288
+289,Don't know,Some of them,No,No,No,289
+290,No,Yes,Yes,No,No,290
+291,Don't know,Some of them,Some of them,No,No,291
+292,Yes,Some of them,Some of them,No,Maybe,292
+293,Don't know,Some of them,Some of them,No,No,293
+294,Don't know,Yes,Some of them,No,Maybe,294
+295,Don't know,Some of them,No,No,Maybe,295
+296,Don't know,Yes,Yes,No,Yes,296
+297,Don't know,Some of them,Yes,Maybe,Maybe,297
+298,Don't know,No,No,No,Maybe,298
+299,Don't know,Some of them,Yes,Maybe,Maybe,299
+300,Don't know,Some of them,Some of them,No,No,300
+301,Yes,Yes,Yes,No,No,301
+302,Don't know,Some of them,Yes,No,Maybe,302
+303,Yes,Some of them,Yes,No,No,303
+304,Don't know,Some of them,Yes,No,No,304
+305,Don't know,Some of them,Some of them,Maybe,Maybe,305
+306,Don't know,Some of them,Yes,No,No,306
+307,Don't know,Some of them,Some of them,No,No,307
+308,Don't know,Some of them,Yes,No,No,308
+309,Don't know,Some of them,Yes,No,Maybe,309
+310,Don't know,No,No,No,Maybe,310
+311,Don't know,Some of them,Yes,No,No,311
+312,Don't know,Some of them,Yes,No,No,312
+313,Don't know,No,No,No,No,313
+314,Don't know,Yes,Yes,Maybe,Maybe,314
+315,Don't know,Some of them,Some of them,No,No,315
+316,Don't know,No,No,No,Maybe,316
+317,Yes,Some of them,Yes,Maybe,Maybe,317
+318,Yes,No,Some of them,No,No,318
+319,Don't know,Some of them,Some of them,No,No,319
+320,Yes,Some of them,Yes,Maybe,Maybe,320
+321,Don't know,Some of them,Some of them,No,Maybe,321
+322,Yes,Some of them,Yes,Maybe,Maybe,322
+323,Yes,Some of them,No,No,Maybe,323
+324,Don't know,No,No,No,No,324
+325,Don't know,No,No,No,Maybe,325
+326,Yes,No,Some of them,No,No,326
+327,Don't know,Yes,Yes,No,No,327
+328,Don't know,Some of them,Some of them,No,Maybe,328
+329,Don't know,No,No,Maybe,No,329
+330,Yes,Some of them,Some of them,No,Maybe,330
+331,Don't know,Some of them,No,No,No,331
+332,Yes,No,No,No,Yes,332
+333,Don't know,No,No,No,No,333
+334,Don't know,Some of them,Some of them,Maybe,Maybe,334
+335,Don't know,Some of them,Some of them,Maybe,Maybe,335
+336,Don't know,No,No,No,Maybe,336
+337,Don't know,Some of them,Some of them,No,No,337
+338,Yes,No,No,No,Maybe,338
+339,Yes,Some of them,Yes,No,Maybe,339
+340,Don't know,Yes,Yes,No,No,340
+341,Don't know,Some of them,Some of them,No,Maybe,341
+342,Don't know,No,No,No,Maybe,342
+343,Don't know,Some of them,Some of them,No,No,343
+344,Don't know,No,No,No,Maybe,344
+345,Yes,Some of them,Yes,No,No,345
+346,Don't know,Yes,Yes,Maybe,Yes,346
+347,Don't know,No,Yes,No,No,347
+348,Don't know,Some of them,No,No,Maybe,348
+349,Don't know,Some of them,Some of them,No,No,349
+350,Don't know,Yes,Yes,Maybe,Maybe,350
+351,Yes,No,No,No,Yes,351
+352,Don't know,Some of them,Yes,No,Maybe,352
+353,Don't know,Some of them,No,No,No,353
+354,Don't know,Some of them,Yes,No,No,354
+355,Yes,Some of them,No,No,No,355
+356,Don't know,Some of them,Some of them,No,No,356
+357,Yes,No,No,No,No,357
+358,Don't know,Some of them,Some of them,No,Maybe,358
+359,Yes,Yes,Yes,Maybe,Maybe,359
+360,Don't know,Some of them,Some of them,No,No,360
+361,Don't know,Yes,Yes,No,Maybe,361
+362,No,Some of them,Yes,No,Yes,362
+363,Yes,Some of them,Yes,No,Yes,363
+364,Don't know,Some of them,No,No,No,364
+365,Don't know,No,No,No,No,365
+366,Yes,Some of them,Yes,No,No,366
+367,Yes,Some of them,Some of them,No,No,367
+368,Yes,Yes,Yes,Maybe,Maybe,368
+369,No,Some of them,No,No,Maybe,369
+370,Yes,No,Some of them,No,No,370
+371,Don't know,Yes,Some of them,No,Maybe,371
+372,Yes,Yes,Yes,No,No,372
+373,Yes,Some of them,Yes,No,Maybe,373
+374,Don't know,Some of them,No,No,Yes,374
+375,Don't know,No,Some of them,No,Maybe,375
+376,Yes,No,No,No,No,376
+377,Don't know,Some of them,Yes,No,No,377
+378,Yes,Some of them,Some of them,No,No,378
+379,Yes,No,No,No,No,379
+380,Don't know,Some of them,Some of them,No,No,380
+381,Yes,Some of them,Yes,No,Maybe,381
+382,Don't know,Yes,Yes,No,No,382
+383,Yes,Yes,Yes,No,Yes,383
+384,Don't know,Some of them,No,No,No,384
+385,Don't know,No,Yes,No,No,385
+386,Don't know,Some of them,Yes,Maybe,Maybe,386
+387,Don't know,Some of them,No,No,Maybe,387
+388,Don't know,Some of them,No,No,Maybe,388
+389,Yes,Some of them,No,No,Yes,389
+390,No,No,No,Yes,No,390
+391,Don't know,No,No,No,No,391
+392,Don't know,Some of them,No,No,No,392
+393,Don't know,Yes,Yes,No,No,393
+394,No,No,No,No,Maybe,394
+395,Don't know,Some of them,Some of them,No,No,395
+396,Don't know,No,No,No,No,396
+397,Don't know,Some of them,Yes,No,Maybe,397
+398,Don't know,No,Some of them,No,Maybe,398
+399,Yes,Some of them,Some of them,No,Maybe,399
+400,Don't know,Some of them,Yes,No,No,400
+401,Don't know,Some of them,No,No,Maybe,401
+402,Don't know,Some of them,Yes,No,Maybe,402
+403,Don't know,Some of them,Some of them,No,Maybe,403
+404,Don't know,Some of them,Some of them,Maybe,Maybe,404
+405,Yes,Some of them,Yes,Maybe,Maybe,405
+406,Don't know,Yes,Some of them,No,No,406
+407,Don't know,Some of them,No,No,Maybe,407
+408,Don't know,Yes,Yes,Maybe,No,408
+409,Don't know,No,No,No,No,409
+410,Don't know,No,No,No,No,410
+411,Don't know,No,No,No,Maybe,411
+412,Don't know,Some of them,Some of them,No,Maybe,412
+413,Don't know,No,No,No,Yes,413
+414,Don't know,Some of them,Some of them,No,No,414
+415,Don't know,Some of them,Yes,No,No,415
+416,Don't know,Yes,Yes,Maybe,Maybe,416
+417,Don't know,Some of them,Yes,Maybe,Maybe,417
+418,Don't know,Yes,Yes,No,Maybe,418
+419,Don't know,No,No,No,No,419
+420,Yes,Yes,Yes,No,No,420
+421,Don't know,Some of them,No,No,Yes,421
+422,Don't know,Yes,Yes,Yes,Yes,422
+423,Don't know,Some of them,Yes,No,No,423
+424,Don't know,No,No,No,No,424
+425,Yes,Some of them,Some of them,Maybe,Maybe,425
+426,Don't know,Some of them,Some of them,No,Maybe,426
+427,Don't know,Some of them,No,No,No,427
+428,Don't know,Yes,No,No,Yes,428
+429,Yes,Some of them,Some of them,Yes,Yes,429
+430,Don't know,Some of them,Yes,No,No,430
+431,Don't know,No,Some of them,No,Yes,431
+432,Yes,Some of them,Some of them,Yes,Yes,432
+433,Don't know,Yes,Yes,No,Maybe,433
+434,Don't know,Some of them,Some of them,No,No,434
+435,Don't know,Some of them,Yes,No,No,435
+436,Don't know,Some of them,Yes,No,No,436
+437,Yes,Some of them,Yes,No,No,437
+438,Don't know,Some of them,No,No,Maybe,438
+439,Yes,Yes,Yes,Maybe,Maybe,439
+440,Don't know,No,No,No,Maybe,440
+441,Don't know,No,No,No,No,441
+442,Yes,Some of them,Yes,Maybe,Yes,442
+443,Don't know,Some of them,Yes,No,No,443
+444,Yes,Yes,Yes,No,No,444
+445,Don't know,Some of them,Some of them,No,Maybe,445
+446,Don't know,Some of them,Some of them,No,Maybe,446
+447,Don't know,Some of them,Some of them,No,No,447
+448,Don't know,Some of them,Yes,No,No,448
+449,Don't know,Some of them,Some of them,No,No,449
+450,Yes,Yes,Yes,Maybe,Maybe,450
+451,Yes,No,Some of them,No,Maybe,451
+452,Don't know,Some of them,No,No,No,452
+453,Don't know,Some of them,No,No,No,453
+454,Don't know,No,No,No,Yes,454
+455,Yes,Yes,Yes,Maybe,Yes,455
+456,Don't know,Some of them,Some of them,No,Maybe,456
+457,Yes,No,No,No,Maybe,457
+458,Don't know,Some of them,No,No,Yes,458
+459,Don't know,Some of them,Some of them,No,No,459
+460,Don't know,Some of them,Yes,Maybe,Maybe,460
+461,Don't know,Some of them,Yes,No,No,461
+462,Don't know,Some of them,No,No,No,462
+463,Don't know,Some of them,No,No,Maybe,463
+464,Don't know,Some of them,Yes,No,Maybe,464
+465,Yes,Some of them,Yes,No,Maybe,465
+466,Don't know,Some of them,Yes,No,Maybe,466
+467,No,No,Some of them,No,Maybe,467
+468,Don't know,Yes,Yes,Maybe,Maybe,468
+469,Yes,Some of them,No,No,Maybe,469
+470,Yes,Some of them,Yes,No,No,470
+471,Yes,Some of them,Yes,No,Yes,471
+472,Don't know,No,No,No,Maybe,472
+473,Don't know,Some of them,Some of them,No,Maybe,473
+474,Don't know,Some of them,Yes,No,Maybe,474
+475,Don't know,No,No,No,Maybe,475
+476,Don't know,Some of them,No,No,No,476
+477,Don't know,Yes,Yes,Maybe,Yes,477
+478,Don't know,No,No,No,Maybe,478
+479,Don't know,Some of them,Yes,No,Maybe,479
+480,Don't know,Yes,Yes,Maybe,Yes,480
+481,Yes,No,No,No,Yes,481
+482,Don't know,Some of them,Some of them,Maybe,Maybe,482
+483,Don't know,Some of them,No,No,Maybe,483
+484,Don't know,No,No,No,Maybe,484
+485,Don't know,Some of them,Some of them,No,Yes,485
+486,Don't know,Some of them,No,No,Maybe,486
+487,Yes,Yes,Yes,No,No,487
+488,Yes,Some of them,Yes,No,Maybe,488
+489,Don't know,Some of them,Some of them,No,No,489
+490,Yes,No,Some of them,No,No,490
+491,Don't know,Some of them,Some of them,No,No,491
+492,Don't know,Some of them,No,No,Maybe,492
+493,Don't know,Some of them,Some of them,No,No,493
+494,Don't know,Some of them,No,No,No,494
+495,Don't know,Some of them,Some of them,No,No,495
+496,Don't know,Some of them,No,No,No,496
+497,Yes,Some of them,No,No,Maybe,497
+498,Yes,Yes,Yes,Maybe,Maybe,498
+499,Don't know,Some of them,Some of them,No,Maybe,499
+500,Yes,No,No,No,No,500
+501,No,Some of them,No,No,Maybe,501
+502,Don't know,No,Some of them,No,Maybe,502
+503,Don't know,Yes,Yes,No,Yes,503
+504,Don't know,No,No,No,Maybe,504
+505,Don't know,Some of them,No,No,No,505
+506,Don't know,Yes,Yes,Maybe,Yes,506
+507,Don't know,Yes,Yes,Maybe,Maybe,507
+508,Don't know,Some of them,Yes,No,Yes,508
+509,Yes,Some of them,Yes,No,Maybe,509
+510,Don't know,Some of them,Some of them,No,No,510
+511,No,Some of them,No,No,No,511
+512,Don't know,No,No,No,Maybe,512
+513,Yes,Yes,Yes,No,No,513
+514,Yes,No,No,No,No,514
+515,Don't know,Some of them,No,No,No,515
+516,Yes,Some of them,Yes,No,Maybe,516
+517,Yes,Yes,Yes,No,No,517
+518,Yes,Some of them,Some of them,No,Maybe,518
+519,Yes,Yes,Yes,No,No,519
+520,Don't know,Some of them,Yes,Maybe,Maybe,520
+521,Yes,Some of them,Some of them,No,No,521
+522,Don't know,No,No,No,No,522
+523,Don't know,No,No,No,No,523
+524,Yes,Some of them,Yes,No,Yes,524
+525,Yes,Some of them,Some of them,No,No,525
+526,Yes,Some of them,Some of them,Maybe,Maybe,526
+527,No,No,No,No,No,527
+528,Yes,No,Some of them,No,No,528
+529,Don't know,Some of them,Yes,No,No,529
+530,Don't know,Some of them,Yes,No,Yes,530
+531,Don't know,Yes,Yes,Yes,Yes,531
+532,No,No,No,No,Maybe,532
+533,Don't know,Some of them,Yes,Maybe,Maybe,533
+534,Don't know,No,No,No,Maybe,534
+535,No,Some of them,Some of them,No,No,535
+536,Don't know,Some of them,Yes,No,No,536
+537,Don't know,No,No,No,No,537
+538,Don't know,Some of them,Some of them,No,No,538
+539,Don't know,Some of them,Some of them,No,No,539
+540,Don't know,No,No,No,Maybe,540
+541,Yes,Yes,Yes,No,No,541
+542,Don't know,Yes,Yes,Yes,Yes,542
+543,Don't know,Some of them,Some of them,No,No,543
+544,Yes,Some of them,Some of them,Yes,No,544
+545,Don't know,No,Some of them,No,Yes,545
+546,Don't know,Yes,Yes,Maybe,Maybe,546
+547,Don't know,Some of them,Yes,No,Yes,547
+548,Yes,Some of them,Yes,No,Maybe,548
+549,Don't know,Some of them,Some of them,Maybe,Yes,549
+550,Don't know,Some of them,Some of them,No,Maybe,550
+551,Don't know,Some of them,Yes,Maybe,Yes,551
+552,Don't know,Some of them,Some of them,No,No,552
+553,Yes,Some of them,Some of them,No,No,553
+554,Don't know,Some of them,Some of them,No,Yes,554
+555,Don't know,Some of them,Some of them,No,No,555
+556,Yes,Some of them,Yes,No,Maybe,556
+557,Don't know,Some of them,No,No,Maybe,557
+558,Don't know,Some of them,Yes,Maybe,Yes,558
+559,Don't know,Some of them,Some of them,No,No,559
+560,Don't know,Some of them,No,No,No,560
+561,Don't know,Some of them,No,No,No,561
+562,Yes,Some of them,Yes,Maybe,Yes,562
+563,Don't know,Some of them,Some of them,No,No,563
+564,Don't know,Some of them,Some of them,No,No,564
+565,Yes,Some of them,No,No,Maybe,565
+566,Yes,Yes,Yes,No,Maybe,566
+567,Don't know,Yes,Some of them,Maybe,Yes,567
+568,Don't know,No,Some of them,No,Yes,568
+569,Don't know,Some of them,No,No,No,569
+570,Don't know,Some of them,Yes,No,No,570
+571,Yes,Yes,Yes,Maybe,Maybe,571
+572,Don't know,Some of them,Yes,No,No,572
+573,Yes,Yes,Yes,No,No,573
+574,Don't know,No,No,No,Maybe,574
+575,Don't know,Yes,Yes,No,No,575
+576,Don't know,Yes,Yes,No,Maybe,576
+577,Yes,Some of them,Yes,No,No,577
+578,Yes,Some of them,No,No,Yes,578
+579,Don't know,Some of them,Some of them,No,Maybe,579
+580,Don't know,Some of them,Some of them,No,No,580
+581,Don't know,Some of them,Yes,Maybe,Maybe,581
+582,Yes,Some of them,No,No,Maybe,582
+583,Yes,Some of them,Yes,Maybe,Maybe,583
+584,Yes,Some of them,Yes,No,No,584
+585,Don't know,Yes,Yes,Maybe,Maybe,585
+586,Don't know,Some of them,No,No,Maybe,586
+587,Yes,Some of them,Some of them,No,Maybe,587
+588,Don't know,Yes,Yes,No,Maybe,588
+589,Don't know,Yes,Yes,No,Maybe,589
+590,Don't know,Some of them,Some of them,No,Yes,590
+591,No,Some of them,Some of them,No,Maybe,591
+592,Don't know,Some of them,No,No,Maybe,592
+593,Don't know,Some of them,Some of them,No,No,593
+594,Don't know,Some of them,Yes,No,Maybe,594
+595,Don't know,Some of them,Some of them,No,No,595
+596,Don't know,No,No,No,No,596
+597,Don't know,No,No,No,Maybe,597
+598,Don't know,Yes,Yes,No,No,598
+599,Don't know,Some of them,No,No,No,599
+600,Don't know,Some of them,Yes,No,No,600
+601,Don't know,Yes,Yes,No,Maybe,601
+602,Yes,No,No,No,No,602
+603,Yes,Yes,Yes,No,No,603
+604,Yes,No,No,No,Maybe,604
+605,Don't know,Some of them,Some of them,No,No,605
+606,Don't know,Some of them,Some of them,No,Maybe,606
+607,Don't know,Some of them,No,No,Maybe,607
+608,Don't know,Yes,Yes,No,Maybe,608
+609,Don't know,No,No,No,Maybe,609
+610,Yes,Some of them,Yes,Maybe,Maybe,610
+611,Don't know,Some of them,Yes,Maybe,Maybe,611
+612,Don't know,Some of them,No,No,No,612
+613,Don't know,Some of them,No,No,Yes,613
+614,Don't know,Some of them,No,No,No,614
+615,Don't know,Yes,Yes,No,Maybe,615
+616,Don't know,Some of them,Some of them,Maybe,Maybe,616
+617,Yes,Some of them,No,No,Maybe,617
+618,Don't know,Some of them,Some of them,Maybe,Maybe,618
+619,Yes,Some of them,Yes,Maybe,Yes,619
+620,Don't know,Some of them,Some of them,No,Maybe,620
+621,Don't know,Some of them,Yes,Maybe,Yes,621
+622,Don't know,Some of them,Some of them,No,Yes,622
+623,Yes,No,No,No,No,623
+624,Don't know,Some of them,Some of them,No,No,624
+625,Don't know,No,Some of them,No,No,625
+626,Don't know,Some of them,Some of them,No,Maybe,626
+627,Yes,Some of them,Some of them,No,No,627
+628,Yes,Some of them,No,No,Maybe,628
+629,Don't know,Some of them,Some of them,No,No,629
+630,Don't know,No,Some of them,No,Maybe,630
+631,Don't know,Some of them,Some of them,No,No,631
+632,No,Yes,Yes,Maybe,Maybe,632
+633,Don't know,Some of them,Yes,No,No,633
+634,Don't know,Some of them,Yes,No,No,634
+635,Don't know,Some of them,Some of them,Yes,Yes,635
+636,Don't know,Some of them,Yes,Maybe,Maybe,636
+637,Yes,Some of them,Yes,No,Maybe,637
+638,Yes,Some of them,Yes,No,No,638
+639,Don't know,No,No,No,No,639
+640,Yes,Some of them,Yes,Maybe,Maybe,640
+641,Don't know,Some of them,Some of them,No,No,641
+642,No,Some of them,Some of them,No,No,642
+643,Yes,No,No,No,Maybe,643
+644,No,Some of them,No,No,No,644
+645,Don't know,No,No,No,Maybe,645
+646,Don't know,Some of them,Some of them,No,Maybe,646
+647,Don't know,Some of them,Some of them,No,No,647
+648,Don't know,Yes,Yes,No,No,648
+649,Don't know,No,Some of them,No,Yes,649
+650,Don't know,Some of them,Some of them,No,Maybe,650
+651,Don't know,No,No,No,No,651
+652,Don't know,Some of them,Yes,Yes,Yes,652
+653,Don't know,No,No,No,No,653
+654,Don't know,No,No,No,No,654
+655,Don't know,Yes,Yes,No,Yes,655
+656,No,Some of them,No,No,No,656
+657,Don't know,Some of them,Yes,No,Maybe,657
+658,Yes,Some of them,Yes,No,Yes,658
+659,Don't know,Some of them,Yes,Maybe,Maybe,659
+660,Yes,Some of them,Some of them,No,Maybe,660
+661,Don't know,Some of them,Yes,Maybe,Maybe,661
+662,Don't know,Some of them,Some of them,No,No,662
+663,Don't know,Some of them,Yes,Maybe,Maybe,663
+664,Yes,Some of them,Some of them,No,No,664
+665,Don't know,Some of them,No,No,No,665
+666,Don't know,Some of them,Some of them,Maybe,Maybe,666
+667,Don't know,No,No,No,No,667
+668,Don't know,No,No,No,No,668
+669,Don't know,Some of them,Yes,Maybe,Maybe,669
+670,Don't know,Some of them,No,No,Maybe,670
+671,Don't know,No,No,No,Maybe,671
+672,Don't know,Some of them,Some of them,No,No,672
+673,Don't know,Some of them,No,No,No,673
+674,Don't know,Some of them,Some of them,No,No,674
+675,Don't know,Some of them,Yes,No,Maybe,675
+676,Don't know,Some of them,Yes,Maybe,Maybe,676
+677,Don't know,No,No,No,No,677
+678,Yes,Yes,Yes,Yes,Yes,678
+679,Don't know,Yes,Yes,No,Maybe,679
+680,Don't know,Some of them,Some of them,No,Maybe,680
+681,Don't know,Some of them,Yes,No,No,681
+682,Don't know,No,No,No,Maybe,682
+683,Yes,No,Yes,No,Maybe,683
+684,Don't know,Some of them,No,No,No,684
+685,Don't know,No,No,No,No,685
+686,Yes,Some of them,Yes,No,No,686
+687,Yes,Some of them,Yes,No,No,687
+688,Don't know,Some of them,No,No,No,688
+689,Yes,Yes,Yes,Maybe,Maybe,689
+690,Don't know,Some of them,Some of them,No,No,690
+691,Yes,Yes,Yes,No,Maybe,691
+692,Yes,Some of them,No,Maybe,Maybe,692
+693,Don't know,Some of them,Yes,No,No,693
+694,Don't know,No,No,No,Yes,694
+695,Yes,No,Yes,No,No,695
+696,Don't know,Some of them,Some of them,No,Maybe,696
+697,Don't know,No,No,No,Maybe,697
+698,Don't know,Some of them,No,No,No,698
+699,Don't know,Some of them,No,No,No,699
+700,Don't know,Some of them,Yes,No,No,700
+701,No,Yes,Yes,No,No,701
+702,Yes,Yes,Yes,No,No,702
+703,Yes,Some of them,Yes,No,Maybe,703
+704,Don't know,No,No,No,No,704
+705,Don't know,Yes,Yes,No,Maybe,705
+706,Don't know,Some of them,No,No,No,706
+707,Don't know,Yes,Yes,Yes,Yes,707
+708,Don't know,Some of them,No,No,No,708
+709,Yes,Yes,Yes,Maybe,Maybe,709
+710,Don't know,Some of them,Yes,No,Maybe,710
+711,Don't know,Yes,Yes,No,No,711
+712,Don't know,Some of them,Yes,No,Maybe,712
+713,Yes,Some of them,Some of them,No,No,713
+714,Don't know,Some of them,No,No,No,714
+715,Don't know,No,No,No,Maybe,715
+716,Yes,Some of them,Yes,Yes,Yes,716
+717,Yes,Yes,Yes,Maybe,Maybe,717
+718,Don't know,Some of them,Yes,No,Maybe,718
+719,Don't know,Yes,Yes,No,No,719
+720,Don't know,Some of them,Some of them,No,Maybe,720
+721,No,Some of them,No,No,Yes,721
+722,Don't know,Yes,Yes,No,Maybe,722
+723,Don't know,Some of them,Yes,No,No,723
+724,Don't know,Some of them,Yes,Maybe,Maybe,724
+725,No,Some of them,Some of them,No,Maybe,725
+726,Don't know,Some of them,Some of them,No,Maybe,726
+727,No,No,No,No,No,727
+728,Don't know,Yes,Yes,No,No,728
+729,Yes,Yes,No,No,Maybe,729
+730,Don't know,Yes,Yes,Maybe,Yes,730
+731,Don't know,Yes,Some of them,No,No,731
+732,Don't know,Yes,Yes,No,No,732
+733,Yes,Yes,Yes,No,No,733
+734,Don't know,Yes,Yes,No,No,734
+735,Don't know,Yes,Some of them,No,Yes,735
+736,Yes,Some of them,Yes,No,Maybe,736
+737,Don't know,Some of them,No,No,Maybe,737
+738,Yes,Yes,Some of them,No,Yes,738
+739,Don't know,No,No,No,Maybe,739
+740,Yes,Some of them,Yes,No,Maybe,740
+741,Don't know,No,No,No,No,741
+742,Don't know,No,Some of them,No,Yes,742
+743,Don't know,Some of them,Yes,Maybe,Yes,743
+744,Don't know,Some of them,Some of them,Maybe,Maybe,744
+745,Don't know,Some of them,Some of them,No,Yes,745
+746,Yes,Some of them,Yes,Maybe,Maybe,746
+747,No,Some of them,No,Maybe,Maybe,747
+748,Yes,Some of them,Yes,No,No,748
+749,Don't know,Some of them,Yes,No,Yes,749
+750,Don't know,Some of them,Yes,No,No,750
+751,Yes,Some of them,No,No,Maybe,751
+752,Don't know,Some of them,Some of them,No,No,752
+753,Yes,Some of them,Yes,Maybe,Maybe,753
+754,Yes,Some of them,Yes,No,No,754
+755,Don't know,Some of them,Yes,No,Maybe,755
+756,Don't know,No,No,No,No,756
+757,Don't know,No,No,No,Maybe,757
+758,Yes,No,Some of them,Maybe,Maybe,758
+759,No,Some of them,Some of them,No,Yes,759
+760,Yes,No,No,No,No,760
+761,Don't know,Yes,Some of them,No,Maybe,761
+762,Don't know,Yes,Yes,Maybe,Maybe,762
+763,No,No,No,No,No,763
+764,Don't know,Some of them,No,No,Maybe,764
+765,Yes,Some of them,Yes,Maybe,Maybe,765
+766,Yes,Some of them,No,No,No,766
+767,Don't know,Some of them,No,Yes,Yes,767
+768,Don't know,Some of them,Some of them,No,No,768
+769,Don't know,Some of them,Yes,Maybe,Yes,769
+770,Don't know,Some of them,Some of them,No,No,770
+771,Yes,Yes,Yes,No,No,771
+772,Don't know,Some of them,Some of them,No,Yes,772
+773,Don't know,Some of them,Some of them,Yes,Yes,773
+774,Yes,Some of them,Yes,No,Maybe,774
+775,Yes,Some of them,Yes,No,Maybe,775
+776,Don't know,No,No,No,Maybe,776
+777,Don't know,Yes,Some of them,Yes,Yes,777
+778,Don't know,Some of them,Yes,No,No,778
+779,Don't know,Yes,Yes,Maybe,Maybe,779
+780,Don't know,Yes,Yes,Yes,Yes,780
+781,Yes,Yes,Yes,Yes,Yes,781
+782,Yes,Some of them,Yes,No,Maybe,782
+783,Don't know,Yes,Yes,No,Maybe,783
+784,Don't know,Some of them,Yes,No,No,784
+785,Yes,Some of them,Some of them,No,No,785
+786,Yes,No,Yes,No,Maybe,786
+787,Yes,Some of them,Some of them,No,Maybe,787
+788,Don't know,Yes,Yes,No,No,788
+789,Yes,Some of them,Some of them,No,Maybe,789
+790,Don't know,Some of them,Yes,No,Maybe,790
+791,Don't know,Some of them,Some of them,No,No,791
+792,Yes,Some of them,Some of them,No,Yes,792
+793,Yes,No,Some of them,No,Yes,793
+794,Don't know,Some of them,Some of them,No,Maybe,794
+795,Don't know,Some of them,Yes,No,Maybe,795
+796,Don't know,Some of them,Yes,No,No,796
+797,Don't know,Some of them,Yes,Maybe,Yes,797
+798,Don't know,Some of them,Yes,No,Yes,798
+799,Don't know,Some of them,No,No,Maybe,799
+800,Yes,Yes,Yes,No,Maybe,800
+801,Don't know,Some of them,Yes,Maybe,Maybe,801
+802,Don't know,No,No,No,No,802
+803,Yes,Some of them,No,No,No,803
+804,Don't know,Some of them,Some of them,Maybe,Maybe,804
+805,Don't know,Some of them,Some of them,No,No,805
+806,Yes,Some of them,Yes,No,No,806
+807,Don't know,No,Some of them,No,Maybe,807
+808,Don't know,Yes,Yes,Maybe,Maybe,808
+809,Don't know,Some of them,Some of them,No,Maybe,809
+810,Don't know,Some of them,No,No,Maybe,810
+811,Don't know,Some of them,Some of them,No,Maybe,811
+812,Yes,Some of them,Some of them,No,Yes,812
+813,Don't know,Some of them,Some of them,No,No,813
+814,Don't know,Some of them,No,No,No,814
+815,Don't know,No,No,No,Yes,815
+816,Yes,Some of them,Yes,No,No,816
+817,No,Some of them,No,No,No,817
+818,Yes,Some of them,Some of them,Maybe,Maybe,818
+819,Don't know,Some of them,Some of them,Maybe,Yes,819
+820,Don't know,Some of them,No,No,No,820
+821,Don't know,Some of them,Some of them,Maybe,Yes,821
+822,No,No,No,No,No,822
+823,Don't know,Some of them,Yes,No,Maybe,823
+824,Don't know,Some of them,Yes,No,Maybe,824
+825,No,No,Some of them,No,No,825
+826,Don't know,Some of them,Yes,Maybe,Maybe,826
+827,Don't know,Some of them,No,No,No,827
+828,Don't know,Some of them,No,No,Maybe,828
+829,Yes,Some of them,Yes,No,No,829
+830,Yes,Some of them,No,No,No,830
+831,Don't know,Some of them,Some of them,No,Maybe,831
+832,Yes,Some of them,Yes,No,No,832
+833,Don't know,Yes,Yes,No,Maybe,833
+834,Don't know,No,No,No,Yes,834
+835,Don't know,Some of them,Yes,No,Maybe,835
+836,Yes,Some of them,Yes,No,Yes,836
+837,Don't know,No,No,No,No,837
+838,Don't know,Some of them,Yes,No,Maybe,838
+839,Yes,Some of them,Yes,No,No,839
+840,Don't know,Some of them,Yes,No,No,840
+841,Don't know,Yes,Yes,No,Maybe,841
+842,Don't know,Yes,Yes,Maybe,Maybe,842
+843,Don't know,Some of them,No,No,No,843
+844,Yes,Some of them,Some of them,No,No,844
+845,Don't know,Some of them,No,No,No,845
+846,Yes,Some of them,No,No,No,846
+847,Don't know,Yes,No,No,No,847
+848,Yes,Yes,Yes,No,No,848
+849,Yes,Some of them,Some of them,No,Maybe,849
+850,Don't know,No,No,No,Maybe,850
+851,Yes,No,Some of them,No,No,851
+852,Yes,Some of them,Some of them,No,Maybe,852
+853,Don't know,Some of them,Some of them,No,Maybe,853
+854,Don't know,Some of them,Some of them,No,No,854
+855,Yes,Some of them,Yes,Maybe,Yes,855
+856,Yes,Yes,Yes,No,No,856
+857,Yes,Some of them,Yes,No,Maybe,857
+858,Don't know,Some of them,Yes,No,No,858
+859,No,Some of them,No,No,No,859
+860,No,Some of them,No,No,No,860
+861,Don't know,Yes,Yes,Maybe,Maybe,861
+862,Don't know,Some of them,Some of them,Maybe,Maybe,862
+863,Don't know,Some of them,Yes,No,Maybe,863
+864,Yes,No,No,No,Maybe,864
+865,No,No,No,No,Yes,865
+866,Don't know,Some of them,Some of them,No,No,866
+867,Don't know,Some of them,Yes,Maybe,Maybe,867
+868,Yes,Some of them,Some of them,Maybe,Maybe,868
+869,Don't know,Some of them,Yes,No,Maybe,869
+870,Yes,Yes,Yes,Yes,Yes,870
+871,Don't know,Some of them,Some of them,No,Yes,871
+872,Yes,Some of them,Some of them,No,Yes,872
+873,Don't know,Some of them,Yes,No,No,873
+874,Yes,No,No,No,No,874
+875,Don't know,No,No,No,Maybe,875
+876,Yes,Some of them,Some of them,No,Maybe,876
+877,Don't know,No,Some of them,No,Maybe,877
+878,Don't know,No,No,No,Maybe,878
+879,Yes,No,No,No,No,879
+880,Don't know,Some of them,Some of them,No,No,880
+881,Yes,Some of them,Yes,Maybe,Maybe,881
+882,Don't know,Some of them,Yes,No,No,882
+883,Don't know,Some of them,Yes,Yes,Yes,883
+884,Don't know,Some of them,No,No,Maybe,884
+885,Don't know,No,No,No,No,885
+886,Don't know,Some of them,Yes,No,No,886
+887,Don't know,Some of them,Yes,No,Maybe,887
+888,Yes,Some of them,Yes,No,No,888
+889,Don't know,Some of them,Yes,Maybe,Maybe,889
+890,Don't know,Some of them,No,No,Maybe,890
+891,Don't know,Some of them,No,No,Maybe,891
+892,Don't know,Some of them,Yes,No,No,892
+893,Don't know,Some of them,No,Maybe,Maybe,893
+894,Don't know,Some of them,Some of them,No,Yes,894
+895,Don't know,Some of them,Yes,No,No,895
+896,Yes,Some of them,Yes,No,No,896
+897,Yes,Some of them,Some of them,No,No,897
+898,Yes,Some of them,Yes,No,Maybe,898
+899,Don't know,Some of them,Yes,No,Maybe,899
+900,Don't know,No,No,No,Maybe,900
+901,Don't know,Some of them,No,No,No,901
+902,Yes,Some of them,Some of them,No,No,902
+903,Yes,No,No,No,Maybe,903
+904,Yes,Some of them,Some of them,Maybe,Maybe,904
+905,Yes,No,No,No,Maybe,905
+906,Don't know,No,No,No,No,906
+907,Don't know,No,No,No,No,907
+908,Don't know,No,No,No,Maybe,908
+909,Yes,Yes,Yes,No,Maybe,909
+910,Don't know,Some of them,No,No,Maybe,910
+911,Don't know,Some of them,No,No,No,911
+912,Don't know,Yes,Yes,No,No,912
+913,Don't know,Yes,Yes,No,No,913
+914,Yes,Some of them,Yes,No,No,914
+915,Don't know,Some of them,No,No,Maybe,915
+916,Yes,Some of them,Some of them,Maybe,Maybe,916
+917,Yes,Some of them,Some of them,No,No,917
+918,Yes,Some of them,Yes,Maybe,Yes,918
+919,Don't know,No,No,No,No,919
+920,Don't know,Some of them,Yes,No,Yes,920
+921,Yes,Some of them,Some of them,No,No,921
+922,Don't know,Some of them,Some of them,No,No,922
+923,Yes,Some of them,Some of them,No,Yes,923
+924,Don't know,Yes,Yes,Yes,Yes,924
+925,Don't know,No,No,No,No,925
+926,Don't know,No,Some of them,No,Maybe,926
+927,Don't know,Some of them,Some of them,Maybe,Maybe,927
+928,Yes,Yes,Yes,Maybe,Maybe,928
+929,Don't know,Some of them,Yes,No,No,929
+930,Yes,Some of them,Yes,No,Maybe,930
+931,Don't know,Some of them,Yes,No,Maybe,931
+932,Yes,Some of them,No,No,Maybe,932
+933,Don't know,No,Some of them,No,Maybe,933
+934,Yes,Some of them,Some of them,Yes,Yes,934
+935,Yes,No,No,No,No,935
+936,Don't know,No,No,No,Maybe,936
+937,Don't know,Yes,Yes,Maybe,Maybe,937
+938,Yes,Some of them,Some of them,No,No,938
+939,Yes,Some of them,Yes,No,Maybe,939
+940,Don't know,Some of them,No,No,No,940
+941,Yes,Some of them,Some of them,No,Maybe,941
+942,Yes,Some of them,Yes,No,No,942
+943,Don't know,Some of them,No,No,No,943
+944,Don't know,Some of them,No,No,Maybe,944
+945,Yes,Some of them,No,No,No,945
+946,Don't know,Some of them,Some of them,No,No,946
+947,Don't know,Yes,Yes,Maybe,Yes,947
+948,Don't know,Some of them,Some of them,No,No,948
+949,Yes,Some of them,Some of them,No,No,949
+950,Yes,Yes,Yes,Maybe,Maybe,950
+951,No,Some of them,Yes,No,Maybe,951
+952,Don't know,Some of them,Yes,No,Maybe,952
+953,Don't know,Some of them,No,No,No,953
+954,Yes,Some of them,Yes,Maybe,Maybe,954
+955,Yes,Some of them,Yes,Yes,Yes,955
+956,Don't know,No,No,No,No,956
+957,Yes,Yes,Some of them,No,Maybe,957
+958,Don't know,Some of them,Some of them,No,Maybe,958
+959,Don't know,Some of them,Yes,Maybe,Maybe,959
+960,Don't know,No,Yes,No,Maybe,960
+961,Yes,Some of them,Yes,Yes,Yes,961
+962,Don't know,Yes,No,No,Maybe,962
+963,Don't know,Some of them,Some of them,No,Maybe,963
+964,Don't know,No,Some of them,No,Maybe,964
+965,No,Some of them,Some of them,No,Maybe,965
+966,Don't know,Some of them,Yes,No,Maybe,966
+967,Don't know,Yes,Yes,No,No,967
+968,Don't know,Some of them,No,No,Maybe,968
+969,Yes,Some of them,Yes,No,No,969
+970,Don't know,No,No,No,Maybe,970
+971,No,No,No,No,No,971
+972,Don't know,Yes,Yes,No,Maybe,972
+973,Yes,Yes,Yes,No,No,973
+974,Don't know,Some of them,Yes,Maybe,Yes,974
+975,Don't know,Some of them,Some of them,Maybe,Maybe,975
+976,Yes,Some of them,Some of them,No,Maybe,976
+977,Yes,No,Some of them,No,Maybe,977
+978,No,No,No,No,No,978
+979,Don't know,Yes,Yes,No,No,979
+980,Don't know,Some of them,Yes,No,Maybe,980
+981,Yes,Some of them,Some of them,Maybe,Maybe,981
+982,No,Some of them,No,No,No,982
+983,Don't know,Some of them,Some of them,No,Yes,983
+984,Yes,Yes,Yes,Maybe,Maybe,984
+985,Don't know,Yes,Yes,No,Yes,985
+986,Don't know,No,No,No,No,986
+987,No,No,No,No,Yes,987
+988,Yes,No,No,No,Maybe,988
+989,Yes,Yes,Yes,Yes,Yes,989
+990,Yes,Some of them,Yes,No,No,990
+991,Don't know,Yes,Yes,No,No,991
+992,Yes,Some of them,No,No,No,992
+993,Yes,No,No,No,No,993
+994,Don't know,No,No,No,Maybe,994
+995,Don't know,Some of them,Yes,No,No,995
+996,Yes,Some of them,Yes,No,No,996
+997,Don't know,No,No,No,No,997
+998,Don't know,No,No,No,No,998
+999,Don't know,No,No,No,No,999
+1000,Yes,Yes,Yes,Maybe,Maybe,1000
+1001,Don't know,Some of them,Yes,No,Maybe,1001
+1002,Yes,Yes,Yes,Maybe,Maybe,1002
+1003,Don't know,Some of them,No,Maybe,Maybe,1003
+1004,Yes,Some of them,Some of them,No,Maybe,1004
+1005,Don't know,Yes,Yes,No,No,1005
+1006,Yes,Yes,Yes,Yes,Yes,1006
+1007,Don't know,Some of them,No,No,Maybe,1007
+1008,Yes,Some of them,Yes,Maybe,Yes,1008
+1009,Don't know,No,No,No,No,1009
+1010,Yes,No,Yes,No,No,1010
+1011,Yes,No,Some of them,No,No,1011
+1012,Don't know,Some of them,Some of them,No,No,1012
+1013,Don't know,Some of them,Yes,No,No,1013
+1014,Yes,Some of them,Some of them,No,Maybe,1014
+1015,Yes,Some of them,Yes,Maybe,Yes,1015
+1016,Don't know,Yes,Yes,No,Maybe,1016
+1017,Don't know,Some of them,Some of them,No,No,1017
+1018,Don't know,Some of them,No,No,Maybe,1018
+1019,Don't know,Some of them,Some of them,No,Yes,1019
+1020,Don't know,Some of them,Some of them,No,Maybe,1020
+1021,Yes,Some of them,Some of them,No,No,1021
+1022,Don't know,Yes,Yes,No,Maybe,1022
+1023,Don't know,No,No,No,Maybe,1023
+1024,Don't know,Some of them,Some of them,No,Maybe,1024
+1025,Don't know,Some of them,Some of them,No,No,1025
+1026,Don't know,Some of them,Yes,Maybe,No,1026
+1027,Don't know,Some of them,Yes,Maybe,Maybe,1027
+1028,Don't know,No,No,No,No,1028
+1029,Don't know,Some of them,Yes,No,No,1029
+1030,Don't know,Some of them,Yes,No,No,1030
+1031,Yes,Yes,Yes,Maybe,Maybe,1031
+1032,Don't know,Some of them,Some of them,No,Maybe,1032
+1033,No,No,No,No,Yes,1033
+1034,Don't know,No,No,No,Maybe,1034
+1035,Don't know,No,Some of them,No,No,1035
+1036,Yes,Yes,Yes,No,Maybe,1036
+1037,Yes,Some of them,No,No,No,1037
+1038,Don't know,Some of them,Yes,No,Maybe,1038
+1039,Don't know,No,No,No,No,1039
+1040,Don't know,Some of them,Some of them,No,Maybe,1040
+1041,Yes,Some of them,Yes,No,No,1041
+1042,Don't know,No,No,No,Maybe,1042
+1043,Yes,Some of them,No,No,Maybe,1043
+1044,Don't know,Some of them,No,No,Yes,1044
+1045,Yes,Some of them,No,No,Maybe,1045
+1046,Don't know,Some of them,Yes,No,No,1046
+1047,Don't know,Some of them,Some of them,No,No,1047
+1048,Yes,Some of them,Some of them,No,No,1048
+1049,Yes,Yes,Yes,No,Maybe,1049
+1050,Don't know,Some of them,Yes,No,Maybe,1050
+1051,Don't know,No,Some of them,No,Maybe,1051
+1052,Yes,Some of them,Some of them,No,Maybe,1052
+1053,Don't know,Some of them,Some of them,No,No,1053
+1054,Don't know,Some of them,No,No,Maybe,1054
+1055,Yes,Some of them,Yes,No,No,1055
+1056,Don't know,Some of them,Yes,Maybe,Maybe,1056
+1057,No,Some of them,Yes,No,Maybe,1057
+1058,Don't know,Some of them,No,No,Maybe,1058
+1059,Yes,Some of them,Some of them,No,Yes,1059
+1060,Don't know,Some of them,Yes,Maybe,Maybe,1060
+1061,Yes,Some of them,No,No,Maybe,1061
+1062,Yes,No,No,No,No,1062
+1063,Don't know,Some of them,No,No,Maybe,1063
+1064,Don't know,Yes,Yes,No,No,1064
+1065,Yes,Some of them,Yes,No,Maybe,1065
+1066,Don't know,No,Some of them,No,Maybe,1066
+1067,Don't know,No,Yes,No,No,1067
+1068,Yes,Some of them,Yes,No,Maybe,1068
+1069,Don't know,Some of them,No,No,Maybe,1069
+1070,Don't know,Some of them,Some of them,No,Maybe,1070
+1071,Don't know,No,No,No,No,1071
+1072,Don't know,Some of them,No,No,No,1072
+1073,Don't know,Some of them,Yes,No,No,1073
+1074,Don't know,Some of them,No,No,Maybe,1074
+1075,Yes,No,No,No,Maybe,1075
+1076,Don't know,Some of them,Some of them,No,Maybe,1076
+1077,Yes,Yes,Some of them,No,Maybe,1077
+1078,Don't know,No,No,No,Maybe,1078
+1079,Yes,Some of them,Yes,No,Maybe,1079
+1080,Yes,Yes,Yes,No,Maybe,1080
+1081,Don't know,Yes,Yes,Maybe,No,1081
+1082,Don't know,No,No,No,Maybe,1082
+1083,Don't know,Some of them,Some of them,No,No,1083
+1084,Yes,Some of them,Some of them,No,Maybe,1084
+1085,Yes,Yes,Yes,Maybe,Maybe,1085
+1086,Don't know,Yes,Yes,No,No,1086
+1087,Don't know,Some of them,No,No,No,1087
+1088,Yes,Some of them,Yes,No,Maybe,1088
+1089,Don't know,Some of them,Some of them,No,No,1089
+1090,Yes,Some of them,Some of them,No,Maybe,1090
+1091,Don't know,Some of them,Some of them,No,Maybe,1091
+1092,Don't know,Yes,Yes,No,Yes,1092
+1093,Yes,No,No,No,No,1093
+1094,Yes,No,Yes,No,No,1094
+1095,No,No,No,No,No,1095
+1096,Don't know,Yes,Yes,Maybe,Yes,1096
+1097,Don't know,Some of them,Some of them,No,Maybe,1097
+1098,Yes,Some of them,Yes,No,Maybe,1098
+1099,Don't know,Yes,Some of them,No,No,1099
+1100,Don't know,Some of them,Yes,Maybe,Yes,1100
+1101,Don't know,Some of them,No,No,Maybe,1101
+1102,No,No,No,No,Maybe,1102
+1103,Don't know,Yes,Some of them,No,No,1103
+1104,Don't know,Some of them,No,No,Maybe,1104
+1105,Don't know,No,Some of them,No,Maybe,1105
+1106,Don't know,Some of them,Yes,No,No,1106
+1107,Don't know,Yes,Yes,Maybe,Yes,1107
+1108,Don't know,No,No,No,Maybe,1108
+1109,No,Some of them,Some of them,Maybe,Maybe,1109
+1110,Yes,Some of them,Yes,Maybe,Maybe,1110
+1111,Yes,Yes,Some of them,No,Yes,1111
+1112,Don't know,Some of them,No,Maybe,Yes,1112
+1113,Don't know,Yes,Yes,Maybe,Yes,1113
+1114,Don't know,Some of them,Some of them,No,Maybe,1114
+1115,Yes,No,No,No,Maybe,1115
+1116,Don't know,Yes,Some of them,No,Maybe,1116
+1117,Don't know,No,Some of them,No,Maybe,1117
+1118,Yes,No,Yes,No,Yes,1118
+1119,Don't know,No,No,No,No,1119
+1120,Yes,Some of them,Yes,No,Yes,1120
+1121,Don't know,Some of them,Some of them,No,No,1121
+1122,Don't know,Some of them,Some of them,No,Maybe,1122
+1123,Don't know,Some of them,Some of them,No,Maybe,1123
+1124,Yes,No,No,No,No,1124
+1125,Don't know,Yes,Yes,Maybe,Yes,1125
+1126,Don't know,Some of them,Some of them,Maybe,Maybe,1126
+1127,Yes,Yes,Yes,Yes,Yes,1127
+1128,Yes,Some of them,Yes,No,Maybe,1128
+1129,Yes,No,No,No,Yes,1129
+1130,Don't know,Some of them,Some of them,No,Yes,1130
+1131,Don't know,No,No,No,No,1131
+1132,Yes,Some of them,No,No,No,1132
+1133,No,No,No,No,Maybe,1133
+1134,No,No,No,No,Maybe,1134
+1135,Yes,Yes,Yes,Maybe,Maybe,1135
+1136,Yes,Some of them,Yes,No,Maybe,1136
+1137,Don't know,Some of them,Some of them,Maybe,Maybe,1137
+1138,Don't know,No,No,No,No,1138
+1139,Don't know,Some of them,No,No,No,1139
+1140,Yes,Yes,Yes,Yes,Yes,1140
+1141,Don't know,No,No,No,Yes,1141
+1142,Don't know,No,No,No,No,1142
+1143,Yes,No,No,No,Yes,1143
+1144,Yes,Yes,Yes,No,Yes,1144
+1145,Don't know,No,No,No,No,1145
+1146,Don't know,Some of them,Yes,Maybe,Yes,1146
+1147,Yes,Some of them,Yes,Maybe,Maybe,1147
+1148,Don't know,No,Some of them,No,Yes,1148
+1149,Don't know,No,Some of them,No,Maybe,1149
+1150,Yes,Some of them,Some of them,No,No,1150
+1151,Don't know,Some of them,No,No,Maybe,1151
+1152,Don't know,Yes,Yes,No,Maybe,1152
+1153,Yes,Some of them,Yes,Maybe,Maybe,1153
+1154,Don't know,Some of them,Some of them,No,Maybe,1154
+1155,Don't know,Yes,Yes,Maybe,Maybe,1155
+1156,Don't know,Some of them,Some of them,No,No,1156
+1157,Don't know,Some of them,Some of them,No,No,1157
+1158,Don't know,No,No,No,No,1158
+1159,Don't know,No,No,No,No,1159
+1160,Don't know,Some of them,Some of them,No,Maybe,1160
+1161,Don't know,Some of them,No,No,No,1161
+1162,Don't know,No,No,No,No,1162
+1163,Don't know,Some of them,Some of them,Maybe,Maybe,1163
+1164,Yes,Some of them,Some of them,No,Maybe,1164
+1165,Don't know,Yes,Yes,No,No,1165
+1166,Don't know,Some of them,No,No,Maybe,1166
+1167,Don't know,Some of them,Some of them,No,Yes,1167
+1168,No,No,No,No,Maybe,1168
+1169,Don't know,Some of them,No,No,No,1169
+1170,Don't know,Some of them,Yes,Maybe,Yes,1170
+1171,Don't know,No,No,No,No,1171
+1172,Yes,Yes,Yes,No,Maybe,1172
+1173,Don't know,Yes,Yes,Yes,Yes,1173
+1174,Don't know,Some of them,No,No,Maybe,1174
+1175,Don't know,Some of them,Yes,No,No,1175
+1176,Don't know,No,No,No,Maybe,1176
+1177,Don't know,Some of them,Yes,No,Yes,1177
+1178,Don't know,Some of them,Some of them,Maybe,Maybe,1178
+1179,Don't know,Yes,Some of them,Maybe,No,1179
+1180,Yes,Some of them,No,No,No,1180
+1181,Yes,Some of them,No,No,Maybe,1181
+1182,Don't know,Some of them,Yes,No,No,1182
+1183,Yes,Some of them,Some of them,No,No,1183
+1184,Don't know,Some of them,Some of them,No,No,1184
+1185,Don't know,Some of them,Yes,No,No,1185
+1186,Don't know,No,No,No,No,1186
+1187,Don't know,Some of them,Some of them,No,No,1187
+1188,Yes,Some of them,Some of them,No,No,1188
+1189,Yes,Some of them,No,No,No,1189
+1190,Yes,Some of them,Some of them,No,No,1190
+1191,Yes,No,No,No,Maybe,1191
+1192,Don't know,Some of them,Yes,No,Yes,1192
+1193,Yes,Some of them,Yes,Yes,Maybe,1193
+1194,Don't know,Some of them,Yes,Yes,Yes,1194
+1195,Yes,Some of them,Some of them,No,No,1195
+1196,No,Some of them,No,No,Maybe,1196
+1197,Don't know,Some of them,Yes,No,Maybe,1197
+1198,Don't know,Some of them,No,No,No,1198
+1199,Don't know,Some of them,Yes,No,No,1199
+1200,Don't know,No,No,No,Maybe,1200
+1201,Don't know,Some of them,No,No,No,1201
+1202,No,Yes,Yes,No,Maybe,1202
+1203,Don't know,Some of them,Yes,No,Maybe,1203
+1204,Don't know,Some of them,Yes,No,No,1204
+1205,Don't know,Some of them,Yes,No,Maybe,1205
+1206,Don't know,Some of them,Yes,Maybe,Yes,1206
+1207,No,Some of them,Yes,No,No,1207
+1208,Don't know,Some of them,Yes,Maybe,Maybe,1208
+1209,Don't know,No,No,No,Maybe,1209
+1210,Don't know,No,No,No,No,1210
+1211,Don't know,Yes,Some of them,No,No,1211
+1212,Yes,Some of them,Yes,No,Maybe,1212
+1213,Don't know,Some of them,No,No,Maybe,1213
+1214,Yes,Some of them,No,No,Maybe,1214
+1215,Don't know,Some of them,Some of them,No,No,1215
+1216,Don't know,Some of them,Yes,No,No,1216
+1217,No,Some of them,Some of them,No,No,1217
+1218,Don't know,Some of them,Some of them,No,No,1218
+1219,Yes,Yes,Yes,No,No,1219
+1220,Don't know,Some of them,No,No,No,1220
+1221,Don't know,Some of them,Yes,Yes,Yes,1221
+1222,No,Yes,Yes,Yes,Yes,1222
+1223,Don't know,Some of them,Some of them,No,Maybe,1223
+1224,Don't know,Some of them,No,No,Maybe,1224
+1225,Don't know,Yes,Some of them,No,Maybe,1225
+1226,Don't know,No,Some of them,No,No,1226
+1227,Yes,Some of them,Some of them,No,No,1227
+1228,Don't know,Some of them,Some of them,No,Maybe,1228
+1229,Yes,No,No,No,No,1229
+1230,Yes,Yes,Yes,Maybe,Maybe,1230
+1231,Don't know,Some of them,Some of them,No,Maybe,1231
+1232,Yes,Yes,Yes,Yes,Yes,1232
+1233,Don't know,Yes,Yes,No,Maybe,1233
+1234,Don't know,No,No,No,Maybe,1234
+1235,Don't know,Yes,Some of them,No,No,1235
+1236,Don't know,Some of them,No,No,Maybe,1236
+1237,Yes,No,No,No,No,1237
+1238,Yes,Some of them,Yes,No,No,1238
+1239,Don't know,Yes,Yes,Maybe,Yes,1239
+1240,Yes,Some of them,No,No,No,1240
+1241,Don't know,Some of them,No,No,No,1241
+1242,Don't know,No,No,No,Maybe,1242
+1243,Don't know,Some of them,Yes,No,No,1243
+1244,Don't know,Some of them,Yes,No,Yes,1244
+1245,Yes,No,Yes,No,Maybe,1245
+1246,Don't know,No,Some of them,Maybe,Yes,1246
+1247,No,Some of them,No,No,Maybe,1247
+1248,Don't know,No,No,No,No,1248
+1249,Yes,Yes,Yes,Maybe,Maybe,1249
+1250,Don't know,Some of them,Yes,Maybe,Maybe,1250
+1251,Don't know,Some of them,Yes,No,Yes,1251
+1252,Yes,Some of them,No,No,Maybe,1252
+1253,Don't know,Some of them,Some of them,No,No,1253
+1254,Don't know,Some of them,Some of them,No,No,1254
+1255,Yes,Some of them,Yes,No,No,1255
+1256,Don't know,No,No,No,No,1256
+1257,Don't know,No,No,No,No,1257
+1258,Yes,Some of them,No,No,No,1258

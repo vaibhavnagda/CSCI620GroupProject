@@ -1,0 +1,1260 @@
+person_id,age,gender,country,state,self_employed,remote_work,survey_id
+0,37,Female,United States,IL,NA,No,0
+1,44,M,United States,IN,NA,No,1
+2,32,Male,Canada,NA,NA,No,2
+3,31,Male,United Kingdom,NA,NA,No,3
+4,31,Male,United States,TX,NA,Yes,4
+5,33,Male,United States,TN,NA,No,5
+6,35,Female,United States,MI,NA,Yes,6
+7,39,M,Canada,NA,NA,Yes,7
+8,42,Female,United States,IL,NA,No,8
+9,23,Male,Canada,NA,NA,No,9
+10,31,Male,United States,OH,NA,Yes,10
+11,29,male,Bulgaria,NA,NA,Yes,11
+12,42,female,United States,CA,NA,No,12
+13,36,Male,United States,CT,NA,No,13
+14,27,Male,Canada,NA,NA,No,14
+15,29,female,United States,IL,NA,No,15
+16,23,Male,United Kingdom,NA,NA,Yes,16
+17,32,Male,United States,TN,NA,No,17
+18,46,male,United States,MD,Yes,Yes,18
+19,36,Male,France,NA,Yes,Yes,19
+20,29,Male,United States,NY,No,No,20
+21,31,male,United States,NC,Yes,Yes,21
+22,46,Male,United States,MA,No,Yes,22
+23,41,Male,United States,IA,No,No,23
+24,33,male,United States,CA,No,No,24
+25,35,male,United States,TN,No,No,25
+26,33,male,United States,TN,No,No,26
+27,35,Female,United States,CA,No,Yes,27
+28,34,male,United States,OH,No,Yes,28
+29,37,Male,United Kingdom,NA,No,No,29
+30,32,Male,United Kingdom,NA,No,Yes,30
+31,31,Male,United States,PA,Yes,Yes,31
+32,30,male,United Kingdom,NA,No,Yes,32
+33,42,Male,United States,WA,No,Yes,33
+34,40,female,United States,WI,No,No,34
+35,27,Male,United States,NY,No,No,35
+36,29,Male,Canada,NA,No,No,36
+37,38,Male,Portugal,NA,No,No,37
+38,50,M,United States,IN,No,No,38
+39,35,M,United States,TX,No,Yes,39
+40,24,Male,United Kingdom,NA,No,No,40
+41,35,Male,United States,MI,No,Yes,41
+42,27,Male,Canada,NA,No,No,42
+43,18,Male,Netherlands,NA,No,No,43
+44,30,Male,United States,IN,No,No,44
+45,38,Female,United States,TX,No,No,45
+46,28,Male,United Kingdom,NA,No,No,46
+47,34,Male,United States,TN,No,No,47
+48,26,m,Canada,NA,Yes,No,48
+49,30,male,United States,IL,No,No,49
+50,22,M,United States,TX,No,No,50
+51,33,Male,United States,UT,No,Yes,51
+52,31,M,United States,NA,No,Yes,52
+53,32,Male,United States,TN,No,Yes,53
+54,28,M,Switzerland,NA,No,No,54
+55,27,Male-ish,United States,NY,No,No,55
+56,32,maile,United States,TN,No,Yes,56
+57,24,Male,United States,NY,No,Yes,57
+58,26,Male,United States,TN,No,No,58
+59,33,male,Canada,NA,No,Yes,59
+60,44,Male,United States,IA,No,No,60
+61,26,Female,Poland,NA,No,Yes,61
+62,27,Male,United Kingdom,NA,No,No,62
+63,26,Male,France,NA,No,No,63
+64,35,male,Canada,NA,No,No,64
+65,40,Male,United States,CA,No,Yes,65
+66,23,Female,Australia,NA,No,Yes,66
+67,36,M,United States,TX,No,Yes,67
+68,31,Female,United States,NM,No,Yes,68
+69,34,Male,United States,NY,Yes,Yes,69
+70,28,m,France,NA,No,No,70
+71,34,male,Canada,NA,No,No,71
+72,23,Trans-female,United States,MA,No,No,72
+73,38,Male,United Kingdom,NA,No,No,73
+74,33,Male,United States,CA,No,No,74
+75,19,Male,United Kingdom,NA,No,No,75
+76,25,Male,United States,WA,No,Yes,76
+77,31,Male,United States,WA,Yes,Yes,77
+78,32,Male,United States,UT,No,Yes,78
+79,28,m,Germany,NA,No,Yes,79
+80,38,Male,United States,NY,No,Yes,80
+81,23,Male,United Kingdom,NA,No,No,81
+82,30,male,Canada,NA,No,No,82
+83,27,Cis Female,United States,NY,Yes,Yes,83
+84,33,Male,United States,CA,No,No,84
+85,31,Male,United States,TX,No,No,85
+86,39,Male,United Kingdom,NA,Yes,No,86
+87,34,female,United States,OR,No,Yes,87
+88,29,F,United States,FL,No,No,88
+89,32,M,United States,IL,No,No,89
+90,31,Male,United States,NY,No,No,90
+91,40,male,United States,TX,No,No,91
+92,34,Male,United States,OH,No,No,92
+93,18,something kinda male?,Russia,NA,No,Yes,93
+94,25,F,Canada,NA,No,No,94
+95,29,male,United States,MN,No,No,95
+96,24,Male,United States,MO,No,No,96
+97,31,male,Mexico,NA,No,No,97
+98,33,Cis Male,United States,AZ,No,No,98
+99,30,M,United States,IN,No,No,99
+100,26,female,Canada,NA,No,No,100
+101,44,Female,United States,MA,No,No,101
+102,25,Male,United States,NY,No,No,102
+103,33,Male,United States,WI,No,Yes,103
+104,29,Male,United States,NY,No,No,104
+105,35,Male,United States,MO,No,No,105
+106,35,M,United States,OR,No,Yes,106
+107,28,Male,Brazil,NA,No,No,107
+108,34,m,United States,TN,No,Yes,108
+109,32,Male,United States,WA,No,No,109
+110,22,Male,United States,NY,No,No,110
+111,28,Male,United States,CA,No,No,111
+112,45,male,United States,MO,No,Yes,112
+113,32,Male,United States,NY,No,No,113
+114,28,male,United States,TX,No,No,114
+115,26,Male,United Kingdom,NA,No,No,115
+116,21,Male,United Kingdom,NA,Yes,Yes,116
+117,27,Male,Canada,NA,No,No,117
+118,18,Male,United States,CT,No,Yes,118
+119,35,Male,United States,CO,No,Yes,119
+120,29,Male,United States,GA,No,No,120
+121,25,Male,United States,DC,No,Yes,121
+122,33,Male,United States,MN,No,Yes,122
+123,36,Male,United States,WA,No,No,123
+124,27,Male,Canada,NA,No,No,124
+125,27,Male,United States,WA,No,No,125
+126,27,Male,United Kingdom,NA,No,No,126
+127,32,M,United States,OR,No,No,127
+128,31,Male,United Kingdom,NA,No,No,128
+129,19,male,Slovenia,NA,No,No,129
+130,33,Male,United States,IL,No,No,130
+131,32,male,United States,CA,No,Yes,131
+132,27,Male,United States,NE,No,No,132
+133,38,Male,Costa Rica,NA,No,Yes,133
+134,24,Male,Canada,NA,No,No,134
+135,39,M,United Kingdom,NA,No,No,135
+136,28,Male,United Kingdom,NA,No,No,136
+137,39,Male,United States,IA,No,No,137
+138,29,Female,United States,MD,No,No,138
+139,22,m,Austria,NA,No,Yes,139
+140,38,Male,United States,OR,No,No,140
+141,37,Male,United Kingdom,NA,Yes,No,141
+142,35,M,United States,TX,No,Yes,142
+143,-29,Male,United States,MN,No,Yes,143
+144,30,Female,United States,PA,No,Yes,144
+145,37,Male,United States,IN,No,No,145
+146,24,M,United Kingdom,NA,No,No,146
+147,23,Male,United States,WV,No,No,147
+148,30,male,Ireland,NA,No,No,148
+149,29,Female,United States,MI,No,Yes,149
+150,19,Male,Canada,NA,Yes,Yes,150
+151,32,male,United States,CA,No,No,151
+152,28,male,Poland,NA,No,Yes,152
+153,36,Male,United States,IL,No,No,153
+154,37,Male,United Kingdom,NA,No,No,154
+155,25,Male,United States,IL,No,No,155
+156,27,Male,United States,CA,No,No,156
+157,26,male,United States,OK,No,No,157
+158,27,male,United States,UT,No,Yes,158
+159,25,Male,United States,IL,No,No,159
+160,36,Male,United Kingdom,NA,No,No,160
+161,25,F,United States,NY,No,No,161
+162,31,M,United States,CA,No,No,162
+163,26,male,United States,MA,No,No,163
+164,33,F,United States,WA,Yes,No,164
+165,27,Woman,United Kingdom,NA,Yes,Yes,165
+166,34,Male,United States,MN,No,No,166
+167,42,male,United States,CA,No,No,167
+168,23,male,Ireland,NA,Yes,No,168
+169,24,Male,United Kingdom,NA,No,No,169
+170,26,Male,United Kingdom,NA,No,No,170
+171,31,Male,United Kingdom,NA,Yes,No,171
+172,22,M,India,NA,No,No,172
+173,23,Female,United States,NC,No,No,173
+174,34,Female,Canada,NA,No,No,174
+175,31,male,United States,MO,No,No,175
+176,28,Male,United Kingdom,NA,No,No,176
+177,32,Female,United States,MA,No,Yes,177
+178,45,F,United States,CA,No,No,178
+179,33,Male,United States,TX,No,Yes,179
+180,29,male,Mexico,NA,No,Yes,180
+181,26,f,India,NA,Yes,No,181
+182,28,Female,United Kingdom,NA,No,No,182
+183,45,M,United States,CA,No,No,183
+184,43,Male,United States,WA,No,Yes,184
+185,37,male,United States,MA,No,Yes,185
+186,24,Male,United Kingdom,NA,No,No,186
+187,26,Male,France,NA,No,Yes,187
+188,23,male,United Kingdom,NA,No,Yes,188
+189,35,Female,United States,CA,No,No,189
+190,38,Female,South Africa,NA,Yes,Yes,190
+191,28,Male,United States,MI,No,No,191
+192,28,Male,Russia,NA,No,No,192
+193,35,Male,United States,CA,No,No,193
+194,32,female,Germany,NA,No,No,194
+195,31,Mal,Italy,NA,Yes,No,195
+196,35,Female,United States,NY,No,Yes,196
+197,26,Male,United States,CA,No,No,197
+198,27,Male,United States,TN,No,Yes,198
+199,28,Male,United Kingdom,NA,No,No,199
+200,27,Female,United States,OR,No,No,200
+201,34,female,United States,MN,No,No,201
+202,41,male,United States,FL,No,Yes,202
+203,37,Male,Ireland,NA,No,No,203
+204,34,male,Austria,NA,No,Yes,204
+205,32,Male,United Kingdom,NA,No,Yes,205
+206,21,Male,Canada,NA,No,Yes,206
+207,30,M,United States,MA,No,No,207
+208,24,male,United States,KS,No,No,208
+209,26,male,Bulgaria,NA,No,No,209
+210,40,Female,United States,DC,No,No,210
+211,37,Male,United Kingdom,NA,No,No,211
+212,26,Male,United Kingdom,NA,Yes,Yes,212
+213,32,F,United States,TX,No,No,213
+214,32,f,United States,MA,No,No,214
+215,27,female,United States,MI,Yes,Yes,215
+216,30,Male,Germany,NA,Yes,Yes,216
+217,31,M,Canada,NA,Yes,No,217
+218,29,F,United States,NY,No,No,218
+219,41,Male (CIS),United States,VA,No,No,219
+220,34,female,United States,WA,No,No,220
+221,33,Male,United Kingdom,NA,No,No,221
+222,28,male,United States,PA,No,No,222
+223,28,Male,United States,MI,No,No,223
+224,23,Male,United States,PA,No,No,224
+225,24,M,United States,OR,No,No,225
+226,32,male,United States,WA,No,Yes,226
+227,34,Male,Australia,NA,Yes,Yes,227
+228,24,Male,United States,PA,No,No,228
+229,26,male,United Kingdom,NA,Yes,No,229
+230,36,Male,United States,OH,No,No,230
+231,41,Male,United States,TX,No,Yes,231
+232,38,Male,United Kingdom,NA,No,No,232
+233,38,Male,United States,NH,No,Yes,233
+234,30,male,Netherlands,NA,No,No,234
+235,25,Male,United Kingdom,NA,No,No,235
+236,37,Male,Canada,NA,No,No,236
+237,34,Male,United Kingdom,NA,No,No,237
+238,37,F,United States,NC,No,No,238
+239,28,Female,Canada,NA,No,No,239
+240,22,Male,Sweden,NA,No,No,240
+241,34,male,United States,FL,No,No,241
+242,33,M,United States,CA,No,No,242
+243,25,Male,South Africa,NA,No,No,243
+244,27,Male,United States,GA,No,Yes,244
+245,40,M,United States,OH,No,Yes,245
+246,21,Male,United States,KY,No,No,246
+247,29,Male,United Kingdom,NA,No,No,247
+248,32,M,United States,NC,No,Yes,248
+249,29,f,United States,NY,No,Yes,249
+250,23,Male,United States,AL,No,Yes,250
+251,28,Male,United States,GA,No,No,251
+252,31,male,United States,CA,No,Yes,252
+253,27,Male,United Kingdom,NA,No,No,253
+254,24,Male,United States,VA,No,No,254
+255,29,Male,Canada,NA,No,No,255
+256,23,Female,United Kingdom,NA,No,No,256
+257,42,Male,United States,WA,No,Yes,257
+258,24,Male,United Kingdom,NA,No,No,258
+259,25,Male,Australia,NA,No,No,259
+260,27,Female,United States,TX,No,No,260
+261,27,Male,Canada,NA,No,Yes,261
+262,30,Male,United States,FL,No,Yes,262
+263,29,male,Poland,NA,No,No,263
+264,43,Male,Canada,NA,Yes,Yes,264
+265,32,male,United States,NV,No,No,265
+266,41,Male,United States,AL,No,Yes,266
+267,32,Male,United Kingdom,NA,Yes,Yes,267
+268,37,Female,United States,CA,No,No,268
+269,32,Male,United States,CO,No,Yes,269
+270,30,Male,Ireland,NA,Yes,Yes,270
+271,23,female,United States,MN,No,No,271
+272,30,Male,United States,NJ,No,No,272
+273,34,male,United Kingdom,NA,No,No,273
+274,38,Male,United States,PA,No,Yes,274
+275,33,Male,Canada,NA,No,No,275
+276,34,male,United States,MO,No,No,276
+277,28,male,Colombia,NA,No,No,277
+278,28,male,United States,MN,No,No,278
+279,23,Male,United States,PA,No,No,279
+280,22,Male,Australia,NA,Yes,Yes,280
+281,27,male,Portugal,NA,No,No,281
+282,18,male,United States,TX,No,No,282
+283,35,male,United States,NY,No,No,283
+284,25,Male,Canada,NA,No,No,284
+285,27,Male,United Kingdom,NA,No,No,285
+286,26,Female,United States,WA,No,No,286
+287,18,Male,United States,WA,No,No,287
+288,38,Female,United States,TX,No,No,288
+289,26,Female,United States,TX,No,Yes,289
+290,30,Male,Switzerland,NA,Yes,No,290
+291,35,male,United States,CA,No,No,291
+292,45,male,United States,NY,No,No,292
+293,32,Male,United States,CA,No,No,293
+294,56,Male,United States,NA,No,No,294
+295,24,Female,United States,CA,No,No,295
+296,30,F,United States,SC,No,No,296
+297,60,male,United States,CA,No,No,297
+298,33,Male,United States,CA,No,No,298
+299,37,M,United States,NY,No,No,299
+300,23,Female,United States,NY,No,No,300
+301,31,f,United States,CA,No,No,301
+302,26,Male,United States,MA,No,No,302
+303,28,female,United States,WA,No,Yes,303
+304,37,F,United States,CA,No,No,304
+305,26,male,Canada,NA,No,No,305
+306,30,queer/she/they,United States,IL,No,No,306
+307,26,M,United States,IN,No,No,307
+308,25,Male,United States,OR,No,Yes,308
+309,27,Male,United States,TN,No,No,309
+310,25,Male,Canada,NA,No,Yes,310
+311,35,male,United States,OR,No,No,311
+312,36,Male,United States,WA,Yes,No,312
+313,26,Male,United States,CA,No,No,313
+314,27,Male,United States,CA,No,No,314
+315,30,male,United States,VT,No,No,315
+316,29,M,United States,NY,No,No,316
+317,25,Male,United States,UT,No,No,317
+318,22,Female,United States,NY,No,No,318
+319,29,male,Latvia,NY,No,No,319
+320,41,Male,United States,SD,No,Yes,320
+321,29,Male,United States,CA,No,No,321
+322,32,Male,United States,OR,No,No,322
+323,24,female,United States,CA,No,No,323
+324,25,Male,United States,CA,No,No,324
+325,25,m,United States,CA,No,No,325
+326,30,Female,United States,CO,No,No,326
+327,25,Male,United States,CA,No,No,327
+328,30,Male,United States,OH,Yes,Yes,328
+329,33,male,Germany,NA,Yes,No,329
+330,24,Male,United States,WA,No,No,330
+331,25,Male,Canada,NA,No,No,331
+332,31,Male,United States,OH,No,No,332
+333,45,Male,Ireland,NA,Yes,No,333
+334,29,m,Romania,NA,No,Yes,334
+335,46,M,United States,WA,No,No,335
+336,30,Male,United Kingdom,NA,No,No,336
+337,29,F,United States,CA,Yes,No,337
+338,24,Male,United States,MA,No,No,338
+339,29,male,United States,WA,No,No,339
+340,35,Male,United States,MI,No,No,340
+341,33,f,United States,WA,No,Yes,341
+342,27,Male,United States,CA,No,No,342
+343,36,Male,United States,IA,No,No,343
+344,33,Male,United Kingdom,NA,No,Yes,344
+345,25,F,United States,WA,No,No,345
+346,23,Male,United States,AL,No,No,346
+347,54,M,United States,CA,No,No,347
+348,22,Male,United States,CA,No,No,348
+349,25,non-binary,United States,CA,No,No,349
+350,29,Male,Belgium,NA,No,No,350
+351,27,Male,United States,MA,No,No,351
+352,30,Male,United Kingdom,NA,No,No,352
+353,26,male,United States,CA,No,No,353
+354,25,Female,Sweden,NA,No,No,354
+355,31,Male,United States,CA,No,No,355
+356,33,M,United States,IN,No,No,356
+357,34,M,United States,WA,No,No,357
+358,34,Male,United States,WA,No,Yes,358
+359,29,M,United States,IN,Yes,Yes,359
+360,33,Femake,United States,WA,No,No,360
+361,34,male,Germany,NA,Yes,Yes,361
+362,26,male,United States,OK,Yes,Yes,362
+363,32,Male,United States,MI,No,No,363
+364,329,Male,United States,OH,No,Yes,364
+365,28,Male,United States,GA,No,No,365
+366,35,Male,United States,CA,No,No,366
+367,36,Male,United States,NA,No,No,367
+368,21,Male,United States,IN,No,No,368
+369,21,Male,United Kingdom,NA,No,No,369
+370,22,F,United States,WA,No,No,370
+371,41,m,United States,WA,No,No,371
+372,55,M,United States,PA,No,No,372
+373,32,F,United States,WA,No,No,373
+374,21,F,United States,CA,No,No,374
+375,45,M,United States,MA,No,Yes,375
+376,27,female,United States,WA,No,No,376
+377,25,Female,United States,WA,No,Yes,377
+378,34,woman,United States,NY,No,No,378
+379,26,F,United States,CA,No,No,379
+380,41,Male,Canada,NA,No,No,380
+381,27,Male,United States,CA,No,No,381
+382,31,Make,United States,IN,No,Yes,382
+383,25,Male,Germany,NA,No,Yes,383
+384,26,M,United States,NV,No,No,384
+385,27,female,United States,CO,No,Yes,385
+386,42,Male,New Zealand,NA,No,No,386
+387,29,Nah,United States,CA,Yes,Yes,387
+388,25,female,United States,CA,No,No,388
+389,33,Female,Sweden,NA,No,No,389
+390,99999999999,All,Zimbabwe,NA,Yes,No,390
+391,40,female,United States,PA,No,No,391
+392,31,Male,United States,SC,No,No,392
+393,26,Male,Canada,NA,No,Yes,393
+394,24,female,United States,TX,No,No,394
+395,29,Male,United States,TX,No,No,395
+396,48,M,United Kingdom,NA,No,No,396
+397,35,Male,United Kingdom,NA,No,No,397
+398,32,female,United States,AL,No,No,398
+399,29,Male,Canada,NA,No,No,399
+400,26,Male,United States,OR,No,No,400
+401,28,Male,United States,NJ,No,No,401
+402,23,male,United States,CA,No,No,402
+403,35,M,United States,CA,No,No,403
+404,29,male,Germany,NA,No,No,404
+405,26,Male,United States,CA,No,No,405
+406,33,Male,United States,NH,No,Yes,406
+407,33,Male,United States,CA,No,Yes,407
+408,22,Male,Brazil,NA,Yes,Yes,408
+409,30,female,Spain,NA,No,No,409
+410,33,male,United States,OH,No,Yes,410
+411,31,Female,United States,OH,No,No,411
+412,21,male,United States,MA,No,No,412
+413,31,Enby,United Kingdom,NA,No,No,413
+414,26,F,United States,OK,No,Yes,414
+415,30,Male,United States,CA,No,No,415
+416,30,fluid,Germany,NA,No,No,416
+417,23,Male,India,NA,No,No,417
+418,34,Male,Finland,NA,No,No,418
+419,55,M,United States,ID,No,Yes,419
+420,28,male,Germany,NA,No,Yes,420
+421,26,M,Uruguay,NA,No,Yes,421
+422,28,Male,New Zealand,NA,No,Yes,422
+423,32,Male,United Kingdom,NA,No,No,423
+424,28,Female,United States,NY,No,No,424
+425,21,M,United States,CA,No,No,425
+426,24,Male,United States,TX,No,No,426
+427,26,Female,United States,MD,No,No,427
+428,23,Male,United States,IN,No,No,428
+429,24,Female,United States,OR,No,No,429
+430,28,Male,Canada,NA,Yes,Yes,430
+431,24,F,United States,NY,No,No,431
+432,33,male,United States,MS,Yes,Yes,432
+433,34,male,United States,NJ,No,No,433
+434,27,female,United States,CA,No,No,434
+435,28,Male,United States,TN,No,No,435
+436,26,Male,United States,WA,No,No,436
+437,20,Male,Australia,NA,No,Yes,437
+438,23,female,United States,MA,No,No,438
+439,29,Male,United States,PA,No,Yes,439
+440,26,Male,United Kingdom,NA,No,No,440
+441,36,Male,United States,KY,No,Yes,441
+442,41,m,United States,PA,No,No,442
+443,33,female,United States,MA,No,Yes,443
+444,23,M,Canada,NA,No,No,444
+445,39,Male,United States,CA,No,No,445
+446,34,M,United States,VT,No,No,446
+447,26,F,United States,CA,No,No,447
+448,24,Male,United States,AZ,No,No,448
+449,37,Male,Canada,NA,No,No,449
+450,43,Male,United States,MA,Yes,Yes,450
+451,40,Genderqueer,United States,VA,No,No,451
+452,30,male,United States,WA,No,No,452
+453,34,M,United States,CA,No,No,453
+454,27,Male,United States,OR,No,No,454
+455,36,Male,United States,MI,No,No,455
+456,27,Male,Brazil,NA,No,No,456
+457,35,Male,Netherlands,NA,No,No,457
+458,32,Male,United Kingdom,NA,No,No,458
+459,37,M,United States,OR,No,No,459
+460,29,Male,United Kingdom,NA,No,No,460
+461,33,Female,United States,CA,No,No,461
+462,28,Make,United States,UT,No,Yes,462
+463,26,Female,United States,CA,No,No,463
+464,27,M,United States,TX,No,Yes,464
+465,38,Male,United Kingdom,NA,Yes,Yes,465
+466,57,M,United States,CA,No,No,466
+467,28,Male,United Kingdom,NA,No,No,467
+468,26,male,France,NA,No,No,468
+469,42,f,Netherlands,NA,No,Yes,469
+470,31,Male,United States,OR,No,Yes,470
+471,58,Male,United States,CA,No,No,471
+472,29,Male,United States,OH,No,No,472
+473,39,Female,United Kingdom,NA,No,No,473
+474,34,Male,United States,OH,No,Yes,474
+475,57,Male,United States,CA,No,No,475
+476,27,Male,Germany,NA,No,No,476
+477,23,male,Germany,NA,Yes,Yes,477
+478,18,male,Finland,NA,No,Yes,478
+479,30,female,United States,NY,No,No,479
+480,23,Male,United States,VA,No,No,480
+481,43,M,United States,CA,No,No,481
+482,18,Female,United Kingdom,NA,No,Yes,482
+483,29,male,United States,IL,No,No,483
+484,48,M,United States,TX,No,No,484
+485,43,male,Germany,NA,No,No,485
+486,28,Female,United States,NY,No,No,486
+487,30,Male,United States,CA,Yes,Yes,487
+488,26,Male,Israel,MD,No,No,488
+489,33,Male,Italy,NA,No,No,489
+490,31,Male,United States,CA,No,No,490
+491,30,M,United States,PA,No,No,491
+492,27,Male,Israel,NA,No,No,492
+493,24,Female,United States,CA,Yes,Yes,493
+494,25,male,United States,WA,No,No,494
+495,23,Female,United States,NY,No,No,495
+496,36,m,United States,TX,No,No,496
+497,25,female,United States,CA,Yes,Yes,497
+498,54,Male,United Kingdom,NA,No,Yes,498
+499,34,Male,Netherlands,NA,No,No,499
+500,38,female,United States,AZ,No,No,500
+501,40,Male,Ireland,NA,Yes,No,501
+502,32,male,United Kingdom,NA,No,No,502
+503,25,Male,Germany,NA,No,No,503
+504,35,Female,United States,OH,No,No,504
+505,46,male,United States,CA,No,No,505
+506,42,male,United States,KS,No,No,506
+507,32,male,United Kingdom,NA,No,Yes,507
+508,47,M,United States,CA,No,No,508
+509,22,Male,United States,CA,No,No,509
+510,33,Female,United States,NY,No,Yes,510
+511,25,f,United States,WA,No,No,511
+512,29,M,United States,CA,No,No,512
+513,39,Male,United States,WA,No,No,513
+514,38,male,United States,VA,No,No,514
+515,43,Male,United States,NC,No,Yes,515
+516,46,Male,United States,OH,No,Yes,516
+517,38,Female,United States,PA,No,No,517
+518,33,Male,Germany,NA,No,No,518
+519,34,Male,United Kingdom,NA,No,No,519
+520,62,M,United States,CA,No,No,520
+521,23,F,United States,TX,No,No,521
+522,35,Male,United States,AZ,No,No,522
+523,25,Male,Bosnia and Herzegovina,NA,No,Yes,523
+524,36,M,United States,IL,Yes,Yes,524
+525,41,Female,United States,NA,No,Yes,525
+526,24,male,Austria,NA,Yes,No,526
+527,51,Male,New Zealand,NA,No,Yes,527
+528,29,M,United States,NC,No,No,528
+529,31,Female,Canada,NA,Yes,Yes,529
+530,27,Male,United Kingdom,NA,No,No,530
+531,31,Male,Australia,NA,No,No,531
+532,27,female,Hungary,NA,Yes,Yes,532
+533,23,Male,Sweden,NA,No,No,533
+534,21,Male,Canada,NA,No,No,534
+535,27,Female,Australia,NA,No,No,535
+536,39,M,United States,WI,No,Yes,536
+537,26,M,United States,CA,No,No,537
+538,27,Male,United Kingdom,NA,No,No,538
+539,22,Female,United States,CA,No,No,539
+540,26,F,United States,MN,No,No,540
+541,31,Female,United States,PA,No,No,541
+542,32,male,United Kingdom,NA,No,No,542
+543,28,female,United States,CA,No,Yes,543
+544,28,Androgyne,United Kingdom,NA,No,No,544
+545,23,female,United Kingdom,NA,No,No,545
+546,30,Male,United Kingdom,NA,No,Yes,546
+547,36,Male,United States,CA,No,No,547
+548,21,M,United States,CA,No,No,548
+549,30,male,Germany,NA,No,No,549
+550,25,Woman,United States,CA,No,No,550
+551,32,Male,New Zealand,NA,No,No,551
+552,29,female,Canada,NA,No,No,552
+553,21,Agender,United Kingdom,NA,No,No,553
+554,27,Female,New Zealand,NA,No,Yes,554
+555,32,Female,Canada,NA,No,No,555
+556,34,M,Australia,NA,No,No,556
+557,33,M,United States,NY,No,No,557
+558,22,Male,Netherlands,NA,No,Yes,558
+559,24,M,United States,CA,No,No,559
+560,65,Male,United States,FL,Yes,Yes,560
+561,27,Male,United States,OR,No,Yes,561
+562,33,Male,Australia,NA,No,No,562
+563,36,Male,United States,CO,No,No,563
+564,40,Male,Canada,NA,No,No,564
+565,28,male,United States,GA,No,No,565
+566,39,Male,United States,OR,No,No,566
+567,32,Male,United States,CA,No,No,567
+568,31,male,United States,CA,No,No,568
+569,38,Make,United States,PA,No,No,569
+570,23,Male,United States,CA,No,No,570
+571,42,Make,United States,CA,No,No,571
+572,27,Female,United States,NY,No,No,572
+573,26,Female,United States,MA,No,No,573
+574,50,Male,United States,NA,No,Yes,574
+575,37,Male,United States,PA,No,No,575
+576,23,Male,United States,RI,No,No,576
+577,33,M,United States,MI,No,Yes,577
+578,29,male,Canada,NA,Yes,Yes,578
+579,34,Male,United States,IL,No,Yes,579
+580,41,male,United States,CA,No,No,580
+581,50,Male,United States,OR,No,Yes,581
+582,29,Male,Canada,NA,No,No,582
+583,35,Male,United States,IN,No,No,583
+584,27,Male,Singapore,NA,No,Yes,584
+585,40,Female,United States,MA,No,No,585
+586,27,Male,Australia,NA,No,Yes,586
+587,29,f,United States,MI,No,No,587
+588,31,Male,United States,OH,No,No,588
+589,43,Male,United States,OH,No,No,589
+590,34,Male,United States,NH,No,Yes,590
+591,29,Male,United States,OH,No,No,591
+592,19,Male,Canada,NA,No,No,592
+593,41,m,United States,TN,No,No,593
+594,29,Male,United States,OR,No,No,594
+595,23,Male,United States,PA,No,No,595
+596,24,Female,United States,NA,No,No,596
+597,31,M,United States,NY,No,Yes,597
+598,43,Male,United States,WA,No,Yes,598
+599,31,Male,United States,NY,No,No,599
+600,29,Male,United States,CA,No,No,600
+601,35,Male,United States,TN,Yes,Yes,601
+602,33,Male,United States,WI,No,No,602
+603,30,cis-female/femme,United States,WI,Yes,Yes,603
+604,27,male,United States,PA,No,No,604
+605,32,Male,United States,MI,No,No,605
+606,50,Male,United States,WY,No,Yes,606
+607,24,male,United States,KY,No,No,607
+608,27,Male,United States,NY,No,No,608
+609,27,Male,Australia,NA,No,Yes,609
+610,32,Male,United States,TX,No,No,610
+611,42,Male,United States,WI,Yes,Yes,611
+612,37,Male,United States,WA,No,No,612
+613,30,Male,Singapore,NA,No,No,613
+614,29,Male,United States,WA,No,No,614
+615,30,Male,United States,GA,Yes,Yes,615
+616,35,Male,United States,MI,No,No,616
+617,35,Male,United States,MD,No,Yes,617
+618,38,male,Netherlands,NA,No,Yes,618
+619,22,Male,United Kingdom,NA,No,No,619
+620,24,m,Germany,NA,No,No,620
+621,22,M,Netherlands,NA,Yes,No,621
+622,31,Female,United States,WA,No,Yes,622
+623,23,female,United States,CA,No,No,623
+624,31,Female,United States,OR,No,No,624
+625,28,Female,United States,CA,No,No,625
+626,37,Guy (-ish) ^_^,Canada,NA,No,No,626
+627,34,male,United States,CA,Yes,No,627
+628,32,male leaning androgynous,Canada,NA,No,Yes,628
+629,28,Male,United States,MI,No,Yes,629
+630,24,Female,United Kingdom,NA,No,No,630
+631,56,Male,United States,MA,No,No,631
+632,31,Male,Germany,NA,No,Yes,632
+633,34,female,United States,CA,No,Yes,633
+634,35,m,Germany,NA,No,No,634
+635,28,male,Germany,NA,No,No,635
+636,36,male,Poland,NA,Yes,No,636
+637,30,Male,United Kingdom,NA,No,No,637
+638,35,Male,United States,NA,Yes,Yes,638
+639,49,male,Japan,NA,Yes,Yes,639
+640,36,Male,Germany,NA,No,No,640
+641,35,male,Germany,NA,No,No,641
+642,29,Female,Australia,NA,No,No,642
+643,57,Male,United States,CA,No,No,643
+644,31,female,Belgium,NA,No,No,644
+645,37,Male,Ireland,NA,Yes,No,645
+646,25,Male,Ireland,NA,No,No,646
+647,30,Male,Australia,NA,No,No,647
+648,26,F,Australia,NA,No,No,648
+649,22,Female,Netherlands,NA,No,No,649
+650,39,M,United States,FL,No,Yes,650
+651,29,Male,United Kingdom,NA,No,No,651
+652,54,male,United Kingdom,NA,Yes,Yes,652
+653,34,Female,Australia,NA,No,No,653
+654,32,M,United States,WA,No,No,654
+655,25,Male,Nigeria,NA,No,No,655
+656,29,male,Poland,NA,No,No,656
+657,32,male,Germany,NA,Yes,Yes,657
+658,30,M,United Kingdom,NA,No,No,658
+659,31,male,Germany,NA,No,No,659
+660,20,F,Switzerland,NA,No,No,660
+661,27,Male,United Kingdom,NA,No,No,661
+662,32,Male,United States,CA,No,No,662
+663,26,Male,Ireland,NA,Yes,Yes,663
+664,30,Male,Italy,NA,No,No,664
+665,30,Male,Ireland,NA,No,Yes,665
+666,22,male,India,NA,Yes,Yes,666
+667,24,male,Ireland,NA,No,No,667
+668,26,m,Netherlands,NA,No,No,668
+669,43,male,France,NA,No,No,669
+670,26,Male,Russia,NA,No,No,670
+671,23,Male,United States,NC,No,No,671
+672,26,Man,Canada,NA,No,Yes,672
+673,26,female,Israel,NA,No,No,673
+674,35,Male,Canada,NA,No,No,674
+675,28,Male,United States,IL,No,Yes,675
+676,22,Male,India,NA,No,No,676
+677,29,Female,United States,OH,No,No,677
+678,29,Male,Germany,NA,Yes,No,678
+679,45,Male,United States,VA,No,Yes,679
+680,33,male,Bulgaria,NA,No,Yes,680
+681,38,Male,United States,MN,No,No,681
+682,19,Trans woman,United States,MO,No,No,682
+683,29,female,Canada,NA,No,Yes,683
+684,21,Female,United Kingdom,NA,No,No,684
+685,23,Female,India,NA,No,No,685
+686,33,female,United States,NC,No,No,686
+687,49,Male,United States,NY,No,No,687
+688,28,Male,United States,NM,No,Yes,688
+689,27,f,United Kingdom,NA,No,Yes,689
+690,23,male,Canada,NA,No,No,690
+691,29,M,Netherlands,NA,No,Yes,691
+692,30,m,Germany,NA,No,No,692
+693,28,Female,Canada,NA,No,No,693
+694,32,Male,United Kingdom,NA,No,No,694
+695,32,Male,United Kingdom,NA,No,No,695
+696,37,Male,France,NA,No,No,696
+697,39,F,United States,TX,No,Yes,697
+698,31,male,France,NA,No,No,698
+699,29,Male,United States,SC,No,No,699
+700,30,M,United States,FL,No,No,700
+701,33,M,United States,WA,Yes,Yes,701
+702,37,male,United States,CA,No,No,702
+703,23,Male,United States,OH,No,No,703
+704,43,M,United States,TN,No,No,704
+705,32,Male,United Kingdom,NA,No,No,705
+706,26,Male,United States,NY,No,No,706
+707,32,Male,United States,NY,Yes,Yes,707
+708,37,F,United States,MO,No,Yes,708
+709,29,Male,United States,NY,No,No,709
+710,34,Male,United Kingdom,NA,No,No,710
+711,27,male,France,NA,No,No,711
+712,30,male,United States,TN,No,No,712
+713,29,Male,United States,CO,No,No,713
+714,32,Male,United States,PA,Yes,Yes,714
+715,-1726,male,United Kingdom,NA,No,No,715
+716,25,Male,Germany,NA,No,No,716
+717,37,male,United States,NY,Yes,Yes,717
+718,29,Male,Netherlands,NA,No,No,718
+719,27,Man,United States,MN,No,No,719
+720,33,Male,United Kingdom,NA,No,No,720
+721,30,male,Canada,NA,No,No,721
+722,29,male,Canada,NA,No,Yes,722
+723,25,Male,United States,MO,No,Yes,723
+724,33,Male,United States,WY,No,No,724
+725,31,Male,South Africa,NA,No,Yes,725
+726,21,male,Germany,NA,No,Yes,726
+727,30,Male,Switzerland,NA,No,No,727
+728,29,Male,United States,MN,No,No,728
+729,43,Male,Croatia,NA,Yes,Yes,729
+730,37,m,United Kingdom,NA,No,No,730
+731,24,Male,France,NA,No,No,731
+732,29,Male,United States,MD,No,Yes,732
+733,31,Male,United States,KY,No,No,733
+734,5,Male,United States,OH,No,No,734
+735,33,Male,United Kingdom,NA,Yes,No,735
+736,43,male,United States,NY,No,No,736
+737,33,Male,United Kingdom,NA,No,No,737
+738,27,Male,United Kingdom,NA,No,No,738
+739,36,Male,United States,TN,No,Yes,739
+740,37,male,Australia,NA,No,No,740
+741,32,male,Belgium,NA,No,No,741
+742,39,Male,United Kingdom,NA,No,No,742
+743,31,Male,United States,TX,No,No,743
+744,36,Male,United States,OH,No,Yes,744
+745,30,Male,United States,TX,Yes,Yes,745
+746,28,male,Canada,NA,No,No,746
+747,32,Male,Italy,NA,No,No,747
+748,35,Male,United States,CA,No,No,748
+749,19,Male,Canada,NA,No,No,749
+750,33,m,Norway,NA,No,No,750
+751,42,male,Germany,NA,No,Yes,751
+752,37,Male,United States,MI,No,No,752
+753,40,Male,Thailand,NA,Yes,No,753
+754,36,M,United States,CA,No,No,754
+755,29,Female,United States,OR,No,Yes,755
+756,38,f,United States,NC,No,No,756
+757,26,M,United States,CA,No,No,757
+758,34,male,Germany,NA,No,No,758
+759,21,Male,United States,IL,No,No,759
+760,31,Male,Canada,NA,Yes,Yes,760
+761,37,Female,United States,CA,No,No,761
+762,37,Male,Ireland,NA,No,No,762
+763,38,Male,Ireland,NA,No,No,763
+764,27,Female,United States,CA,No,No,764
+765,39,Male,Netherlands,NA,Yes,No,765
+766,33,Female,United States,AZ,Yes,No,766
+767,27,Male,United Kingdom,NA,No,No,767
+768,36,F,United States,CA,No,Yes,768
+769,28,Male,United Kingdom,NA,No,No,769
+770,39,male,United Kingdom,NA,No,No,770
+771,33,Male,United States,VA,Yes,Yes,771
+772,32,Male,United Kingdom,NA,No,No,772
+773,28,Male,United Kingdom,NA,No,No,773
+774,37,Male,United Kingdom,NA,No,No,774
+775,39,Male,Canada,NA,No,No,775
+776,43,msle,United States,VA,No,Yes,776
+777,32,Neuter,United Kingdom,NA,No,No,777
+778,27,Female,United States,WA,No,No,778
+779,31,Female,United Kingdom,NA,No,No,779
+780,43,Male,United Kingdom,NA,No,No,780
+781,33,Male,United States,WI,No,Yes,781
+782,34,male,United Kingdom,NA,No,No,782
+783,33,M,United States,CA,Yes,No,783
+784,25,Male,United States,CA,No,No,784
+785,25,Male,United States,NE,No,No,785
+786,32,Male,United Kingdom,NA,Yes,No,786
+787,25,Male,United States,CO,No,No,787
+788,37,Male,Netherlands,NA,No,Yes,788
+789,39,m,Switzerland,NA,No,No,789
+790,29,M,United Kingdom,NA,No,No,790
+791,33,Male,United States,NY,No,No,791
+792,37,female,United States,TX,No,Yes,792
+793,35,Female,United States,LA,No,No,793
+794,22,Female,United States,WA,No,No,794
+795,38,Male,United States,MI,No,No,795
+796,32,Female,United States,CA,No,No,796
+797,28,Male,Brazil,NA,No,No,797
+798,27,Male,Switzerland,NA,No,No,798
+799,35,female,United States,CA,No,Yes,799
+800,29,Male,United States,MD,No,No,800
+801,23,Male,United States,CA,No,No,801
+802,39,M,United States,CT,No,Yes,802
+803,30,Female,United States,CA,No,No,803
+804,32,M,United Kingdom,NA,No,No,804
+805,28,Female (trans),United States,CA,No,No,805
+806,40,female,United States,WA,No,No,806
+807,36,f,United States,CA,No,No,807
+808,27,Male,United States,IN,No,Yes,808
+809,41,Male,United States,TX,No,No,809
+810,29,Male,United Kingdom,NA,No,No,810
+811,29,m,United Kingdom,NA,No,No,811
+812,35,Male,United States,MO,No,No,812
+813,28,Male,United States,NV,No,Yes,813
+814,36,F,United Kingdom,NA,Yes,Yes,814
+815,39,Female,United States,WA,No,No,815
+816,39,Male,United States,FL,No,No,816
+817,44,male,United States,NA,Yes,Yes,817
+818,26,queer,Germany,NA,Yes,Yes,818
+819,35,Male,Denmark,NA,Yes,No,819
+820,40,Female,United States,WA,No,No,820
+821,35,Male,Denmark,NA,Yes,No,821
+822,38,M,United States,IL,No,Yes,822
+823,34,Male,United States,FL,No,Yes,823
+824,43,M,United States,MA,No,No,824
+825,48,Female (cis),United States,CA,No,No,825
+826,20,Male,United States,WA,No,No,826
+827,40,M,United States,MI,Yes,Yes,827
+828,29,female,United Kingdom,NA,No,No,828
+829,35,Male,United States,MI,No,No,829
+830,29,Male,United States,WI,No,Yes,830
+831,40,M,United States,CA,No,No,831
+832,29,Male,Sweden,NA,No,No,832
+833,29,F,United States,CA,No,No,833
+834,34,male,United States,TX,No,No,834
+835,44,Male,United Kingdom,NA,No,No,835
+836,24,female,United States,NY,No,No,836
+837,47,F,United States,PA,No,Yes,837
+838,43,m,United Kingdom,NA,No,No,838
+839,36,M,United States,PA,No,No,839
+840,43,male,United States,GA,No,No,840
+841,36,male,United Kingdom,NA,Yes,Yes,841
+842,31,Female,United States,NY,No,No,842
+843,35,Male,United States,CA,No,No,843
+844,33,male,United States,TN,No,No,844
+845,37,Male,Italy,NA,No,No,845
+846,34,M,United States,TN,No,No,846
+847,36,Male,Netherlands,NA,Yes,No,847
+848,40,m,United States,TN,Yes,Yes,848
+849,40,M,United States,IL,No,No,849
+850,42,Male,United States,WI,No,Yes,850
+851,23,M,United States,KY,No,Yes,851
+852,21,Male,United Kingdom,NA,No,No,852
+853,26,Male,Canada,NA,No,Yes,853
+854,31,Male,United States,NA,No,No,854
+855,25,M,United States,CA,No,No,855
+856,51,Male,United States,MN,No,Yes,856
+857,24,Male,United States,TN,No,No,857
+858,33,Male,United States,MN,No,No,858
+859,32,male,United Kingdom,NA,No,No,859
+860,32,male,United Kingdom,NA,No,No,860
+861,26,Male,United Kingdom,NA,Yes,Yes,861
+862,23,M,United States,IL,No,No,862
+863,33,Male,United States,TN,No,Yes,863
+864,46,Male,United States,IL,No,No,864
+865,34,male,United Kingdom,NA,No,Yes,865
+866,35,M,United States,DC,No,No,866
+867,39,M,United States,KS,No,Yes,867
+868,32,male,Germany,NA,Yes,Yes,868
+869,43,Male,Mexico,NA,Yes,Yes,869
+870,56,m,United States,CA,No,Yes,870
+871,32,Female,United Kingdom,NA,No,No,871
+872,41,male,United Kingdom,NA,No,No,872
+873,39,Male,United States,TN,No,Yes,873
+874,37,Male,United States,OK,No,No,874
+875,30,m,United States,CA,Yes,Yes,875
+876,31,Male,United States,TN,No,No,876
+877,29,M,United States,TX,No,No,877
+878,23,Female,United Kingdom,NA,No,No,878
+879,31,male,United States,CO,No,No,879
+880,29,Male,United States,TN,No,No,880
+881,30,Mail,United States,GA,No,Yes,881
+882,37,Male,United States,TN,No,Yes,882
+883,36,male,United States,VA,Yes,No,883
+884,35,Male,United States,TN,No,Yes,884
+885,41,M,United States,DC,No,Yes,885
+886,31,Male,United Kingdom,NA,No,No,886
+887,38,m,United Kingdom,NA,No,No,887
+888,26,Male,India,NA,Yes,No,888
+889,39,Male,United States,TN,No,No,889
+890,42,male,United States,VA,Yes,Yes,890
+891,32,Male,United States,TN,Yes,Yes,891
+892,29,m,United States,TN,No,No,892
+893,30,Male,United States,TN,No,No,893
+894,40,M,United States,TN,No,Yes,894
+895,51,m,United States,TN,No,No,895
+896,33,Male,United States,IN,No,No,896
+897,34,male,Germany,NA,Yes,Yes,897
+898,50,Male,United States,VA,Yes,Yes,898
+899,24,Male,United States,TX,No,Yes,899
+900,25,Male,United States,TX,No,No,900
+901,43,Male,United Kingdom,NA,No,No,901
+902,25,f,United States,CA,Yes,No,902
+903,24,Male,United Kingdom,NA,Yes,Yes,903
+904,51,m,United States,CO,Yes,No,904
+905,49,Male,United States,OR,No,No,905
+906,30,Male,United States,OK,No,Yes,906
+907,25,female,United States,OH,No,No,907
+908,36,Male,United States,TN,No,Yes,908
+909,48,Male,United States,VA,No,No,909
+910,48,male,Australia,NA,No,No,910
+911,53,Male,United States,OR,No,Yes,911
+912,24,Female,United Kingdom,NA,No,Yes,912
+913,33,Male,United States,OR,No,No,913
+914,25,Female,Canada,NA,No,No,914
+915,30,Male,United Kingdom,NA,No,No,915
+916,30,Male,United States,PA,Yes,Yes,916
+917,34,male,United Kingdom,NA,Yes,Yes,917
+918,31,Male,United States,SC,No,Yes,918
+919,22,F,United States,CA,No,No,919
+920,28,Male,United States,TN,No,No,920
+921,35,Male,United States,UT,No,No,921
+922,28,Male,United States,CA,No,No,922
+923,42,male,New Zealand,NA,No,No,923
+924,33,Male,United States,MO,No,No,924
+925,29,male,United States,CA,No,No,925
+926,43,M,United States,NA,No,No,926
+927,29,Male,United States,NY,No,No,927
+928,25,Male,United States,TX,No,Yes,928
+929,31,Male,United States,MO,No,No,929
+930,35,Female,United States,GA,No,No,930
+931,34,male,United States,TX,No,No,931
+932,43,Cis Male,United States,WA,No,Yes,932
+933,38,Male,United States,WA,No,No,933
+934,26,Male,United States,WA,No,No,934
+935,38,Male,United Kingdom,NA,Yes,Yes,935
+936,42,Male,United States,TX,No,No,936
+937,33,Male,Netherlands,NA,No,No,937
+938,32,Male,United States,WA,No,No,938
+939,44,male,United States,WA,No,Yes,939
+940,28,Male,United States,WA,No,No,940
+941,40,Male,United States,WA,No,Yes,941
+942,31,F,United States,AZ,No,No,942
+943,32,male,United States,WA,No,No,943
+944,28,Male,United States,WA,No,No,944
+945,39,Male,United States,AZ,No,No,945
+946,45,Male,United States,NY,No,No,946
+947,43,Male,United States,WA,No,No,947
+948,35,Male,United States,CA,No,No,948
+949,40,Male,United States,WA,No,No,949
+950,34,Male,Netherlands,NA,No,No,950
+951,24,Male,United Kingdom,NA,No,No,951
+952,61,male,South Africa,NA,Yes,Yes,952
+953,36,Female,United States,WA,No,No,953
+954,38,Male,United States,TN,No,No,954
+955,33,male,Germany,NA,No,No,955
+956,30,male,United States,WA,No,No,956
+957,34,male,Netherlands,NA,Yes,Yes,957
+958,26,Male,United States,CA,No,No,958
+959,33,M,United Kingdom,NA,No,No,959
+960,32,Male,United Kingdom,NA,No,No,960
+961,25,male,Germany,NA,Yes,Yes,961
+962,35,male,Germany,NA,Yes,Yes,962
+963,24,M,United Kingdom,NA,Yes,Yes,963
+964,55,male,United Kingdom,NA,No,No,964
+965,33,Male,United Kingdom,NA,Yes,Yes,965
+966,26,Female,United Kingdom,NA,Yes,Yes,966
+967,25,Male,United Kingdom,NA,No,Yes,967
+968,45,Male,United Kingdom,NA,No,No,968
+969,33,female,United Kingdom,NA,Yes,Yes,969
+970,43,Male,United States,MI,No,Yes,970
+971,30,Male,United Kingdom,NA,Yes,No,971
+972,40,Male,United States,IN,No,No,972
+973,49,Male,United States,GA,No,No,973
+974,29,Male,Germany,NA,No,No,974
+975,26,male,Germany,NA,No,No,975
+976,38,cis male,United States,WA,No,No,976
+977,27,Male,France,NA,No,No,977
+978,26,male,Belgium,NA,No,No,978
+979,28,Male,United Kingdom,NA,No,No,979
+980,40,Male,United States,ME,No,Yes,980
+981,37,Female,Canada,NA,Yes,Yes,981
+982,34,female,United Kingdom,NA,No,Yes,982
+983,28,male,United States,NY,No,No,983
+984,27,Male,Canada,NA,No,No,984
+985,29,Male,United Kingdom,NA,No,Yes,985
+986,39,Female,United Kingdom,NA,No,Yes,986
+987,28,male,United Kingdom,NA,No,No,987
+988,23,Male,United States,PA,No,No,988
+989,8,A little about you,"Bahamas, The",IL,Yes,Yes,989
+990,38,Male,United Kingdom,NA,No,Yes,990
+991,19,Male,United Kingdom,NA,No,No,991
+992,30,Female,United States,IL,No,No,992
+993,28,male,United Kingdom,NA,Yes,Yes,993
+994,20,Male,India,NA,No,No,994
+995,35,Male,United Kingdom,NA,Yes,No,995
+996,39,male,United States,MN,No,Yes,996
+997,31,Female,United States,TX,No,No,997
+998,32,Male,United Kingdom,NA,No,No,998
+999,27,Male,Sweden,NA,No,No,999
+1000,25,Male,United States,PA,No,Yes,1000
+1001,42,male,United States,IN,No,Yes,1001
+1002,34,male,United States,PA,No,No,1002
+1003,26,female,United States,OH,No,Yes,1003
+1004,35,Male,United Kingdom,NA,No,No,1004
+1005,34,Male,United Kingdom,NA,No,No,1005
+1006,38,m,United States,PA,No,Yes,1006
+1007,34,M,United States,SD,No,No,1007
+1008,39,M,United States,IN,No,Yes,1008
+1009,44,F,United States,CA,No,No,1009
+1010,40,male,United States,TN,No,No,1010
+1011,33,female,United States,TX,Yes,Yes,1011
+1012,24,Female,United States,TN,No,No,1012
+1013,38,Female,United States,OR,No,Yes,1013
+1014,31,male,United States,SD,No,No,1014
+1015,23,Male,Israel,NA,No,No,1015
+1016,26,F,United States,NY,No,No,1016
+1017,46,Female (trans),United States,CT,No,No,1017
+1018,30,Male,United States,CA,No,Yes,1018
+1019,25,Male,United States,NA,No,Yes,1019
+1020,19,M,Canada,NA,No,Yes,1020
+1021,30,Female,United States,GA,No,No,1021
+1022,32,m,United States,TN,No,No,1022
+1023,32,Male,United Kingdom,NA,No,No,1023
+1024,37,Male,United States,IN,No,Yes,1024
+1025,42,M,United States,CA,No,Yes,1025
+1026,25,female,United States,OR,No,No,1026
+1027,19,Male,United States,IN,No,No,1027
+1028,40,female,United States,GA,No,Yes,1028
+1029,34,Male,United States,IN,No,No,1029
+1030,26,Male,United States,MN,No,No,1030
+1031,31,Male,United States,MN,No,No,1031
+1032,40,Male,United States,NC,No,Yes,1032
+1033,31,Female,United States,FL,No,No,1033
+1034,36,M,United States,MN,No,No,1034
+1035,35,Male,Canada,NA,No,Yes,1035
+1036,26,male,Australia,NA,No,Yes,1036
+1037,44,m,United States,MO,No,Yes,1037
+1038,34,Female,United States,CA,No,No,1038
+1039,35,Male,United States,OR,No,Yes,1039
+1040,28,female,United States,OH,No,Yes,1040
+1041,33,Male,United States,NY,No,Yes,1041
+1042,40,M,United States,WI,No,Yes,1042
+1043,26,Male,United States,WA,No,No,1043
+1044,29,f,United Kingdom,NA,No,No,1044
+1045,26,Female,Canada,NA,No,No,1045
+1046,33,Malr,Italy,NA,No,No,1046
+1047,28,Male,Brazil,NA,No,No,1047
+1048,41,Male,United States,IL,Yes,Yes,1048
+1049,39,Male,United Kingdom,NA,Yes,Yes,1049
+1050,26,female,United States,WA,No,No,1050
+1051,23,Female,United States,IL,No,No,1051
+1052,35,Male,Switzerland,NA,No,No,1052
+1053,36,Male,United States,FL,No,Yes,1053
+1054,42,M,United States,TN,No,No,1054
+1055,39,Male,United States,WA,No,No,1055
+1056,27,Male,United States,CA,No,No,1056
+1057,33,male,United States,FL,Yes,Yes,1057
+1058,31,Male,Canada,NA,No,No,1058
+1059,28,Female,United States,OR,No,No,1059
+1060,29,Female,United States,NJ,No,Yes,1060
+1061,27,Male,United States,CA,No,No,1061
+1062,44,M,United States,FL,Yes,Yes,1062
+1063,25,Male,United States,UT,No,Yes,1063
+1064,24,male,Germany,NA,No,No,1064
+1065,25,Male,South Africa,NA,No,No,1065
+1066,34,M,United States,NJ,No,Yes,1066
+1067,26,Male,United States,PA,No,No,1067
+1068,48,Male,United States,IN,No,No,1068
+1069,34,Male,Greece,NA,No,Yes,1069
+1070,39,Female,United States,OH,No,Yes,1070
+1071,43,Male,United States,OH,No,Yes,1071
+1072,41,M,United States,IL,No,No,1072
+1073,25,Male,United States,IN,No,No,1073
+1074,31,m,United States,CA,No,No,1074
+1075,40,Male,United States,WA,No,No,1075
+1076,43,Male,United States,VA,Yes,Yes,1076
+1077,27,Female,United States,WA,No,No,1077
+1078,37,female,United States,NJ,No,Yes,1078
+1079,32,male,Netherlands,NA,Yes,No,1079
+1080,25,Male,United States,UT,No,No,1080
+1081,29,Male,Netherlands,NA,No,No,1081
+1082,30,Female,United States,TN,No,No,1082
+1083,34,female,Canada,NA,No,No,1083
+1084,32,male,United Kingdom,NA,No,No,1084
+1085,37,male,Germany,NA,No,No,1085
+1086,41,male,Germany,NA,No,No,1086
+1087,38,male,United States,IN,No,No,1087
+1088,32,Male,United States,IN,No,No,1088
+1089,28,Female,United States,CA,No,No,1089
+1090,11,male,United States,OH,Yes,Yes,1090
+1091,43,male,United States,TX,No,No,1091
+1092,32,Male,United States,TN,No,No,1092
+1093,25,M,United States,WA,No,No,1093
+1094,37,Male,United States,UT,No,No,1094
+1095,36,male,United States,AL,Yes,No,1095
+1096,24,Male,United States,WI,No,Yes,1096
+1097,40,male,United States,WA,No,No,1097
+1098,29,Male,United States,WI,No,No,1098
+1099,43,Male,United States,NY,No,No,1099
+1100,29,Male,United States,NY,No,Yes,1100
+1101,26,Male,United States,OH,No,No,1101
+1102,33,Female,Canada,NA,Yes,Yes,1102
+1103,35,Female,United States,WA,No,Yes,1103
+1104,45,M,United States,CA,No,Yes,1104
+1105,25,Male,United States,SC,No,Yes,1105
+1106,50,male,France,NA,Yes,Yes,1106
+1107,26,male,Australia,NA,No,No,1107
+1108,33,female,United States,CA,No,No,1108
+1109,30,Male,India,NA,No,No,1109
+1110,33,male,Croatia,NA,No,Yes,1110
+1111,29,M,France,NA,No,No,1111
+1112,37,male,Germany,NA,No,Yes,1112
+1113,25,Male,United States,MN,No,Yes,1113
+1114,40,m,United States,WA,No,No,1114
+1115,24,Male,Canada,NA,No,No,1115
+1116,40,Male,United Kingdom,NA,No,No,1116
+1117,46,Male,United States,PA,No,No,1117
+1118,38,Male,United States,NY,No,No,1118
+1119,34,Male,United States,VT,No,Yes,1119
+1120,32,Male,United Kingdom,NA,Yes,No,1120
+1121,44,Male,United Kingdom,NA,No,No,1121
+1122,33,Female,United Kingdom,NA,No,No,1122
+1123,45,female,United States,MI,No,No,1123
+1124,35,Male,United States,NY,No,No,1124
+1125,26,Male,Germany,NA,Yes,No,1125
+1126,20,female,United States,NY,No,Yes,1126
+1127,-1,p,United States,AL,Yes,Yes,1127
+1128,37,Male,Netherlands,NA,No,No,1128
+1129,28,male,United States,MI,No,No,1129
+1130,42,F,United States,WA,No,No,1130
+1131,32,male,United Kingdom,NA,No,No,1131
+1132,36,F,United States,TN,No,Yes,1132
+1133,27,M,New Zealand,NA,No,No,1133
+1134,27,M,New Zealand,NA,No,No,1134
+1135,27,Male,United Kingdom,NA,No,No,1135
+1136,25,Male,United Kingdom,NA,No,Yes,1136
+1137,41,M,United Kingdom,NA,No,No,1137
+1138,23,Male,Germany,NA,No,No,1138
+1139,21,Male,United Kingdom,NA,No,No,1139
+1140,26,Male,Moldova,NA,No,No,1140
+1141,29,Male,Sweden,NA,No,No,1141
+1142,28,male,Belgium,NA,No,No,1142
+1143,27,female,United Kingdom,NA,No,No,1143
+1144,23,Male,Israel,NA,No,No,1144
+1145,26,F,United States,NY,No,Yes,1145
+1146,38,Male,United Kingdom,NA,No,No,1146
+1147,39,M,United Kingdom,NA,No,No,1147
+1148,35,M,United States,IN,No,No,1148
+1149,32,male,United States,NC,No,No,1149
+1150,32,Male,United States,CA,No,No,1150
+1151,26,Male,United Kingdom,NA,No,No,1151
+1152,38,Male,Canada,NA,No,No,1152
+1153,34,Female,United Kingdom,NA,No,No,1153
+1154,39,Male,United States,TN,No,No,1154
+1155,32,male,Canada,NA,Yes,Yes,1155
+1156,37,Male,Netherlands,NA,Yes,Yes,1156
+1157,31,male,United Kingdom,NA,No,No,1157
+1158,30,m,United States,MN,No,No,1158
+1159,51,M,Singapore,NA,No,Yes,1159
+1160,29,M,United States,NC,No,No,1160
+1161,31,Male,United Kingdom,NA,No,No,1161
+1162,31,Male,India,NA,No,No,1162
+1163,26,Male,United States,TX,No,Yes,1163
+1164,46,Female,United States,CA,No,Yes,1164
+1165,32,Male,United States,CA,No,No,1165
+1166,29,Male,United States,IL,No,No,1166
+1167,34,male,Poland,NA,No,Yes,1167
+1168,26,Male,Colombia,NA,No,No,1168
+1169,32,Female,United States,PA,No,No,1169
+1170,29,Male,United States,IL,No,No,1170
+1171,30,Male,United States,IL,No,No,1171
+1172,40,F,United States,MN,No,No,1172
+1173,23,Male,United Kingdom,NA,No,No,1173
+1174,20,Male,Georgia,NA,No,No,1174
+1175,38,male,United States,NY,No,No,1175
+1176,26,Female,United States,MI,No,No,1176
+1177,29,Male,United States,OH,No,No,1177
+1178,40,m,China,NA,Yes,Yes,1178
+1179,25,female,Bulgaria,UT,No,Yes,1179
+1180,32,Woman,United States,NY,No,No,1180
+1181,38,male,United States,CA,No,No,1181
+1182,72,Female,United States,IN,No,Yes,1182
+1183,35,female,United States,IN,No,Yes,1183
+1184,28,F,United States,VA,No,No,1184
+1185,27,femail,United States,OK,No,No,1185
+1186,56,female,United States,OR,Yes,Yes,1186
+1187,38,Male,United States,AL,No,Yes,1187
+1188,31,Female,Belgium,NA,No,No,1188
+1189,40,Male,United States,AL,No,No,1189
+1190,44,M,United States,OH,No,No,1190
+1191,34,Male,Canada,NA,No,No,1191
+1192,37,Male,United Kingdom,NA,No,Yes,1192
+1193,38,male,Italy,NA,No,No,1193
+1194,27,male,Germany,NA,No,No,1194
+1195,34,female,Ireland,NA,No,No,1195
+1196,35,Female,Ireland,NA,No,No,1196
+1197,34,male,Ireland,NA,No,No,1197
+1198,32,Male,United States,TX,No,Yes,1198
+1199,25,male,Ireland,NA,No,No,1199
+1200,28,Male,Australia,NA,No,Yes,1200
+1201,28,Female,United States,TX,No,No,1201
+1202,31,Male,Brazil,NA,Yes,No,1202
+1203,24,Male,United Kingdom,NA,No,No,1203
+1204,34,Male,Ireland,NA,No,Yes,1204
+1205,32,male,Ireland,NA,No,No,1205
+1206,34,Male,United Kingdom,NA,No,Yes,1206
+1207,23,Male,United States,TX,No,No,1207
+1208,33,Male,Czech Republic,NA,No,No,1208
+1209,29,male,Singapore,NA,No,No,1209
+1210,24,male,Ireland,NA,No,No,1210
+1211,45,male,Ireland,NA,No,Yes,1211
+1212,34,Female,United Kingdom,NA,No,No,1212
+1213,31,Male,Philippines,NA,No,No,1213
+1214,33,Male,United States,FL,No,Yes,1214
+1215,28,male,Netherlands,NA,No,No,1215
+1216,27,Male,United Kingdom,NA,No,Yes,1216
+1217,42,male,Ireland,NA,No,No,1217
+1218,28,male,Netherlands,NA,No,No,1218
+1219,38,Male,United States,TX,No,Yes,1219
+1220,46,Male,United States,CA,No,No,1220
+1221,46,male,United States,MD,No,Yes,1221
+1222,41,female,Netherlands,NA,Yes,Yes,1222
+1223,23,Male,United Kingdom,NA,No,No,1223
+1224,24,male,Ireland,NA,No,No,1224
+1225,23,female,Ireland,NA,No,No,1225
+1226,39,Male,Netherlands,NA,No,No,1226
+1227,32,Female,Ireland,NA,No,No,1227
+1228,25,Male,United States,MN,No,No,1228
+1229,39,Male,Greece,NA,No,Yes,1229
+1230,23,Female,United Kingdom,NA,No,No,1230
+1231,24,Cis Man,United Kingdom,NA,Yes,Yes,1231
+1232,25,Male,United Kingdom,NA,No,No,1232
+1233,23,Male,United Kingdom,NA,No,No,1233
+1234,24,"ostensibly male, unsure what that really means",United Kingdom,NA,No,No,1234
+1235,23,Male,Canada,NA,No,No,1235
+1236,60,Male,United States,CA,No,Yes,1236
+1237,28,male,Ireland,NA,No,No,1237
+1238,28,Male,United States,TN,No,No,1238
+1239,30,male,Netherlands,NA,No,No,1239
+1240,31,male,Germany,NA,No,No,1240
+1241,31,Male,Poland,NA,Yes,Yes,1241
+1242,28,Male,Ireland,NA,No,No,1242
+1243,43,f,United States,FL,No,Yes,1243
+1244,32,female,United Kingdom,NA,No,No,1244
+1245,22,Male,Australia,NA,No,No,1245
+1246,32,Male,United States,OR,No,No,1246
+1247,36,male,Finland,NA,No,No,1247
+1248,41,Female,United States,WA,No,No,1248
+1249,30,M,United States,CA,No,No,1249
+1250,30,Male,United States,CA,Yes,No,1250
+1251,36,Male,South Africa,NA,No,No,1251
+1252,29,male,United States,NC,No,Yes,1252
+1253,36,Male,United States,UT,No,No,1253
+1254,26,male,United Kingdom,NA,No,No,1254
+1255,32,Male,United States,IL,No,Yes,1255
+1256,34,male,United States,CA,No,No,1256
+1257,46,f,United States,NC,No,Yes,1257
+1258,25,Male,United States,IL,No,No,1258
