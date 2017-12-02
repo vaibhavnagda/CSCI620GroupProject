@@ -1,0 +1,1260 @@
+company_id,no_of_employees,tech_company,benefits,care_options,wellness_program,leave,mental_vs_physical,survey_id
+0,6-25,Yes,Yes,Not sure,No,Somewhat easy,Yes,0
+1,More than 1000,No,Don't know,No,Don't know,Don't know,Don't know,1
+2,6-25,Yes,No,No,No,Somewhat difficult,No,2
+3,26-100,Yes,No,Yes,No,Somewhat difficult,No,3
+4,100-500,Yes,Yes,No,Don't know,Don't know,Don't know,4
+5,6-25,Yes,Yes,Not sure,No,Don't know,Don't know,5
+6,1-5,Yes,No,No,No,Somewhat difficult,Don't know,6
+7,1-5,Yes,No,Yes,No,Don't know,No,7
+8,100-500,Yes,Yes,Yes,No,Very difficult,No,8
+9,26-100,Yes,Don't know,No,Don't know,Don't know,Yes,9
+10,6-25,Yes,Don't know,No,No,Don't know,Don't know,10
+11,100-500,Yes,Don't know,Not sure,No,Don't know,Don't know,11
+12,26-100,No,Yes,Yes,No,Somewhat difficult,No,12
+13,500-1000,Yes,Don't know,Not sure,No,Don't know,Don't know,13
+14,6-25,Yes,Don't know,Not sure,Don't know,Somewhat easy,Yes,14
+15,26-100,Yes,Yes,Not sure,No,Somewhat easy,Don't know,15
+16,26-100,Yes,Don't know,No,Don't know,Very easy,No,16
+17,6-25,Yes,Yes,Yes,No,Don't know,No,17
+18,1-5,Yes,Yes,Not sure,Yes,Very easy,Yes,18
+19,6-25,Yes,No,No,Yes,Somewhat easy,Don't know,19
+20,100-500,Yes,Yes,Yes,No,Somewhat difficult,No,20
+21,1-5,Yes,No,No,No,Somewhat difficult,Yes,21
+22,26-100,Yes,Yes,Yes,No,Don't know,No,22
+23,More than 1000,No,Don't know,No,No,Don't know,Don't know,23
+24,26-100,Yes,Yes,Not sure,Don't know,Don't know,Don't know,24
+25,More than 1000,No,Yes,Yes,No,Very easy,No,25
+26,1-5,Yes,Don't know,Not sure,No,Don't know,Don't know,26
+27,6-25,Yes,Yes,Yes,Don't know,Don't know,Yes,27
+28,26-100,Yes,Don't know,Not sure,No,Somewhat difficult,No,28
+29,6-25,Yes,No,No,No,Very difficult,No,29
+30,6-25,Yes,No,No,No,Don't know,No,30
+31,1-5,Yes,No,Yes,No,Somewhat difficult,No,31
+32,500-1000,Yes,Don't know,No,No,Somewhat easy,Don't know,32
+33,26-100,Yes,Yes,Yes,Yes,Very easy,Don't know,33
+34,1-5,Yes,Yes,Yes,No,Don't know,Yes,34
+35,6-25,Yes,No,Yes,No,Very easy,Don't know,35
+36,1-5,Yes,No,No,No,Very easy,Don't know,36
+37,100-500,Yes,No,Yes,No,Somewhat easy,No,37
+38,100-500,Yes,Yes,Yes,No,Don't know,Don't know,38
+39,More than 1000,Yes,Yes,Yes,No,Very easy,Yes,39
+40,6-25,Yes,No,No,No,Don't know,No,40
+41,More than 1000,Yes,Yes,Not sure,Don't know,Somewhat difficult,Don't know,41
+42,1-5,Yes,No,Yes,No,Very difficult,Yes,42
+43,6-25,Yes,No,Not sure,No,Somewhat difficult,No,43
+44,26-100,Yes,Don't know,No,No,Don't know,Don't know,44
+45,26-100,Yes,Yes,Yes,No,Somewhat easy,Yes,45
+46,26-100,Yes,Don't know,Not sure,No,Don't know,Don't know,46
+47,6-25,Yes,No,No,No,Don't know,Don't know,47
+48,1-5,Yes,No,Yes,Yes,Don't know,Yes,48
+49,26-100,Yes,Yes,No,No,Don't know,Don't know,49
+50,6-25,Yes,No,Yes,No,Very difficult,Don't know,50
+51,100-500,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,51
+52,100-500,Yes,Don't know,No,Don't know,Don't know,Don't know,52
+53,1-5,Yes,Don't know,Not sure,No,Don't know,Don't know,53
+54,100-500,Yes,No,No,No,Don't know,Don't know,54
+55,26-100,Yes,Yes,Yes,No,Don't know,Don't know,55
+56,6-25,Yes,Don't know,No,No,Somewhat easy,Yes,56
+57,26-100,Yes,Don't know,No,No,Don't know,No,57
+58,26-100,No,No,No,No,Somewhat easy,Don't know,58
+59,6-25,Yes,Don't know,No,No,Somewhat difficult,Don't know,59
+60,More than 1000,No,Yes,No,No,Don't know,Don't know,60
+61,26-100,Yes,Don't know,Not sure,Yes,Very easy,Yes,61
+62,100-500,Yes,Yes,Not sure,No,Somewhat easy,Yes,62
+63,26-100,Yes,No,No,No,Very easy,No,63
+64,6-25,Yes,Don't know,No,No,Somewhat easy,Don't know,64
+65,More than 1000,Yes,Yes,Yes,Yes,Don't know,No,65
+66,1-5,Yes,No,Not sure,No,Very easy,Yes,66
+67,100-500,Yes,Yes,No,Don't know,Don't know,Yes,67
+68,26-100,No,Don't know,No,Don't know,Don't know,Don't know,68
+69,1-5,Yes,No,No,No,Don't know,Don't know,69
+70,26-100,Yes,No,No,No,Don't know,Don't know,70
+71,6-25,Yes,Don't know,Not sure,Don't know,Somewhat easy,Don't know,71
+72,More than 1000,Yes,Yes,Yes,No,Somewhat difficult,No,72
+73,26-100,Yes,No,No,No,Somewhat easy,Yes,73
+74,More than 1000,Yes,Don't know,Not sure,Yes,Don't know,Yes,74
+75,1-5,Yes,No,Yes,No,Somewhat difficult,No,75
+76,More than 1000,Yes,Yes,Yes,Yes,Don't know,Yes,76
+77,1-5,Yes,No,No,No,Somewhat difficult,Yes,77
+78,26-100,Yes,No,No,No,Somewhat difficult,No,78
+79,6-25,Yes,Don't know,No,Don't know,Very easy,Yes,79
+80,100-500,Yes,Yes,Yes,No,Don't know,Yes,80
+81,26-100,Yes,Yes,Not sure,Yes,Very easy,Yes,81
+82,26-100,No,No,No,No,Don't know,No,82
+83,1-5,Yes,Yes,Yes,Yes,Very easy,Yes,83
+84,More than 1000,Yes,No,No,No,Don't know,No,84
+85,26-100,Yes,Don't know,Not sure,No,Don't know,No,85
+86,6-25,Yes,No,No,No,Very difficult,No,86
+87,500-1000,Yes,Yes,Not sure,No,Don't know,Don't know,87
+88,26-100,Yes,Yes,Yes,No,Don't know,No,88
+89,500-1000,Yes,Don't know,No,No,Don't know,Don't know,89
+90,500-1000,Yes,Yes,Yes,Yes,Somewhat easy,Yes,90
+91,26-100,Yes,No,Yes,No,Very difficult,No,91
+92,26-100,Yes,Don't know,No,No,Somewhat easy,Don't know,92
+93,26-100,Yes,Yes,Yes,No,Somewhat easy,Don't know,93
+94,26-100,Yes,Yes,Yes,No,Don't know,Don't know,94
+95,26-100,Yes,Don't know,No,No,Don't know,No,95
+96,26-100,Yes,Don't know,Not sure,No,Somewhat easy,Don't know,96
+97,6-25,Yes,Don't know,No,No,Don't know,No,97
+98,6-25,Yes,No,Yes,No,Somewhat easy,No,98
+99,1-5,Yes,No,Yes,No,Somewhat easy,Yes,99
+100,26-100,No,No,Yes,No,Very difficult,No,100
+101,100-500,Yes,Yes,Not sure,Don't know,Don't know,Don't know,101
+102,26-100,Yes,Don't know,No,Don't know,Very easy,Don't know,102
+103,26-100,Yes,Yes,Yes,Yes,Somewhat easy,Yes,103
+104,More than 1000,Yes,Yes,Not sure,Yes,Somewhat easy,Don't know,104
+105,6-25,Yes,Yes,Not sure,No,Somewhat easy,Don't know,105
+106,26-100,Yes,Don't know,Not sure,No,Somewhat easy,No,106
+107,6-25,Yes,No,No,No,Don't know,Don't know,107
+108,6-25,Yes,Yes,No,No,Don't know,Don't know,108
+109,26-100,Yes,Yes,No,Yes,Somewhat difficult,Yes,109
+110,500-1000,Yes,Yes,Yes,No,Don't know,No,110
+111,26-100,Yes,Yes,Yes,Yes,Somewhat easy,Yes,111
+112,6-25,Yes,Yes,Yes,No,Very easy,Yes,112
+113,100-500,Yes,Yes,Yes,No,Don't know,Don't know,113
+114,More than 1000,Yes,Don't know,No,No,Don't know,Don't know,114
+115,6-25,Yes,Don't know,No,No,Very easy,Don't know,115
+116,1-5,No,No,Yes,No,Very difficult,No,116
+117,6-25,No,Yes,Yes,Yes,Very easy,Don't know,117
+118,1-5,Yes,No,No,No,Very easy,Don't know,118
+119,26-100,Yes,Don't know,Not sure,No,Don't know,Don't know,119
+120,More than 1000,Yes,Yes,Yes,No,Don't know,Don't know,120
+121,26-100,Yes,Don't know,No,No,Very easy,Don't know,121
+122,6-25,Yes,Don't know,No,Don't know,Very easy,Yes,122
+123,6-25,Yes,Yes,No,No,Don't know,Don't know,123
+124,100-500,No,Yes,Not sure,No,Very difficult,No,124
+125,500-1000,Yes,Yes,No,Yes,Don't know,Don't know,125
+126,6-25,Yes,No,No,No,Don't know,Don't know,126
+127,100-500,Yes,Yes,Yes,No,Don't know,Don't know,127
+128,6-25,Yes,No,No,No,Somewhat easy,Yes,128
+129,6-25,Yes,Don't know,No,No,Somewhat easy,Don't know,129
+130,More than 1000,Yes,Yes,Yes,No,Very easy,No,130
+131,1-5,Yes,No,Yes,No,Very difficult,Don't know,131
+132,26-100,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,132
+133,26-100,Yes,No,Yes,No,Somewhat easy,No,133
+134,26-100,Yes,Don't know,No,No,Don't know,Don't know,134
+135,26-100,No,No,No,No,Don't know,Don't know,135
+136,6-25,Yes,Don't know,No,No,Very easy,Yes,136
+137,More than 1000,Yes,Yes,Not sure,No,Somewhat easy,Don't know,137
+138,6-25,Yes,Don't know,No,No,Somewhat easy,Don't know,138
+139,6-25,Yes,Don't know,No,Don't know,Somewhat easy,Don't know,139
+140,100-500,Yes,Don't know,No,Don't know,Don't know,Don't know,140
+141,More than 1000,No,No,Yes,Yes,Very difficult,Yes,141
+142,26-100,No,Don't know,Not sure,Don't know,Don't know,Don't know,142
+143,More than 1000,No,Yes,No,Don't know,Don't know,Don't know,143
+144,More than 1000,Yes,Don't know,Not sure,No,Don't know,Don't know,144
+145,100-500,No,Yes,Yes,Yes,Somewhat easy,Don't know,145
+146,6-25,Yes,No,No,No,Don't know,Don't know,146
+147,6-25,No,No,No,No,Somewhat easy,No,147
+148,100-500,Yes,No,Yes,Yes,Somewhat easy,No,148
+149,100-500,Yes,Don't know,Not sure,No,Don't know,Don't know,149
+150,1-5,Yes,Don't know,Not sure,No,Somewhat easy,Don't know,150
+151,26-100,Yes,Don't know,Not sure,No,Very easy,No,151
+152,6-25,Yes,No,No,No,Don't know,Yes,152
+153,6-25,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,153
+154,More than 1000,No,Yes,Yes,Yes,Somewhat difficult,No,154
+155,26-100,No,Don't know,No,No,Somewhat difficult,No,155
+156,More than 1000,Yes,Don't know,No,No,Don't know,Don't know,156
+157,26-100,No,Don't know,Not sure,No,Don't know,No,157
+158,26-100,Yes,No,Yes,No,Somewhat difficult,Don't know,158
+159,26-100,Yes,Don't know,Not sure,No,Very easy,Don't know,159
+160,More than 1000,No,Yes,Yes,Yes,Somewhat easy,Don't know,160
+161,500-1000,Yes,Yes,No,No,Don't know,Don't know,161
+162,More than 1000,Yes,Yes,No,No,Don't know,Don't know,162
+163,6-25,Yes,Don't know,No,No,Don't know,Don't know,163
+164,1-5,Yes,No,Yes,Yes,Very difficult,Yes,164
+165,1-5,Yes,No,Yes,No,Somewhat easy,Yes,165
+166,26-100,Yes,No,No,No,Very easy,Don't know,166
+167,6-25,Yes,No,Yes,No,Very difficult,No,167
+168,1-5,Yes,No,No,No,Very difficult,No,168
+169,100-500,Yes,Don't know,Not sure,Yes,Very easy,Don't know,169
+170,More than 1000,Yes,Yes,Yes,Don't know,Somewhat easy,Don't know,170
+171,6-25,Yes,Don't know,No,No,Don't know,Don't know,171
+172,More than 1000,Yes,Don't know,Not sure,No,Very difficult,No,172
+173,6-25,Yes,Don't know,No,No,Don't know,Yes,173
+174,More than 1000,No,Yes,Yes,Yes,Somewhat easy,No,174
+175,26-100,Yes,Don't know,Not sure,No,Don't know,Don't know,175
+176,100-500,No,No,Not sure,No,Somewhat easy,Yes,176
+177,6-25,Yes,Yes,Not sure,Don't know,Very easy,Yes,177
+178,1-5,Yes,Yes,No,No,Somewhat difficult,Yes,178
+179,6-25,Yes,Don't know,No,No,Very easy,Don't know,179
+180,6-25,Yes,No,No,No,Don't know,No,180
+181,6-25,No,No,No,No,Somewhat easy,Don't know,181
+182,26-100,Yes,Don't know,No,No,Somewhat easy,Don't know,182
+183,More than 1000,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,183
+184,More than 1000,Yes,Yes,Not sure,No,Very difficult,No,184
+185,500-1000,Yes,Yes,No,No,Don't know,No,185
+186,6-25,Yes,Don't know,No,No,Somewhat easy,Yes,186
+187,6-25,Yes,No,Yes,No,Somewhat easy,Yes,187
+188,1-5,Yes,Don't know,No,No,Don't know,Don't know,188
+189,More than 1000,Yes,Yes,Not sure,Don't know,Somewhat easy,Don't know,189
+190,1-5,Yes,No,Yes,No,Somewhat easy,Don't know,190
+191,26-100,Yes,Yes,No,No,Somewhat easy,No,191
+192,26-100,Yes,No,No,No,Don't know,Don't know,192
+193,6-25,Yes,No,No,No,Don't know,Don't know,193
+194,100-500,Yes,No,No,No,Very difficult,No,194
+195,6-25,Yes,No,No,No,Somewhat easy,Don't know,195
+196,500-1000,Yes,Don't know,Not sure,No,Don't know,Don't know,196
+197,More than 1000,Yes,Yes,No,No,Somewhat easy,No,197
+198,6-25,Yes,Yes,Yes,No,Somewhat easy,Yes,198
+199,More than 1000,Yes,Don't know,No,No,Don't know,Don't know,199
+200,26-100,Yes,Yes,No,No,Very easy,Yes,200
+201,500-1000,No,Yes,Yes,Yes,Somewhat easy,Yes,201
+202,6-25,Yes,No,Not sure,No,Very difficult,Don't know,202
+203,1-5,Yes,No,Yes,No,Very difficult,Don't know,203
+204,100-500,Yes,Don't know,No,Don't know,Very easy,Yes,204
+205,100-500,Yes,Don't know,Not sure,No,Somewhat difficult,No,205
+206,6-25,Yes,No,Yes,No,Somewhat difficult,Yes,206
+207,26-100,Yes,No,Yes,No,Somewhat easy,Don't know,207
+208,26-100,Yes,Don't know,Not sure,No,Don't know,Don't know,208
+209,100-500,Yes,No,No,No,Very easy,Don't know,209
+210,26-100,Yes,Yes,Yes,Yes,Somewhat easy,Yes,210
+211,26-100,No,No,No,No,Don't know,Don't know,211
+212,1-5,Yes,No,No,No,Don't know,Don't know,212
+213,6-25,Yes,Don't know,No,No,Don't know,No,213
+214,100-500,No,Yes,Yes,Don't know,Very easy,Yes,214
+215,1-5,Yes,No,No,Don't know,Very difficult,Don't know,215
+216,6-25,Yes,Yes,Yes,No,Very difficult,Yes,216
+217,6-25,Yes,Yes,Yes,No,Very easy,Yes,217
+218,500-1000,No,Yes,No,No,Somewhat difficult,Don't know,218
+219,26-100,Yes,Yes,Not sure,No,Very easy,Don't know,219
+220,6-25,Yes,Yes,No,No,Somewhat easy,Yes,220
+221,26-100,Yes,Don't know,No,No,Don't know,Don't know,221
+222,6-25,Yes,Don't know,No,No,Don't know,Don't know,222
+223,More than 1000,Yes,No,Yes,No,Very difficult,No,223
+224,26-100,Yes,Don't know,Not sure,Don't know,Don't know,Yes,224
+225,1-5,Yes,Don't know,No,Don't know,Very easy,Yes,225
+226,1-5,Yes,No,Yes,No,Very difficult,Yes,226
+227,1-5,Yes,Don't know,Not sure,Yes,Somewhat difficult,Yes,227
+228,6-25,Yes,Yes,Not sure,No,Very easy,Yes,228
+229,1-5,Yes,No,Yes,No,Don't know,Yes,229
+230,26-100,Yes,Yes,No,No,Don't know,Don't know,230
+231,500-1000,Yes,Yes,Yes,No,Don't know,No,231
+232,More than 1000,No,Don't know,Not sure,Don't know,Very difficult,No,232
+233,26-100,Yes,Don't know,Not sure,No,Don't know,No,233
+234,26-100,Yes,Don't know,No,Don't know,Somewhat easy,Yes,234
+235,26-100,Yes,No,No,No,Somewhat difficult,No,235
+236,26-100,Yes,Yes,Yes,No,Don't know,Don't know,236
+237,6-25,Yes,No,No,No,Somewhat difficult,No,237
+238,More than 1000,No,Yes,Yes,Yes,Somewhat easy,Yes,238
+239,6-25,No,Yes,Yes,Yes,Don't know,No,239
+240,6-25,Yes,Don't know,No,No,Don't know,No,240
+241,1-5,Yes,No,No,No,Somewhat difficult,No,241
+242,26-100,Yes,Yes,Yes,Yes,Somewhat easy,Don't know,242
+243,6-25,Yes,No,No,No,Somewhat difficult,No,243
+244,More than 1000,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,244
+245,More than 1000,Yes,Yes,Yes,Yes,Don't know,No,245
+246,6-25,No,Don't know,No,No,Don't know,Don't know,246
+247,6-25,No,No,No,No,Very easy,Yes,247
+248,1-5,Yes,No,No,No,Don't know,Don't know,248
+249,500-1000,No,Yes,Yes,Yes,Don't know,Don't know,249
+250,26-100,No,Don't know,No,No,Somewhat easy,Yes,250
+251,100-500,Yes,Yes,No,No,Somewhat easy,Yes,251
+252,100-500,Yes,Yes,Yes,Yes,Very easy,Yes,252
+253,100-500,No,Don't know,Not sure,Don't know,Very easy,Don't know,253
+254,6-25,Yes,Don't know,No,Don't know,Don't know,Don't know,254
+255,6-25,Yes,No,No,No,Somewhat difficult,Don't know,255
+256,6-25,Yes,Don't know,Not sure,Don't know,Don't know,Yes,256
+257,6-25,Yes,No,Yes,No,Somewhat easy,Yes,257
+258,1-5,Yes,No,No,No,Don't know,No,258
+259,6-25,Yes,No,Yes,No,Very difficult,No,259
+260,6-25,Yes,Yes,No,No,Don't know,Don't know,260
+261,6-25,Yes,No,Yes,No,Very difficult,No,261
+262,100-500,Yes,Yes,Yes,No,Don't know,Yes,262
+263,6-25,Yes,No,Yes,No,Very difficult,No,263
+264,6-25,Yes,No,Not sure,No,Somewhat easy,Don't know,264
+265,6-25,Yes,No,Yes,No,Very easy,Don't know,265
+266,26-100,Yes,Yes,Yes,Don't know,Very easy,Yes,266
+267,1-5,Yes,Don't know,Not sure,Don't know,Very easy,Don't know,267
+268,26-100,Yes,Yes,Yes,No,Don't know,Don't know,268
+269,6-25,Yes,No,No,No,Very easy,Don't know,269
+270,1-5,Yes,No,No,No,Somewhat difficult,No,270
+271,100-500,No,Yes,No,Don't know,Don't know,Yes,271
+272,More than 1000,Yes,Yes,Yes,Yes,Very easy,Yes,272
+273,26-100,Yes,No,Yes,No,Somewhat easy,Don't know,273
+274,26-100,Yes,Yes,No,No,Don't know,No,274
+275,100-500,Yes,Yes,No,Yes,Don't know,Don't know,275
+276,26-100,No,Yes,No,No,Don't know,Don't know,276
+277,6-25,Yes,No,Yes,No,Somewhat easy,Don't know,277
+278,100-500,No,Yes,Yes,Yes,Very easy,Yes,278
+279,100-500,Yes,Don't know,No,No,Don't know,No,279
+280,6-25,Yes,Don't know,Not sure,Yes,Somewhat easy,No,280
+281,6-25,Yes,No,No,No,Don't know,Don't know,281
+282,6-25,Yes,Don't know,No,No,Don't know,Don't know,282
+283,26-100,Yes,Yes,Yes,No,Somewhat difficult,Don't know,283
+284,100-500,No,Don't know,Not sure,No,Don't know,No,284
+285,6-25,Yes,No,No,No,Somewhat easy,Yes,285
+286,More than 1000,Yes,Yes,Not sure,Don't know,Don't know,Don't know,286
+287,26-100,Yes,Don't know,Not sure,Don't know,Very easy,Yes,287
+288,1-5,Yes,No,Yes,No,Don't know,Don't know,288
+289,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,Don't know,289
+290,1-5,Yes,No,No,No,Somewhat easy,Yes,290
+291,More than 1000,Yes,Don't know,No,No,Don't know,Don't know,291
+292,More than 1000,Yes,Yes,Yes,Don't know,Don't know,Don't know,292
+293,More than 1000,Yes,Yes,No,No,Don't know,Don't know,293
+294,More than 1000,Yes,Yes,Not sure,Don't know,Don't know,Don't know,294
+295,500-1000,Yes,Don't know,Not sure,No,Don't know,No,295
+296,26-100,Yes,Yes,Yes,Yes,Very easy,Yes,296
+297,More than 1000,Yes,Yes,No,Don't know,Don't know,Yes,297
+298,More than 1000,Yes,Yes,No,Yes,Don't know,Don't know,298
+299,More than 1000,Yes,Yes,Yes,Yes,Don't know,Don't know,299
+300,More than 1000,Yes,Yes,Yes,Yes,Don't know,Yes,300
+301,More than 1000,Yes,Yes,Not sure,Don't know,Somewhat easy,Yes,301
+302,100-500,Yes,Yes,Not sure,No,Don't know,Don't know,302
+303,100-500,No,Yes,Yes,Yes,Somewhat easy,Yes,303
+304,More than 1000,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,304
+305,6-25,Yes,Yes,No,No,Don't know,Yes,305
+306,26-100,Yes,Yes,Not sure,No,Somewhat easy,Don't know,306
+307,26-100,Yes,No,No,No,Don't know,Don't know,307
+308,26-100,Yes,Don't know,Not sure,No,Don't know,Don't know,308
+309,100-500,Yes,Yes,Not sure,Yes,Don't know,Don't know,309
+310,6-25,No,Don't know,No,No,Somewhat difficult,Don't know,310
+311,100-500,Yes,Yes,Not sure,Don't know,Don't know,Don't know,311
+312,1-5,Yes,No,Yes,No,Somewhat easy,Yes,312
+313,More than 1000,Yes,Yes,Not sure,No,Don't know,No,313
+314,More than 1000,Yes,Don't know,No,Don't know,Very easy,Yes,314
+315,6-25,No,Don't know,Not sure,No,Don't know,Don't know,315
+316,100-500,No,Don't know,Not sure,No,Don't know,Don't know,316
+317,More than 1000,No,Yes,Yes,Yes,Very easy,Yes,317
+318,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,Yes,318
+319,26-100,Yes,No,Yes,No,Somewhat easy,Don't know,319
+320,100-500,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,320
+321,More than 1000,Yes,Yes,No,No,Don't know,No,321
+322,500-1000,Yes,Yes,Not sure,Don't know,Somewhat easy,Yes,322
+323,More than 1000,Yes,Yes,Yes,No,Don't know,Don't know,323
+324,6-25,Yes,Yes,No,Don't know,Don't know,Don't know,324
+325,More than 1000,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,325
+326,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,Don't know,326
+327,More than 1000,Yes,Don't know,Not sure,Don't know,Don't know,Yes,327
+328,1-5,Yes,No,Yes,No,Don't know,Don't know,328
+329,1-5,No,No,No,No,Somewhat difficult,Yes,329
+330,26-100,Yes,Yes,Not sure,Yes,Very easy,Yes,330
+331,More than 1000,Yes,Yes,Yes,No,Don't know,No,331
+332,100-500,No,Don't know,No,No,Somewhat easy,No,332
+333,1-5,Yes,No,No,No,Very difficult,Don't know,333
+334,6-25,No,No,Yes,No,Don't know,No,334
+335,26-100,Yes,Yes,Not sure,Yes,Very easy,Don't know,335
+336,26-100,Yes,Don't know,No,No,Don't know,Don't know,336
+337,More than 1000,Yes,Yes,Not sure,Don't know,Very easy,Don't know,337
+338,More than 1000,Yes,Yes,Yes,Don't know,Don't know,Don't know,338
+339,26-100,Yes,Yes,Yes,Yes,Very easy,Yes,339
+340,26-100,No,Don't know,Not sure,No,Don't know,No,340
+341,26-100,Yes,No,Yes,No,Very difficult,No,341
+342,More than 1000,Yes,Don't know,Not sure,Don't know,Very easy,No,342
+343,More than 1000,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,343
+344,1-5,Yes,Don't know,No,No,Don't know,No,344
+345,26-100,Yes,Yes,Yes,No,Don't know,Don't know,345
+346,100-500,No,Don't know,No,No,Don't know,Don't know,346
+347,More than 1000,Yes,Don't know,No,Yes,Don't know,Don't know,347
+348,More than 1000,Yes,Don't know,No,Don't know,Don't know,Don't know,348
+349,More than 1000,Yes,Yes,Yes,Don't know,Don't know,Yes,349
+350,6-25,No,Don't know,No,No,Don't know,Don't know,350
+351,More than 1000,Yes,Yes,Yes,Yes,Don't know,Yes,351
+352,6-25,Yes,No,No,No,Very easy,Yes,352
+353,More than 1000,Yes,Yes,Not sure,Don't know,Don't know,Don't know,353
+354,6-25,Yes,Yes,Yes,Yes,Somewhat easy,No,354
+355,500-1000,No,No,Yes,No,Don't know,No,355
+356,26-100,Yes,Don't know,Not sure,No,Don't know,Don't know,356
+357,More than 1000,Yes,Yes,Yes,Don't know,Don't know,Don't know,357
+358,100-500,Yes,No,No,No,Somewhat easy,Don't know,358
+359,1-5,Yes,No,Yes,No,Very easy,Yes,359
+360,6-25,Yes,No,No,No,Somewhat difficult,Don't know,360
+361,26-100,Yes,No,No,No,Somewhat difficult,Yes,361
+362,100-500,No,No,No,No,Don't know,No,362
+363,More than 1000,No,Yes,Yes,Yes,Don't know,Yes,363
+364,6-25,Yes,Yes,Yes,No,Don't know,No,364
+365,More than 1000,Yes,Don't know,Not sure,No,Somewhat difficult,No,365
+366,More than 1000,Yes,Yes,No,Yes,Very easy,Don't know,366
+367,100-500,Yes,No,Yes,No,Very easy,Don't know,367
+368,100-500,Yes,Yes,No,No,Don't know,Don't know,368
+369,6-25,No,Don't know,Not sure,No,Very easy,No,369
+370,More than 1000,Yes,Yes,No,Yes,Somewhat easy,Yes,370
+371,More than 1000,Yes,Yes,No,Yes,Somewhat difficult,No,371
+372,More than 1000,Yes,Yes,Yes,Yes,Very easy,Yes,372
+373,26-100,Yes,Yes,Yes,Yes,Somewhat easy,Yes,373
+374,26-100,Yes,Don't know,Not sure,Don't know,Somewhat easy,Don't know,374
+375,26-100,Yes,Yes,Yes,Don't know,Don't know,Don't know,375
+376,More than 1000,Yes,Yes,Yes,No,Don't know,No,376
+377,26-100,Yes,Don't know,No,No,Don't know,Yes,377
+378,More than 1000,No,Yes,Yes,Yes,Very difficult,Yes,378
+379,More than 1000,Yes,Yes,Yes,No,Don't know,Don't know,379
+380,500-1000,Yes,Yes,Not sure,No,Somewhat easy,Don't know,380
+381,More than 1000,Yes,Yes,No,Yes,Don't know,Yes,381
+382,26-100,Yes,Yes,No,No,Don't know,Don't know,382
+383,26-100,Yes,No,No,No,Somewhat easy,No,383
+384,6-25,Yes,Don't know,No,No,Don't know,No,384
+385,More than 1000,Yes,Yes,Yes,No,Don't know,Don't know,385
+386,500-1000,Yes,Don't know,Not sure,No,Don't know,Don't know,386
+387,1-5,Yes,Yes,Yes,No,Very difficult,No,387
+388,6-25,Yes,Don't know,Not sure,No,Somewhat difficult,Don't know,388
+389,More than 1000,Yes,Yes,Yes,No,Don't know,Don't know,389
+390,1-5,Yes,No,Yes,No,Very difficult,No,390
+391,More than 1000,No,Yes,No,Don't know,Somewhat easy,Don't know,391
+392,More than 1000,Yes,Don't know,No,No,Somewhat easy,Don't know,392
+393,26-100,Yes,Don't know,No,Don't know,Very easy,Yes,393
+394,500-1000,No,No,No,No,Very difficult,No,394
+395,More than 1000,No,Yes,Not sure,No,Don't know,Don't know,395
+396,26-100,Yes,Don't know,No,No,Don't know,No,396
+397,6-25,Yes,No,No,No,Very difficult,No,397
+398,100-500,Yes,Don't know,Not sure,No,Don't know,Don't know,398
+399,100-500,Yes,Don't know,Not sure,Don't know,Somewhat easy,Yes,399
+400,6-25,Yes,Yes,Yes,No,Somewhat difficult,No,400
+401,26-100,Yes,Yes,Yes,No,Don't know,No,401
+402,More than 1000,Yes,Don't know,No,No,Don't know,No,402
+403,100-500,Yes,Yes,Yes,No,Very difficult,No,403
+404,26-100,Yes,Don't know,No,No,Very easy,Don't know,404
+405,6-25,Yes,Yes,Yes,No,Very easy,No,405
+406,26-100,Yes,Yes,Yes,Yes,Don't know,Yes,406
+407,More than 1000,Yes,Don't know,No,Don't know,Don't know,Yes,407
+408,6-25,Yes,Don't know,No,No,Somewhat easy,Don't know,408
+409,500-1000,Yes,No,No,No,Don't know,Don't know,409
+410,More than 1000,Yes,Yes,Yes,No,Somewhat easy,No,410
+411,More than 1000,No,Don't know,Not sure,No,Very difficult,No,411
+412,More than 1000,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,412
+413,More than 1000,Yes,Don't know,No,No,Don't know,Yes,413
+414,100-500,Yes,Don't know,Not sure,Don't know,Somewhat difficult,Yes,414
+415,6-25,Yes,Don't know,No,No,Somewhat easy,Don't know,415
+416,100-500,Yes,Don't know,Not sure,No,Somewhat difficult,No,416
+417,6-25,Yes,No,No,No,Don't know,No,417
+418,6-25,Yes,No,No,No,Somewhat easy,Don't know,418
+419,1-5,Yes,No,Yes,No,Don't know,No,419
+420,1-5,Yes,Yes,No,No,Very easy,Yes,420
+421,26-100,Yes,Don't know,No,Don't know,Don't know,Don't know,421
+422,6-25,Yes,Yes,Yes,Yes,Very easy,Yes,422
+423,6-25,Yes,No,No,No,Somewhat easy,Don't know,423
+424,More than 1000,No,Yes,Yes,No,Don't know,Don't know,424
+425,6-25,No,Don't know,Not sure,No,Don't know,Yes,425
+426,100-500,Yes,No,Yes,No,Somewhat difficult,No,426
+427,More than 1000,No,Yes,Not sure,Yes,Don't know,Don't know,427
+428,More than 1000,No,Yes,No,No,Don't know,Don't know,428
+429,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,Yes,429
+430,100-500,Yes,Don't know,No,No,Somewhat easy,Yes,430
+431,6-25,Yes,No,No,No,Very easy,Yes,431
+432,1-5,Yes,No,No,No,Somewhat easy,Don't know,432
+433,26-100,Yes,Don't know,No,No,Don't know,Don't know,433
+434,26-100,Yes,Don't know,Not sure,No,Somewhat difficult,Don't know,434
+435,6-25,Yes,Don't know,No,No,Don't know,Don't know,435
+436,More than 1000,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,436
+437,100-500,Yes,Don't know,Not sure,Don't know,Very easy,Don't know,437
+438,26-100,Yes,Yes,Yes,No,Don't know,Don't know,438
+439,1-5,Yes,Yes,Yes,Yes,Somewhat easy,Yes,439
+440,6-25,Yes,No,No,No,Don't know,No,440
+441,More than 1000,Yes,Yes,No,Yes,Somewhat easy,Don't know,441
+442,More than 1000,Yes,Yes,Yes,Yes,Don't know,Yes,442
+443,100-500,Yes,Yes,No,Don't know,Don't know,Yes,443
+444,6-25,Yes,Yes,Yes,No,Very easy,Yes,444
+445,More than 1000,Yes,Yes,No,No,Don't know,No,445
+446,More than 1000,Yes,Yes,Not sure,Don't know,Don't know,Don't know,446
+447,100-500,Yes,Yes,Yes,No,Somewhat difficult,No,447
+448,26-100,Yes,Yes,Yes,Yes,Don't know,Don't know,448
+449,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,449
+450,6-25,Yes,Yes,Yes,No,Very easy,Yes,450
+451,More than 1000,Yes,Yes,Yes,Yes,Don't know,Yes,451
+452,More than 1000,Yes,Yes,Yes,Yes,Very difficult,No,452
+453,6-25,Yes,Don't know,Not sure,No,Don't know,Don't know,453
+454,100-500,Yes,Don't know,Not sure,No,Don't know,Don't know,454
+455,More than 1000,Yes,Don't know,No,No,Somewhat easy,Don't know,455
+456,6-25,Yes,No,Yes,No,Somewhat easy,No,456
+457,100-500,Yes,Yes,No,No,Don't know,Don't know,457
+458,6-25,Yes,No,No,No,Don't know,Yes,458
+459,500-1000,Yes,Yes,No,No,Don't know,Don't know,459
+460,26-100,Yes,Don't know,No,Don't know,Don't know,Yes,460
+461,500-1000,Yes,Yes,Not sure,Yes,Very easy,Yes,461
+462,6-25,Yes,No,Yes,No,Somewhat easy,Don't know,462
+463,26-100,Yes,Don't know,Not sure,No,Somewhat difficult,No,463
+464,6-25,Yes,Don't know,No,Yes,Somewhat easy,Yes,464
+465,26-100,Yes,No,No,No,Somewhat easy,Yes,465
+466,More than 1000,Yes,Yes,Yes,No,Don't know,No,466
+467,More than 1000,Yes,No,No,No,Very difficult,No,467
+468,6-25,Yes,No,Yes,No,Don't know,No,468
+469,100-500,Yes,Yes,Yes,No,Don't know,Don't know,469
+470,100-500,Yes,Yes,Yes,Yes,Very easy,Yes,470
+471,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,Yes,471
+472,6-25,Yes,Don't know,No,No,Very difficult,No,472
+473,More than 1000,Yes,Yes,Yes,No,Don't know,No,473
+474,6-25,Yes,Don't know,No,No,Very difficult,Don't know,474
+475,More than 1000,Yes,Yes,Not sure,Yes,Don't know,Don't know,475
+476,6-25,Yes,No,Not sure,No,Somewhat difficult,No,476
+477,26-100,Yes,Don't know,No,Don't know,Don't know,Don't know,477
+478,500-1000,No,Don't know,No,No,Very easy,Don't know,478
+479,100-500,Yes,Don't know,Not sure,No,Don't know,Don't know,479
+480,26-100,No,Don't know,Not sure,Don't know,Don't know,Yes,480
+481,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,Don't know,481
+482,1-5,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,482
+483,6-25,Yes,Yes,Yes,No,Don't know,Don't know,483
+484,6-25,Yes,Don't know,No,No,Don't know,Don't know,484
+485,26-100,No,No,Yes,Don't know,Somewhat easy,No,485
+486,26-100,Yes,Don't know,Not sure,No,Don't know,Don't know,486
+487,1-5,Yes,No,Yes,No,Very easy,Yes,487
+488,6-25,Yes,No,No,No,Very easy,Yes,488
+489,6-25,No,No,No,No,Don't know,No,489
+490,More than 1000,Yes,Yes,Not sure,Don't know,Don't know,Yes,490
+491,100-500,No,Don't know,Not sure,No,Don't know,Don't know,491
+492,26-100,Yes,No,No,No,Somewhat difficult,No,492
+493,1-5,Yes,No,No,Don't know,Don't know,Don't know,493
+494,26-100,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,494
+495,More than 1000,Yes,Yes,Not sure,Don't know,Don't know,Yes,495
+496,More than 1000,No,Yes,Not sure,No,Somewhat difficult,No,496
+497,1-5,Yes,Don't know,Not sure,No,Somewhat difficult,No,497
+498,More than 1000,No,No,Yes,Yes,Very easy,No,498
+499,6-25,Yes,Don't know,Not sure,Don't know,Somewhat easy,Yes,499
+500,26-100,Yes,Yes,Yes,No,Don't know,No,500
+501,More than 1000,Yes,No,No,No,Don't know,No,501
+502,26-100,Yes,No,Not sure,No,Don't know,Don't know,502
+503,More than 1000,No,Don't know,Not sure,Don't know,Don't know,Don't know,503
+504,100-500,Yes,No,Yes,No,Don't know,No,504
+505,More than 1000,Yes,Yes,Yes,Yes,Don't know,Yes,505
+506,100-500,No,Yes,No,Yes,Very difficult,No,506
+507,6-25,Yes,Yes,No,No,Don't know,Yes,507
+508,More than 1000,Yes,Yes,Yes,Yes,Very easy,Yes,508
+509,More than 1000,Yes,Yes,Not sure,Yes,Don't know,Yes,509
+510,500-1000,Yes,Yes,Yes,Yes,Very easy,Don't know,510
+511,6-25,Yes,No,No,No,Somewhat easy,Yes,511
+512,More than 1000,Yes,Don't know,Not sure,No,Don't know,Don't know,512
+513,26-100,Yes,Yes,Yes,Yes,Very easy,Yes,513
+514,More than 1000,Yes,Yes,Not sure,Yes,Don't know,No,514
+515,6-25,Yes,Don't know,No,No,Don't know,Don't know,515
+516,500-1000,Yes,Yes,Not sure,Yes,Don't know,Yes,516
+517,More than 1000,No,Yes,Yes,Yes,Very easy,No,517
+518,6-25,Yes,Yes,Yes,No,Very easy,No,518
+519,26-100,Yes,No,Yes,No,Very easy,No,519
+520,More than 1000,Yes,Yes,Yes,Don't know,Don't know,Yes,520
+521,More than 1000,No,Don't know,Not sure,Don't know,Don't know,Don't know,521
+522,More than 1000,No,No,No,No,Don't know,No,522
+523,26-100,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,523
+524,1-5,Yes,Don't know,Yes,Don't know,Somewhat difficult,Yes,524
+525,500-1000,Yes,Yes,Yes,Yes,Very easy,Yes,525
+526,1-5,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,526
+527,26-100,Yes,No,Yes,Yes,Somewhat difficult,Don't know,527
+528,6-25,Yes,Yes,Yes,No,Very easy,Yes,528
+529,100-500,Yes,Don't know,Not sure,Don't know,Don't know,Yes,529
+530,6-25,Yes,No,No,No,Don't know,Don't know,530
+531,100-500,Yes,Yes,Yes,Yes,Somewhat easy,No,531
+532,1-5,Yes,No,No,No,Very difficult,No,532
+533,6-25,Yes,Don't know,No,No,Very easy,Yes,533
+534,26-100,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,534
+535,6-25,Yes,No,Yes,No,Somewhat difficult,No,535
+536,26-100,Yes,Yes,Yes,Yes,Somewhat easy,No,536
+537,More than 1000,Yes,Don't know,No,No,Don't know,No,537
+538,6-25,Yes,Don't know,No,No,Don't know,Don't know,538
+539,500-1000,Yes,Yes,Yes,No,Don't know,No,539
+540,100-500,No,Don't know,No,No,Somewhat difficult,No,540
+541,100-500,Yes,Yes,Yes,No,Somewhat easy,Yes,541
+542,6-25,Yes,Don't know,No,No,Don't know,Yes,542
+543,100-500,Yes,Yes,No,No,Don't know,No,543
+544,100-500,Yes,No,Not sure,No,Somewhat difficult,No,544
+545,6-25,Yes,Don't know,Not sure,No,Very easy,Yes,545
+546,26-100,Yes,Don't know,Not sure,Don't know,Very easy,Yes,546
+547,More than 1000,Yes,Yes,No,No,Somewhat difficult,No,547
+548,More than 1000,Yes,Yes,Yes,Yes,Don't know,Yes,548
+549,26-100,Yes,No,No,Don't know,Somewhat easy,Don't know,549
+550,500-1000,No,Don't know,Not sure,No,Don't know,Don't know,550
+551,6-25,Yes,No,No,No,Very easy,Don't know,551
+552,1-5,Yes,No,No,No,Don't know,Yes,552
+553,26-100,Yes,No,Yes,Yes,Somewhat easy,Yes,553
+554,100-500,Yes,No,No,No,Somewhat easy,Don't know,554
+555,More than 1000,No,Don't know,Not sure,Don't know,Don't know,Don't know,555
+556,More than 1000,Yes,Yes,Yes,Yes,Very easy,Yes,556
+557,26-100,Yes,Don't know,No,Don't know,Don't know,Don't know,557
+558,6-25,Yes,No,Not sure,No,Somewhat easy,Yes,558
+559,More than 1000,Yes,Don't know,Not sure,Don't know,Don't know,Yes,559
+560,6-25,No,No,No,No,Very easy,Yes,560
+561,100-500,Yes,Don't know,No,No,Don't know,Yes,561
+562,More than 1000,Yes,Don't know,Not sure,Don't know,Very easy,Yes,562
+563,26-100,Yes,Don't know,Not sure,No,Don't know,Don't know,563
+564,26-100,Yes,No,No,No,Somewhat difficult,No,564
+565,More than 1000,Yes,Yes,Yes,No,Somewhat difficult,No,565
+566,500-1000,Yes,Yes,Not sure,Yes,Don't know,Don't know,566
+567,More than 1000,Yes,Yes,No,No,Somewhat easy,Don't know,567
+568,More than 1000,Yes,Yes,Not sure,Don't know,Somewhat easy,No,568
+569,100-500,Yes,Don't know,No,No,Don't know,Don't know,569
+570,1-5,Yes,No,Yes,No,Don't know,Yes,570
+571,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,Don't know,571
+572,500-1000,Yes,Don't know,Not sure,Don't know,Don't know,Yes,572
+573,26-100,Yes,Yes,Yes,No,Somewhat difficult,No,573
+574,26-100,Yes,No,Yes,No,Don't know,No,574
+575,26-100,Yes,Don't know,No,No,Somewhat easy,Yes,575
+576,26-100,Yes,Don't know,No,Don't know,Don't know,Don't know,576
+577,6-25,Yes,Don't know,Not sure,No,Very easy,Yes,577
+578,26-100,Yes,Yes,Yes,No,Very difficult,No,578
+579,26-100,No,Yes,No,No,Don't know,Don't know,579
+580,More than 1000,Yes,Yes,No,No,Don't know,Don't know,580
+581,100-500,Yes,Don't know,No,No,Don't know,Don't know,581
+582,More than 1000,No,Yes,Not sure,Yes,Somewhat difficult,Don't know,582
+583,6-25,Yes,No,Yes,No,Very easy,Yes,583
+584,1-5,Yes,No,No,No,Don't know,No,584
+585,26-100,No,Don't know,Not sure,No,Somewhat easy,Don't know,585
+586,100-500,Yes,No,No,No,Don't know,No,586
+587,26-100,Yes,Yes,Yes,Yes,Don't know,Don't know,587
+588,6-25,Yes,No,No,No,Somewhat easy,Don't know,588
+589,6-25,Yes,No,Yes,No,Somewhat easy,Don't know,589
+590,26-100,Yes,Yes,Yes,No,Don't know,Don't know,590
+591,26-100,Yes,Don't know,No,No,Somewhat difficult,Don't know,591
+592,1-5,Yes,No,No,No,Don't know,Don't know,592
+593,More than 1000,Yes,Yes,Not sure,Yes,Don't know,No,593
+594,100-500,Yes,Yes,Yes,Yes,Don't know,Yes,594
+595,100-500,Yes,Yes,Not sure,Don't know,Don't know,Yes,595
+596,100-500,Yes,Yes,Not sure,No,Somewhat difficult,No,596
+597,26-100,Yes,Don't know,No,No,Don't know,Don't know,597
+598,500-1000,Yes,Don't know,Not sure,Don't know,Don't know,Yes,598
+599,100-500,Yes,No,No,No,Somewhat difficult,No,599
+600,100-500,Yes,Yes,Yes,Yes,Don't know,Don't know,600
+601,6-25,Yes,No,No,Yes,Very easy,Yes,601
+602,100-500,No,Yes,Not sure,No,Somewhat difficult,No,602
+603,1-5,No,No,Yes,No,Somewhat difficult,Yes,603
+604,More than 1000,Yes,Yes,Not sure,Don't know,Don't know,No,604
+605,100-500,Yes,No,Yes,No,Don't know,No,605
+606,1-5,Yes,Don't know,No,No,Don't know,Don't know,606
+607,26-100,No,Don't know,Not sure,No,Don't know,No,607
+608,26-100,Yes,Don't know,No,No,Don't know,Yes,608
+609,1-5,Yes,No,No,No,Don't know,Don't know,609
+610,6-25,Yes,No,Yes,No,Somewhat easy,Yes,610
+611,6-25,No,No,Yes,No,Very easy,Yes,611
+612,More than 1000,No,Don't know,No,No,Don't know,No,612
+613,26-100,Yes,Don't know,Not sure,No,Somewhat easy,No,613
+614,More than 1000,Yes,Yes,No,No,Very easy,Don't know,614
+615,6-25,Yes,No,Not sure,No,Somewhat difficult,Yes,615
+616,26-100,Yes,Yes,No,Yes,Don't know,Yes,616
+617,100-500,No,Yes,Yes,No,Very difficult,No,617
+618,26-100,Yes,No,Not sure,No,Don't know,Don't know,618
+619,100-500,Yes,Yes,Yes,No,Very easy,Yes,619
+620,100-500,Yes,Don't know,No,No,Somewhat easy,Don't know,620
+621,1-5,Yes,Don't know,Not sure,No,Don't know,No,621
+622,26-100,Yes,Yes,Yes,No,Very easy,Don't know,622
+623,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,Don't know,623
+624,100-500,Yes,Don't know,No,No,Don't know,Don't know,624
+625,500-1000,Yes,Yes,Yes,Yes,Somewhat difficult,No,625
+626,100-500,No,Yes,Yes,No,Somewhat difficult,No,626
+627,6-25,Yes,No,Yes,No,Somewhat easy,No,627
+628,26-100,Yes,No,Yes,No,Very difficult,No,628
+629,26-100,Yes,Yes,Not sure,No,Don't know,Don't know,629
+630,100-500,Yes,No,No,No,Don't know,Don't know,630
+631,6-25,Yes,Yes,Yes,No,Don't know,Don't know,631
+632,6-25,Yes,No,No,No,Very easy,Yes,632
+633,100-500,Yes,Yes,Yes,No,Somewhat easy,Yes,633
+634,100-500,No,Don't know,No,Yes,Very easy,Yes,634
+635,26-100,Yes,No,No,No,Somewhat easy,Don't know,635
+636,6-25,Yes,No,No,No,Somewhat easy,Yes,636
+637,26-100,Yes,No,No,No,Somewhat easy,Yes,637
+638,1-5,Yes,Yes,Not sure,No,Very easy,Yes,638
+639,1-5,Yes,No,Yes,Yes,Somewhat difficult,No,639
+640,26-100,Yes,Yes,Yes,No,Very easy,Yes,640
+641,26-100,Yes,No,No,No,Very easy,Don't know,641
+642,More than 1000,No,Yes,Yes,Yes,Somewhat difficult,No,642
+643,26-100,Yes,Yes,Yes,No,Somewhat difficult,Don't know,643
+644,100-500,No,Yes,No,No,Don't know,Don't know,644
+645,6-25,Yes,No,No,No,Don't know,Don't know,645
+646,26-100,Yes,No,No,No,Don't know,No,646
+647,26-100,Yes,No,No,No,Very easy,Don't know,647
+648,100-500,No,No,Yes,Yes,Somewhat easy,Don't know,648
+649,6-25,Yes,No,No,No,Don't know,Don't know,649
+650,More than 1000,No,Don't know,No,Yes,Don't know,Don't know,650
+651,100-500,Yes,Don't know,Not sure,Don't know,Don't know,No,651
+652,1-5,Yes,Don't know,Not sure,No,Very easy,Don't know,652
+653,500-1000,No,Don't know,No,Yes,Don't know,Don't know,653
+654,500-1000,No,Yes,Not sure,Yes,Very easy,Yes,654
+655,6-25,Yes,No,No,No,Don't know,Don't know,655
+656,1-5,Yes,No,No,No,Somewhat difficult,Yes,656
+657,1-5,Yes,No,No,No,Don't know,Don't know,657
+658,More than 1000,Yes,Yes,Yes,No,Don't know,Yes,658
+659,6-25,Yes,Don't know,No,No,Somewhat easy,Don't know,659
+660,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,Yes,660
+661,1-5,Yes,Don't know,No,No,Don't know,Don't know,661
+662,More than 1000,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,662
+663,1-5,Yes,No,No,No,Somewhat difficult,Yes,663
+664,More than 1000,No,Don't know,No,No,Very easy,Don't know,664
+665,26-100,Yes,No,No,Don't know,Very difficult,No,665
+666,1-5,Yes,Don't know,No,Don't know,Very easy,Yes,666
+667,More than 1000,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,667
+668,26-100,Yes,No,No,No,Don't know,Don't know,668
+669,100-500,Yes,Don't know,No,No,Don't know,Don't know,669
+670,26-100,Yes,No,Not sure,No,Somewhat difficult,Don't know,670
+671,6-25,Yes,Don't know,Not sure,No,Don't know,Don't know,671
+672,100-500,Yes,Yes,Not sure,Don't know,Somewhat easy,Yes,672
+673,100-500,Yes,Don't know,No,Don't know,Don't know,Yes,673
+674,26-100,Yes,Don't know,No,No,Don't know,No,674
+675,26-100,No,Don't know,Not sure,No,Don't know,Don't know,675
+676,26-100,Yes,No,No,No,Don't know,Don't know,676
+677,6-25,Yes,Don't know,No,No,Don't know,Don't know,677
+678,1-5,Yes,No,Yes,No,Very easy,Yes,678
+679,1-5,Yes,Yes,Not sure,No,Very easy,Yes,679
+680,26-100,Yes,No,No,No,Somewhat easy,Don't know,680
+681,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,681
+682,26-100,No,Don't know,Not sure,No,Somewhat difficult,No,682
+683,More than 1000,No,Yes,Yes,Yes,Somewhat easy,Don't know,683
+684,6-25,Yes,No,No,No,Don't know,Don't know,684
+685,More than 1000,Yes,Don't know,Not sure,No,Don't know,Don't know,685
+686,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,Yes,686
+687,100-500,Yes,Yes,Not sure,Yes,Somewhat easy,Yes,687
+688,26-100,Yes,Don't know,No,No,Don't know,Don't know,688
+689,6-25,Yes,Don't know,Not sure,Yes,Very easy,Yes,689
+690,6-25,Yes,Yes,No,No,Somewhat easy,Don't know,690
+691,1-5,Yes,No,No,No,Somewhat easy,Yes,691
+692,26-100,Yes,Don't know,No,No,Somewhat easy,Don't know,692
+693,More than 1000,Yes,Yes,Not sure,Don't know,Somewhat easy,Don't know,693
+694,6-25,Yes,No,No,No,Don't know,No,694
+695,26-100,No,Yes,Yes,No,Very easy,Yes,695
+696,100-500,Yes,No,No,No,Somewhat easy,No,696
+697,More than 1000,No,No,Yes,No,Very difficult,No,697
+698,500-1000,Yes,Don't know,No,No,Don't know,Yes,698
+699,6-25,Yes,No,No,No,Somewhat difficult,Don't know,699
+700,100-500,No,Yes,No,No,Don't know,Don't know,700
+701,1-5,Yes,No,Yes,Yes,Very difficult,Yes,701
+702,100-500,Yes,Yes,Yes,Don't know,Don't know,Don't know,702
+703,26-100,No,Yes,Yes,Yes,Somewhat easy,Yes,703
+704,26-100,No,Yes,Not sure,No,Somewhat easy,No,704
+705,100-500,Yes,Don't know,No,No,Don't know,No,705
+706,26-100,Yes,Don't know,Not sure,No,Don't know,No,706
+707,1-5,Yes,Don't know,Not sure,Don't know,Very easy,Don't know,707
+708,26-100,Yes,Don't know,Not sure,No,Don't know,Don't know,708
+709,26-100,Yes,Yes,Yes,No,Very easy,Yes,709
+710,6-25,Yes,No,No,No,Somewhat easy,Don't know,710
+711,6-25,Yes,Don't know,Not sure,Don't know,Don't know,Yes,711
+712,100-500,Yes,Don't know,No,No,Very easy,Don't know,712
+713,6-25,Yes,Yes,Yes,No,Don't know,No,713
+714,1-5,Yes,Yes,Yes,Don't know,Very difficult,No,714
+715,26-100,No,No,No,No,Somewhat difficult,Don't know,715
+716,500-1000,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,716
+717,6-25,Yes,Yes,Yes,Yes,Somewhat easy,Yes,717
+718,6-25,Yes,No,No,No,Very easy,Yes,718
+719,26-100,Yes,Yes,Not sure,No,Don't know,Don't know,719
+720,6-25,Yes,Don't know,No,No,Don't know,Don't know,720
+721,More than 1000,No,Don't know,No,No,Very difficult,No,721
+722,1-5,Yes,No,Yes,No,Somewhat difficult,Don't know,722
+723,6-25,Yes,Don't know,No,Yes,Don't know,No,723
+724,1-5,No,No,Yes,No,Don't know,Don't know,724
+725,100-500,Yes,No,No,No,Don't know,No,725
+726,6-25,Yes,Don't know,No,No,Very easy,No,726
+727,26-100,Yes,Don't know,No,No,Very difficult,No,727
+728,More than 1000,No,Don't know,Not sure,Don't know,Don't know,No,728
+729,1-5,Yes,No,No,No,Very difficult,No,729
+730,6-25,Yes,No,No,No,Don't know,No,730
+731,26-100,Yes,No,No,Yes,Don't know,Don't know,731
+732,6-25,Yes,Don't know,Not sure,No,Very easy,Don't know,732
+733,26-100,No,Yes,Yes,Yes,Don't know,Don't know,733
+734,100-500,Yes,Don't know,Not sure,No,Somewhat easy,Yes,734
+735,100-500,No,No,Not sure,No,Very easy,No,735
+736,More than 1000,No,Yes,Yes,Don't know,Don't know,Don't know,736
+737,26-100,Yes,Don't know,Not sure,No,Don't know,Don't know,737
+738,6-25,Yes,No,No,No,Don't know,Yes,738
+739,More than 1000,No,Don't know,No,Don't know,Don't know,Don't know,739
+740,26-100,Yes,No,Yes,No,Very easy,Yes,740
+741,6-25,Yes,No,Yes,No,Very difficult,No,741
+742,100-500,Yes,No,No,No,Very easy,Yes,742
+743,26-100,Yes,Yes,Yes,No,Somewhat easy,Don't know,743
+744,100-500,Yes,Yes,Yes,No,Very difficult,Don't know,744
+745,26-100,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,745
+746,6-25,Yes,Yes,Not sure,No,Very easy,Yes,746
+747,6-25,Yes,No,No,No,Somewhat difficult,No,747
+748,6-25,Yes,Yes,Yes,Yes,Very easy,Yes,748
+749,26-100,Yes,Don't know,Not sure,No,Somewhat difficult,Don't know,749
+750,26-100,Yes,Yes,Yes,No,Very easy,Don't know,750
+751,More than 1000,Yes,Don't know,Not sure,Yes,Very easy,Yes,751
+752,100-500,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,752
+753,6-25,Yes,No,No,No,Very easy,Yes,753
+754,More than 1000,Yes,Yes,Yes,Yes,Very easy,Yes,754
+755,26-100,No,Don't know,No,No,Don't know,Don't know,755
+756,26-100,No,Yes,Not sure,No,Don't know,Don't know,756
+757,More than 1000,Yes,Yes,No,Yes,Somewhat difficult,No,757
+758,26-100,Yes,No,No,No,Somewhat easy,Yes,758
+759,More than 1000,No,No,Yes,No,Don't know,No,759
+760,1-5,Yes,No,Yes,No,Somewhat easy,Yes,760
+761,26-100,No,Yes,Yes,Yes,Don't know,Yes,761
+762,1-5,Yes,No,No,No,Very easy,Yes,762
+763,1-5,Yes,No,No,No,Very difficult,No,763
+764,100-500,Yes,Don't know,Not sure,Yes,Somewhat easy,No,764
+765,6-25,Yes,No,No,Yes,Somewhat easy,Yes,765
+766,1-5,Yes,Yes,Yes,Yes,Somewhat easy,No,766
+767,26-100,Yes,Don't know,Not sure,No,Somewhat easy,Don't know,767
+768,6-25,Yes,Yes,No,No,Don't know,No,768
+769,26-100,Yes,Don't know,Not sure,No,Somewhat easy,Don't know,769
+770,500-1000,No,Don't know,No,No,Don't know,Don't know,770
+771,1-5,Yes,No,Yes,No,Very easy,Yes,771
+772,More than 1000,No,Don't know,Not sure,No,Don't know,Don't know,772
+773,More than 1000,No,Don't know,Not sure,No,Don't know,No,773
+774,6-25,Yes,No,No,No,Somewhat easy,No,774
+775,100-500,No,Yes,Yes,Yes,Very easy,No,775
+776,6-25,Yes,Don't know,No,No,Don't know,No,776
+777,More than 1000,No,Don't know,No,Yes,Don't know,Yes,777
+778,More than 1000,Yes,Don't know,Not sure,No,Don't know,Don't know,778
+779,6-25,Yes,Don't know,No,No,Don't know,Don't know,779
+780,26-100,Yes,Don't know,No,No,Don't know,Don't know,780
+781,6-25,Yes,No,Yes,No,Somewhat difficult,Don't know,781
+782,More than 1000,Yes,Don't know,Not sure,Don't know,Very easy,Yes,782
+783,1-5,Yes,Don't know,No,No,Don't know,Don't know,783
+784,6-25,Yes,Don't know,No,No,Don't know,Don't know,784
+785,More than 1000,No,Yes,Yes,Yes,Don't know,No,785
+786,1-5,Yes,No,Yes,No,Somewhat easy,No,786
+787,26-100,Yes,Yes,Yes,Don't know,Don't know,Don't know,787
+788,100-500,No,Don't know,No,Don't know,Somewhat easy,Don't know,788
+789,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,Yes,789
+790,100-500,Yes,Don't know,Not sure,No,Somewhat easy,Don't know,790
+791,More than 1000,Yes,Yes,Yes,Don't know,Don't know,Don't know,791
+792,6-25,Yes,Don't know,Not sure,No,Somewhat difficult,No,792
+793,100-500,No,Yes,No,No,Very difficult,No,793
+794,More than 1000,Yes,Don't know,Not sure,Don't know,Very difficult,No,794
+795,26-100,Yes,Yes,Yes,No,Somewhat easy,No,795
+796,100-500,Yes,Yes,No,No,Don't know,Don't know,796
+797,26-100,Yes,Don't know,No,No,Don't know,No,797
+798,26-100,Yes,No,No,No,Don't know,No,798
+799,100-500,Yes,Don't know,No,Don't know,Very easy,Yes,799
+800,100-500,No,Yes,Yes,Yes,Very easy,Don't know,800
+801,6-25,Yes,No,Yes,No,Very easy,Yes,801
+802,26-100,Yes,Yes,No,No,Don't know,Don't know,802
+803,More than 1000,Yes,Yes,Yes,Yes,Very easy,Yes,803
+804,26-100,Yes,Don't know,Not sure,No,Somewhat easy,Don't know,804
+805,26-100,Yes,No,Yes,No,Somewhat difficult,No,805
+806,100-500,No,Yes,Yes,Yes,Don't know,Don't know,806
+807,6-25,Yes,Don't know,No,No,Don't know,Yes,807
+808,26-100,Yes,Don't know,Not sure,No,Very easy,Yes,808
+809,More than 1000,Yes,Yes,Yes,No,Don't know,No,809
+810,6-25,Yes,Don't know,No,No,Don't know,Don't know,810
+811,100-500,Yes,No,No,No,Somewhat difficult,No,811
+812,1-5,No,No,No,No,Very difficult,No,812
+813,6-25,Yes,No,Yes,No,Don't know,Don't know,813
+814,1-5,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,814
+815,26-100,Yes,Don't know,Not sure,No,Don't know,Don't know,815
+816,500-1000,Yes,Yes,Yes,Yes,Very difficult,Don't know,816
+817,1-5,Yes,No,Yes,No,Very easy,Yes,817
+818,6-25,Yes,No,Not sure,Yes,Very easy,Yes,818
+819,1-5,Yes,No,Yes,Yes,Somewhat easy,Yes,819
+820,100-500,No,Yes,Not sure,Yes,Don't know,Don't know,820
+821,1-5,Yes,No,Yes,Yes,Somewhat easy,Yes,821
+822,More than 1000,Yes,No,Yes,No,Very difficult,Don't know,822
+823,More than 1000,Yes,Don't know,Not sure,Don't know,Don't know,Yes,823
+824,More than 1000,Yes,Yes,No,Yes,Don't know,Don't know,824
+825,26-100,Yes,Don't know,No,No,Very difficult,No,825
+826,26-100,Yes,Don't know,Not sure,Don't know,Don't know,Yes,826
+827,1-5,Yes,Don't know,Not sure,No,Somewhat easy,Don't know,827
+828,6-25,Yes,Don't know,No,No,Don't know,Don't know,828
+829,1-5,No,No,Yes,No,Don't know,Yes,829
+830,More than 1000,No,Yes,Yes,No,Very easy,Yes,830
+831,100-500,Yes,Yes,Not sure,No,Don't know,Don't know,831
+832,6-25,Yes,No,Yes,No,Very easy,Yes,832
+833,100-500,Yes,Yes,Not sure,Don't know,Don't know,Don't know,833
+834,1-5,Yes,No,No,No,Don't know,Don't know,834
+835,500-1000,No,Don't know,No,No,Somewhat difficult,No,835
+836,6-25,Yes,Yes,Yes,No,Very easy,No,836
+837,100-500,Yes,Don't know,No,No,Very difficult,No,837
+838,More than 1000,No,Don't know,No,No,Very easy,Don't know,838
+839,More than 1000,Yes,Yes,Yes,Yes,Somewhat difficult,No,839
+840,More than 1000,No,Don't know,No,No,Very difficult,Don't know,840
+841,6-25,Yes,No,No,No,Somewhat difficult,Don't know,841
+842,100-500,Yes,Yes,Yes,No,Somewhat difficult,Don't know,842
+843,More than 1000,Yes,Don't know,Not sure,Yes,Don't know,Don't know,843
+844,26-100,No,Yes,No,No,Somewhat difficult,Don't know,844
+845,26-100,Yes,Don't know,Not sure,Don't know,Don't know,No,845
+846,100-500,Yes,Don't know,No,Yes,Don't know,Don't know,846
+847,1-5,Yes,No,No,No,Very easy,Yes,847
+848,1-5,Yes,No,Yes,No,Very easy,Yes,848
+849,More than 1000,Yes,Yes,Yes,Yes,Don't know,Don't know,849
+850,1-5,Yes,No,Yes,No,Somewhat easy,Don't know,850
+851,26-100,Yes,Yes,Yes,No,Don't know,Don't know,851
+852,6-25,No,No,No,No,Somewhat easy,Don't know,852
+853,6-25,Yes,No,No,No,Very difficult,Don't know,853
+854,6-25,Yes,Don't know,Not sure,No,Don't know,Don't know,854
+855,More than 1000,Yes,Yes,Yes,Yes,Very easy,Yes,855
+856,More than 1000,Yes,Yes,Yes,Yes,Very easy,Yes,856
+857,6-25,Yes,Don't know,Not sure,Don't know,Somewhat easy,Don't know,857
+858,100-500,Yes,No,No,No,Don't know,No,858
+859,6-25,No,No,No,No,Don't know,No,859
+860,6-25,No,No,No,No,Don't know,No,860
+861,1-5,Yes,No,Not sure,Don't know,Somewhat difficult,Yes,861
+862,100-500,No,Don't know,No,Don't know,Don't know,Don't know,862
+863,6-25,Yes,No,Yes,No,Very difficult,No,863
+864,More than 1000,No,Yes,Yes,Yes,Somewhat easy,Yes,864
+865,6-25,Yes,No,No,No,Somewhat difficult,No,865
+866,6-25,Yes,Yes,Yes,No,Somewhat easy,Don't know,866
+867,1-5,Yes,No,Yes,No,Very difficult,No,867
+868,1-5,Yes,No,Yes,No,Somewhat easy,No,868
+869,More than 1000,Yes,Don't know,No,No,Don't know,Don't know,869
+870,More than 1000,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,870
+871,100-500,Yes,Don't know,No,No,Somewhat difficult,Don't know,871
+872,26-100,No,Yes,Yes,Yes,Don't know,No,872
+873,More than 1000,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,873
+874,500-1000,No,Yes,Yes,No,Very easy,No,874
+875,6-25,Yes,Don't know,Not sure,No,Very difficult,Don't know,875
+876,26-100,Yes,Yes,No,Yes,Somewhat easy,No,876
+877,More than 1000,No,Don't know,Not sure,No,Don't know,Don't know,877
+878,More than 1000,No,No,No,No,Somewhat easy,Don't know,878
+879,26-100,Yes,Yes,Yes,No,Very easy,Don't know,879
+880,26-100,Yes,Don't know,Not sure,Don't know,Don't know,Yes,880
+881,26-100,Yes,Yes,Yes,Don't know,Very easy,Yes,881
+882,500-1000,Yes,Yes,No,Yes,Don't know,Yes,882
+883,1-5,Yes,Yes,No,No,Somewhat difficult,Yes,883
+884,26-100,Yes,Yes,Yes,No,Don't know,No,884
+885,500-1000,No,Don't know,No,No,Don't know,Don't know,885
+886,6-25,Yes,Don't know,Not sure,No,Don't know,Don't know,886
+887,500-1000,No,Yes,Yes,Yes,Somewhat easy,No,887
+888,100-500,Yes,No,No,No,Very easy,Yes,888
+889,More than 1000,Yes,Yes,No,Yes,Don't know,Don't know,889
+890,6-25,No,Yes,Not sure,Don't know,Don't know,Don't know,890
+891,1-5,Yes,No,Yes,No,Very difficult,Don't know,891
+892,100-500,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,892
+893,100-500,Yes,Yes,No,Don't know,Very difficult,No,893
+894,500-1000,Yes,Don't know,Not sure,No,Don't know,Don't know,894
+895,100-500,No,Don't know,Not sure,No,Somewhat difficult,Don't know,895
+896,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,Yes,896
+897,1-5,Yes,No,Not sure,No,Somewhat difficult,Don't know,897
+898,1-5,Yes,No,Yes,No,Somewhat easy,Yes,898
+899,26-100,Yes,Don't know,No,No,Somewhat easy,No,899
+900,26-100,No,No,No,No,Don't know,No,900
+901,26-100,Yes,No,No,No,Very difficult,No,901
+902,1-5,Yes,Yes,Yes,Yes,Very easy,Yes,902
+903,1-5,Yes,No,Yes,No,Very easy,Yes,903
+904,1-5,Yes,No,Yes,No,Somewhat difficult,Don't know,904
+905,More than 1000,Yes,Yes,Yes,No,Somewhat difficult,No,905
+906,More than 1000,Yes,Yes,No,Yes,Don't know,Don't know,906
+907,More than 1000,Yes,Yes,Yes,Yes,Don't know,No,907
+908,500-1000,Yes,Yes,Yes,Don't know,Don't know,Don't know,908
+909,More than 1000,Yes,Yes,Yes,Yes,Don't know,Yes,909
+910,6-25,Yes,No,No,No,Somewhat easy,No,910
+911,6-25,Yes,Yes,Yes,No,Don't know,Don't know,911
+912,6-25,Yes,No,No,No,Very easy,Don't know,912
+913,26-100,Yes,Don't know,Yes,No,Somewhat easy,Don't know,913
+914,6-25,Yes,Yes,Yes,No,Somewhat easy,Don't know,914
+915,26-100,Yes,No,No,No,Somewhat difficult,No,915
+916,1-5,Yes,No,Yes,No,Somewhat easy,Don't know,916
+917,1-5,Yes,No,No,No,Somewhat difficult,Yes,917
+918,More than 1000,Yes,Yes,Yes,Yes,Very easy,Yes,918
+919,More than 1000,Yes,Don't know,Not sure,No,Don't know,Don't know,919
+920,6-25,Yes,Don't know,Not sure,No,Somewhat easy,Don't know,920
+921,26-100,No,Yes,Yes,No,Somewhat difficult,No,921
+922,26-100,No,Yes,No,No,Don't know,Yes,922
+923,More than 1000,No,No,Yes,Don't know,Somewhat difficult,No,923
+924,500-1000,Yes,Yes,No,Don't know,Very easy,Yes,924
+925,More than 1000,Yes,Yes,No,Yes,Don't know,Don't know,925
+926,500-1000,No,Yes,Not sure,No,Don't know,No,926
+927,26-100,Yes,Yes,Yes,Yes,Somewhat easy,Yes,927
+928,100-500,Yes,Yes,No,No,Don't know,Don't know,928
+929,100-500,Yes,Don't know,No,Don't know,Very easy,Don't know,929
+930,6-25,No,Yes,Not sure,Yes,Somewhat difficult,Yes,930
+931,1-5,Yes,Don't know,No,No,Very easy,Yes,931
+932,100-500,Yes,Yes,Yes,No,Very difficult,No,932
+933,100-500,Yes,No,Not sure,No,Very difficult,No,933
+934,More than 1000,Yes,Don't know,Not sure,No,Very difficult,No,934
+935,1-5,No,No,No,No,Very difficult,No,935
+936,6-25,Yes,Don't know,No,No,Don't know,Don't know,936
+937,6-25,Yes,Don't know,No,No,Don't know,Yes,937
+938,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,Don't know,938
+939,6-25,Yes,Yes,Yes,Yes,Somewhat difficult,No,939
+940,More than 1000,Yes,Yes,Yes,Don't know,Don't know,No,940
+941,More than 1000,Yes,Yes,Yes,Yes,Very difficult,Don't know,941
+942,500-1000,Yes,Yes,Yes,No,Somewhat easy,Yes,942
+943,100-500,Yes,Yes,Yes,Yes,Don't know,Don't know,943
+944,More than 1000,Yes,Don't know,No,Don't know,Somewhat easy,No,944
+945,26-100,Yes,Yes,Yes,No,Don't know,No,945
+946,More than 1000,No,Yes,Yes,Yes,Don't know,Yes,946
+947,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,Yes,947
+948,More than 1000,Yes,Yes,Yes,Don't know,Very difficult,Don't know,948
+949,6-25,Yes,Yes,Yes,Don't know,Very easy,Don't know,949
+950,26-100,Yes,No,Yes,No,Very easy,Yes,950
+951,26-100,No,Don't know,Yes,No,Somewhat easy,No,951
+952,1-5,Yes,No,No,No,Very difficult,No,952
+953,6-25,Yes,Don't know,No,No,Don't know,Don't know,953
+954,6-25,Yes,No,No,No,Don't know,Don't know,954
+955,26-100,Yes,Don't know,Not sure,Yes,Somewhat easy,Yes,955
+956,More than 1000,No,Don't know,No,No,Don't know,No,956
+957,1-5,Yes,Yes,Yes,Yes,Very easy,Yes,957
+958,More than 1000,Yes,Yes,Not sure,Don't know,Don't know,No,958
+959,More than 1000,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,959
+960,6-25,Yes,Don't know,No,No,Very easy,No,960
+961,6-25,Yes,No,Yes,No,Somewhat easy,Yes,961
+962,26-100,No,Don't know,No,No,Somewhat difficult,Don't know,962
+963,1-5,Yes,Don't know,Not sure,No,Don't know,Don't know,963
+964,More than 1000,No,Yes,Yes,Yes,Somewhat easy,No,964
+965,1-5,Yes,No,Yes,No,Very difficult,No,965
+966,1-5,Yes,No,No,No,Very easy,Yes,966
+967,6-25,Yes,Don't know,Not sure,Don't know,Very easy,Don't know,967
+968,100-500,No,Don't know,No,No,Don't know,Don't know,968
+969,1-5,Yes,No,Yes,Yes,Very easy,Don't know,969
+970,More than 1000,Yes,No,Not sure,No,Very difficult,No,970
+971,6-25,Yes,No,Yes,No,Very difficult,Yes,971
+972,6-25,Yes,Don't know,Not sure,No,Don't know,Don't know,972
+973,More than 1000,Yes,Yes,Yes,Yes,Don't know,Yes,973
+974,6-25,Yes,Don't know,Not sure,No,Somewhat easy,Don't know,974
+975,500-1000,Yes,Don't know,No,Don't know,Don't know,Don't know,975
+976,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,No,976
+977,500-1000,No,Yes,Yes,Don't know,Somewhat easy,Don't know,977
+978,6-25,Yes,Yes,No,No,Somewhat easy,Don't know,978
+979,26-100,Yes,No,No,No,Somewhat easy,No,979
+980,1-5,Yes,No,No,No,Don't know,No,980
+981,1-5,Yes,No,Yes,No,Somewhat easy,Don't know,981
+982,26-100,No,Yes,Yes,No,Somewhat easy,Don't know,982
+983,100-500,Yes,Don't know,Not sure,No,Don't know,Don't know,983
+984,26-100,Yes,Yes,Not sure,Yes,Very easy,Yes,984
+985,6-25,Yes,No,No,No,Very easy,Yes,985
+986,500-1000,Yes,Don't know,Not sure,No,Somewhat difficult,No,986
+987,6-25,Yes,No,No,No,Somewhat difficult,Yes,987
+988,26-100,Yes,Yes,Not sure,Yes,Somewhat easy,Don't know,988
+989,1-5,Yes,Yes,Yes,Yes,Very easy,Yes,989
+990,1-5,Yes,No,No,No,Somewhat easy,Don't know,990
+991,6-25,Yes,Yes,No,No,Very easy,Yes,991
+992,26-100,Yes,Yes,Yes,Yes,Very easy,Yes,992
+993,1-5,Yes,No,Yes,No,Very easy,Yes,993
+994,26-100,Yes,Don't know,No,No,Don't know,Yes,994
+995,1-5,Yes,Don't know,Not sure,No,Somewhat easy,Don't know,995
+996,100-500,Yes,Yes,Yes,No,Very easy,Don't know,996
+997,More than 1000,No,Yes,Not sure,No,Don't know,Don't know,997
+998,500-1000,Yes,No,No,No,Don't know,Don't know,998
+999,6-25,Yes,No,No,No,Don't know,Don't know,999
+1000,6-25,Yes,Yes,Yes,No,Somewhat easy,Don't know,1000
+1001,6-25,Yes,Don't know,No,No,Don't know,Don't know,1001
+1002,100-500,Yes,Yes,Yes,No,Very easy,Don't know,1002
+1003,26-100,Yes,Don't know,No,No,Don't know,Don't know,1003
+1004,1-5,Yes,No,Yes,No,Very easy,Yes,1004
+1005,500-1000,Yes,Don't know,No,No,Very easy,Yes,1005
+1006,100-500,No,Yes,Yes,No,Very easy,Don't know,1006
+1007,100-500,Yes,Don't know,No,No,Don't know,Don't know,1007
+1008,6-25,Yes,No,Yes,No,Somewhat easy,Yes,1008
+1009,100-500,Yes,Don't know,Not sure,No,Don't know,Don't know,1009
+1010,More than 1000,No,Yes,Yes,Yes,Don't know,Don't know,1010
+1011,1-5,Yes,No,Yes,Don't know,Somewhat easy,Yes,1011
+1012,More than 1000,No,Yes,Yes,No,Somewhat difficult,No,1012
+1013,26-100,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,1013
+1014,More than 1000,Yes,Yes,Not sure,Yes,Don't know,Yes,1014
+1015,100-500,Yes,Don't know,Not sure,No,Very easy,Don't know,1015
+1016,6-25,Yes,Don't know,Not sure,No,Somewhat easy,Yes,1016
+1017,More than 1000,No,Yes,Yes,Yes,Don't know,No,1017
+1018,26-100,Yes,Yes,No,No,Don't know,Don't know,1018
+1019,26-100,Yes,Don't know,No,No,Somewhat easy,Don't know,1019
+1020,26-100,Yes,Don't know,No,No,Somewhat easy,No,1020
+1021,500-1000,No,Yes,Yes,Yes,Somewhat easy,No,1021
+1022,6-25,Yes,Yes,Yes,Yes,Somewhat easy,Yes,1022
+1023,6-25,Yes,No,No,No,Don't know,Don't know,1023
+1024,26-100,Yes,Don't know,No,No,Somewhat easy,No,1024
+1025,6-25,Yes,Don't know,No,No,Don't know,Don't know,1025
+1026,More than 1000,Yes,Yes,Yes,Yes,Don't know,Yes,1026
+1027,1-5,Yes,Don't know,Not sure,No,Don't know,Don't know,1027
+1028,100-500,Yes,Yes,Yes,Yes,Don't know,Don't know,1028
+1029,More than 1000,No,Yes,Not sure,Yes,Don't know,Don't know,1029
+1030,6-25,Yes,Don't know,Not sure,No,Don't know,Yes,1030
+1031,6-25,Yes,Don't know,Not sure,Don't know,Don't know,Yes,1031
+1032,More than 1000,No,Yes,Not sure,Yes,Don't know,No,1032
+1033,26-100,Yes,No,No,No,Very difficult,No,1033
+1034,100-500,No,Don't know,No,No,Don't know,Don't know,1034
+1035,6-25,Yes,No,Yes,No,Don't know,Don't know,1035
+1036,26-100,Yes,No,No,No,Don't know,Yes,1036
+1037,More than 1000,No,Don't know,No,Don't know,Don't know,No,1037
+1038,1-5,Yes,No,Not sure,No,Very easy,Yes,1038
+1039,6-25,Yes,No,No,No,Don't know,Don't know,1039
+1040,26-100,Yes,Don't know,No,No,Somewhat easy,No,1040
+1041,6-25,Yes,Yes,No,Don't know,Don't know,Yes,1041
+1042,More than 1000,Yes,Yes,Yes,No,Don't know,Don't know,1042
+1043,6-25,Yes,Yes,Yes,No,Don't know,Don't know,1043
+1044,More than 1000,No,Yes,Yes,No,Don't know,No,1044
+1045,100-500,Yes,Yes,Not sure,No,Don't know,Don't know,1045
+1046,6-25,Yes,No,Not sure,No,Somewhat easy,Don't know,1046
+1047,100-500,Yes,No,No,No,Somewhat easy,Don't know,1047
+1048,1-5,No,No,Yes,Yes,Very difficult,Yes,1048
+1049,1-5,Yes,No,Yes,Yes,Somewhat difficult,Yes,1049
+1050,More than 1000,Yes,Yes,Yes,No,Don't know,No,1050
+1051,26-100,No,No,No,No,Somewhat difficult,No,1051
+1052,More than 1000,Yes,Don't know,Not sure,No,Very easy,No,1052
+1053,1-5,Yes,Don't know,Not sure,Don't know,Very easy,Don't know,1053
+1054,More than 1000,No,Don't know,No,No,Don't know,No,1054
+1055,500-1000,Yes,Yes,Yes,No,Very easy,Yes,1055
+1056,6-25,Yes,Don't know,No,No,Don't know,Don't know,1056
+1057,6-25,Yes,Don't know,No,No,Very easy,Yes,1057
+1058,More than 1000,Yes,Yes,Not sure,Don't know,Don't know,Don't know,1058
+1059,6-25,Yes,Yes,Yes,Don't know,Very easy,Don't know,1059
+1060,More than 1000,No,Yes,No,No,Somewhat easy,Don't know,1060
+1061,100-500,Yes,Don't know,Not sure,No,Very difficult,No,1061
+1062,1-5,Yes,Don't know,No,No,Somewhat difficult,Don't know,1062
+1063,6-25,Yes,Don't know,No,No,Somewhat easy,Don't know,1063
+1064,6-25,Yes,No,No,No,Somewhat easy,Don't know,1064
+1065,6-25,No,Don't know,No,No,Don't know,No,1065
+1066,6-25,Yes,Yes,Not sure,Don't know,Somewhat easy,Don't know,1066
+1067,More than 1000,No,Yes,Yes,No,Somewhat difficult,Don't know,1067
+1068,26-100,No,Yes,Yes,Yes,Don't know,Don't know,1068
+1069,26-100,Yes,No,No,No,Very difficult,No,1069
+1070,6-25,Yes,No,No,No,Don't know,No,1070
+1071,More than 1000,Yes,Yes,Not sure,No,Don't know,Don't know,1071
+1072,More than 1000,Yes,Yes,Yes,Yes,Don't know,Yes,1072
+1073,More than 1000,No,Don't know,No,No,Don't know,Don't know,1073
+1074,100-500,Yes,Yes,Yes,No,Somewhat easy,No,1074
+1075,More than 1000,Yes,Yes,Yes,Yes,Don't know,No,1075
+1076,1-5,Yes,Yes,Not sure,No,Don't know,Don't know,1076
+1077,More than 1000,Yes,Yes,Yes,Yes,Very difficult,No,1077
+1078,26-100,Yes,Yes,Yes,No,Don't know,Don't know,1078
+1079,1-5,Yes,No,No,No,Very difficult,No,1079
+1080,1-5,Yes,No,Yes,No,Very easy,No,1080
+1081,1-5,Yes,Don't know,Not sure,Don't know,Very difficult,Yes,1081
+1082,More than 1000,No,Yes,No,No,Somewhat difficult,No,1082
+1083,26-100,No,Don't know,No,Yes,Somewhat easy,Yes,1083
+1084,1-5,No,Yes,Yes,Yes,Somewhat easy,No,1084
+1085,6-25,Yes,Don't know,No,No,Very easy,Yes,1085
+1086,More than 1000,Yes,Don't know,No,No,Somewhat difficult,Yes,1086
+1087,More than 1000,No,Yes,Not sure,Yes,Don't know,No,1087
+1088,26-100,Yes,Yes,Yes,Yes,Don't know,Don't know,1088
+1089,100-500,Yes,Yes,Yes,Don't know,Don't know,Yes,1089
+1090,1-5,Yes,No,Yes,No,Very easy,Yes,1090
+1091,100-500,No,Yes,Yes,No,Somewhat easy,No,1091
+1092,100-500,Yes,No,Yes,No,Very difficult,No,1092
+1093,More than 1000,Yes,Yes,Yes,Yes,Don't know,Yes,1093
+1094,100-500,Yes,Yes,No,No,Very easy,Yes,1094
+1095,1-5,No,No,Yes,No,Very difficult,No,1095
+1096,6-25,Yes,Don't know,No,No,Very easy,Yes,1096
+1097,More than 1000,Yes,Yes,Not sure,Yes,Somewhat difficult,Don't know,1097
+1098,More than 1000,No,Don't know,Not sure,Yes,Somewhat easy,Yes,1098
+1099,500-1000,Yes,Don't know,No,No,Don't know,Yes,1099
+1100,6-25,Yes,Yes,Not sure,No,Don't know,Don't know,1100
+1101,100-500,Yes,Don't know,Not sure,No,Don't know,Don't know,1101
+1102,1-5,Yes,No,Yes,No,Very difficult,No,1102
+1103,6-25,Yes,Don't know,No,No,Somewhat easy,Yes,1103
+1104,6-25,Yes,Yes,No,No,Don't know,Don't know,1104
+1105,6-25,Yes,No,Yes,No,Somewhat easy,Don't know,1105
+1106,26-100,Yes,No,No,No,Don't know,Don't know,1106
+1107,26-100,Yes,No,No,Don't know,Very easy,Yes,1107
+1108,More than 1000,Yes,Yes,Yes,Don't know,Don't know,Don't know,1108
+1109,6-25,Yes,No,No,No,Very easy,Don't know,1109
+1110,6-25,Yes,Yes,Yes,No,Very easy,Yes,1110
+1111,6-25,Yes,Yes,No,No,Somewhat easy,No,1111
+1112,6-25,Yes,No,Not sure,No,Don't know,Don't know,1112
+1113,1-5,Yes,Don't know,No,Don't know,Very easy,Don't know,1113
+1114,More than 1000,No,Yes,Not sure,Don't know,Somewhat easy,Don't know,1114
+1115,26-100,Yes,Yes,Yes,No,Don't know,Don't know,1115
+1116,100-500,Yes,Don't know,Not sure,No,Very easy,Don't know,1116
+1117,6-25,Yes,Don't know,Yes,No,Don't know,Don't know,1117
+1118,More than 1000,No,Yes,Yes,Yes,Somewhat easy,Don't know,1118
+1119,1-5,Yes,No,Yes,No,Don't know,Don't know,1119
+1120,1-5,Yes,No,Yes,Yes,Very easy,No,1120
+1121,More than 1000,No,No,No,No,Don't know,No,1121
+1122,100-500,Yes,Don't know,Not sure,No,Very easy,No,1122
+1123,26-100,No,Don't know,No,Don't know,Don't know,Don't know,1123
+1124,6-25,Yes,Don't know,Not sure,Don't know,Don't know,Yes,1124
+1125,1-5,Yes,No,No,No,Don't know,No,1125
+1126,26-100,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,1126
+1127,1-5,Yes,Yes,Yes,Yes,Very easy,Yes,1127
+1128,6-25,Yes,No,No,No,Somewhat easy,Yes,1128
+1129,More than 1000,No,Yes,No,No,Somewhat easy,No,1129
+1130,26-100,No,Yes,Yes,No,Don't know,No,1130
+1131,26-100,Yes,No,No,No,Don't know,Don't know,1131
+1132,More than 1000,Yes,Yes,Yes,No,Somewhat easy,Don't know,1132
+1133,26-100,Yes,No,Yes,No,Somewhat difficult,No,1133
+1134,26-100,Yes,No,Yes,No,Somewhat difficult,No,1134
+1135,More than 1000,No,No,No,No,Somewhat easy,No,1135
+1136,26-100,Yes,No,No,No,Very easy,Yes,1136
+1137,6-25,Yes,No,No,No,Somewhat difficult,Don't know,1137
+1138,6-25,Yes,Don't know,Not sure,No,Somewhat easy,Don't know,1138
+1139,More than 1000,No,Don't know,No,No,Don't know,Don't know,1139
+1140,26-100,Yes,No,Yes,No,Very difficult,Don't know,1140
+1141,More than 1000,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,1141
+1142,More than 1000,No,No,No,No,Somewhat easy,Don't know,1142
+1143,More than 1000,No,No,Yes,No,Don't know,Yes,1143
+1144,More than 1000,No,No,Yes,Yes,Somewhat difficult,Yes,1144
+1145,26-100,Yes,Don't know,No,No,Don't know,Don't know,1145
+1146,1-5,Yes,No,Not sure,Don't know,Very easy,Don't know,1146
+1147,More than 1000,No,No,No,No,Very easy,Yes,1147
+1148,More than 1000,No,Yes,Yes,No,Somewhat easy,Don't know,1148
+1149,6-25,Yes,Yes,Not sure,No,Don't know,Don't know,1149
+1150,More than 1000,Yes,Yes,Yes,Yes,Somewhat difficult,Don't know,1150
+1151,6-25,Yes,No,No,No,Don't know,Don't know,1151
+1152,100-500,Yes,Don't know,Not sure,No,Don't know,No,1152
+1153,26-100,No,Yes,Yes,Yes,Very easy,Yes,1153
+1154,26-100,No,Don't know,Not sure,No,Somewhat easy,Don't know,1154
+1155,6-25,Yes,Don't know,Not sure,No,Very easy,Yes,1155
+1156,1-5,Yes,Don't know,Not sure,Don't know,Very easy,Don't know,1156
+1157,6-25,Yes,Don't know,Not sure,No,Somewhat easy,Don't know,1157
+1158,6-25,Yes,No,Yes,No,Don't know,Don't know,1158
+1159,More than 1000,Yes,Don't know,No,No,Don't know,No,1159
+1160,26-100,Yes,Yes,Yes,No,Don't know,Don't know,1160
+1161,100-500,Yes,Yes,No,No,Don't know,Yes,1161
+1162,26-100,Yes,Don't know,Not sure,No,Don't know,Don't know,1162
+1163,6-25,Yes,Don't know,No,No,Somewhat easy,Don't know,1163
+1164,100-500,No,Yes,Yes,No,Don't know,No,1164
+1165,More than 1000,Yes,Yes,No,Yes,Don't know,Don't know,1165
+1166,26-100,No,Yes,Yes,Yes,Don't know,Don't know,1166
+1167,More than 1000,Yes,Don't know,Not sure,No,Don't know,Don't know,1167
+1168,6-25,Yes,No,No,No,Very difficult,Yes,1168
+1169,More than 1000,Yes,Yes,Yes,No,Don't know,No,1169
+1170,More than 1000,Yes,Don't know,Not sure,No,Don't know,No,1170
+1171,More than 1000,No,Yes,No,Yes,Don't know,Don't know,1171
+1172,26-100,Yes,Yes,Yes,No,Somewhat easy,Yes,1172
+1173,1-5,Yes,No,No,No,Very difficult,No,1173
+1174,26-100,No,No,No,No,Very difficult,No,1174
+1175,6-25,Yes,Don't know,No,No,Somewhat difficult,Don't know,1175
+1176,100-500,Yes,Yes,No,No,Don't know,No,1176
+1177,26-100,Yes,No,No,No,Don't know,No,1177
+1178,1-5,Yes,No,Yes,No,Somewhat easy,Don't know,1178
+1179,26-100,Yes,No,No,No,Don't know,No,1179
+1180,26-100,Yes,Yes,Yes,No,Don't know,No,1180
+1181,More than 1000,No,Yes,Yes,Yes,Don't know,No,1181
+1182,500-1000,No,Yes,Not sure,Don't know,Somewhat easy,Don't know,1182
+1183,1-5,Yes,No,No,No,Don't know,Yes,1183
+1184,6-25,Yes,No,Yes,No,Very difficult,Don't know,1184
+1185,100-500,No,Don't know,Not sure,Don't know,Don't know,Yes,1185
+1186,1-5,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,1186
+1187,26-100,Yes,Yes,No,No,Don't know,Don't know,1187
+1188,26-100,Yes,Don't know,Not sure,No,Very easy,Don't know,1188
+1189,6-25,Yes,Yes,Yes,No,Don't know,Yes,1189
+1190,100-500,Yes,Yes,Yes,No,Don't know,Don't know,1190
+1191,More than 1000,Yes,Yes,Not sure,Yes,Don't know,Don't know,1191
+1192,26-100,Yes,Don't know,No,No,Somewhat easy,Don't know,1192
+1193,26-100,Yes,Don't know,Not sure,Don't know,Don't know,No,1193
+1194,26-100,Yes,Don't know,Not sure,No,Don't know,Don't know,1194
+1195,500-1000,No,Yes,Yes,Yes,Don't know,Yes,1195
+1196,1-5,Yes,Don't know,No,No,Don't know,No,1196
+1197,6-25,Yes,No,No,No,Somewhat difficult,No,1197
+1198,26-100,Yes,Yes,Not sure,No,Very difficult,Don't know,1198
+1199,100-500,Yes,Don't know,Not sure,No,Don't know,Don't know,1199
+1200,100-500,Yes,No,Yes,No,Don't know,No,1200
+1201,6-25,Yes,Yes,No,No,Somewhat easy,No,1201
+1202,1-5,Yes,No,Yes,No,Don't know,Don't know,1202
+1203,100-500,Yes,Don't know,Not sure,No,Somewhat easy,Don't know,1203
+1204,1-5,Yes,No,No,No,Don't know,Don't know,1204
+1205,6-25,Yes,No,No,No,Somewhat easy,Don't know,1205
+1206,26-100,No,Don't know,Not sure,No,Somewhat easy,Yes,1206
+1207,1-5,Yes,No,Yes,No,Very easy,No,1207
+1208,100-500,Yes,No,Yes,No,Somewhat easy,Don't know,1208
+1209,26-100,Yes,Don't know,Not sure,No,Somewhat difficult,No,1209
+1210,1-5,Yes,No,No,No,Don't know,Don't know,1210
+1211,More than 1000,Yes,Don't know,Not sure,No,Don't know,No,1211
+1212,More than 1000,No,No,Yes,No,Somewhat difficult,No,1212
+1213,More than 1000,Yes,Don't know,No,No,Very difficult,No,1213
+1214,26-100,Yes,Yes,Yes,No,Don't know,Don't know,1214
+1215,6-25,Yes,No,Not sure,No,Somewhat easy,Don't know,1215
+1216,More than 1000,No,Don't know,Not sure,No,Don't know,Don't know,1216
+1217,26-100,Yes,No,Yes,No,Somewhat difficult,No,1217
+1218,6-25,Yes,No,Not sure,No,Somewhat easy,Don't know,1218
+1219,More than 1000,Yes,Yes,No,Yes,Very easy,Don't know,1219
+1220,26-100,Yes,Don't know,No,No,Don't know,No,1220
+1221,100-500,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,1221
+1222,1-5,Yes,Don't know,Yes,Don't know,Somewhat easy,Yes,1222
+1223,26-100,Yes,Don't know,No,No,Somewhat easy,Yes,1223
+1224,More than 1000,Yes,Yes,Yes,No,Somewhat easy,Yes,1224
+1225,26-100,Yes,No,Yes,Yes,Don't know,Don't know,1225
+1226,More than 1000,No,Yes,Not sure,Yes,Somewhat easy,Yes,1226
+1227,More than 1000,Yes,Yes,Yes,Don't know,Don't know,Don't know,1227
+1228,26-100,Yes,Don't know,Yes,No,Somewhat easy,Don't know,1228
+1229,6-25,Yes,No,No,No,Don't know,Don't know,1229
+1230,6-25,Yes,No,Yes,No,Very easy,Yes,1230
+1231,6-25,Yes,No,No,No,Don't know,Don't know,1231
+1232,More than 1000,No,Yes,Yes,Yes,Very easy,Yes,1232
+1233,6-25,Yes,No,Yes,No,Don't know,Don't know,1233
+1234,6-25,No,Don't know,No,No,Don't know,Don't know,1234
+1235,26-100,Yes,Yes,Yes,Yes,Don't know,Don't know,1235
+1236,More than 1000,Yes,Don't know,No,Yes,Somewhat easy,Don't know,1236
+1237,26-100,Yes,No,Yes,No,Don't know,No,1237
+1238,More than 1000,No,Yes,Yes,Yes,Somewhat easy,No,1238
+1239,500-1000,Yes,Don't know,No,No,Don't know,Don't know,1239
+1240,100-500,Yes,Don't know,No,No,Somewhat easy,Don't know,1240
+1241,6-25,Yes,No,No,No,Somewhat easy,Don't know,1241
+1242,26-100,Yes,Don't know,No,No,Don't know,Don't know,1242
+1243,More than 1000,Yes,Yes,Yes,No,Don't know,Don't know,1243
+1244,More than 1000,No,No,No,No,Don't know,No,1244
+1245,100-500,No,Yes,Yes,Yes,Don't know,Don't know,1245
+1246,100-500,Yes,Yes,Not sure,Don't know,Somewhat easy,Don't know,1246
+1247,6-25,Yes,No,No,No,Very difficult,Don't know,1247
+1248,26-100,Yes,Yes,No,No,Don't know,Don't know,1248
+1249,26-100,Yes,Yes,Yes,Don't know,Very easy,Yes,1249
+1250,26-100,Yes,Yes,Not sure,Yes,Don't know,Yes,1250
+1251,100-500,No,No,Yes,No,Somewhat easy,Yes,1251
+1252,100-500,Yes,Yes,Yes,Yes,Don't know,No,1252
+1253,More than 1000,No,Don't know,No,Yes,Somewhat easy,Don't know,1253
+1254,26-100,Yes,No,No,No,Somewhat easy,Don't know,1254
+1255,26-100,Yes,Yes,Yes,No,Somewhat difficult,Yes,1255
+1256,More than 1000,Yes,Yes,Yes,No,Somewhat difficult,No,1256
+1257,100-500,Yes,No,Yes,No,Don't know,No,1257
+1258,26-100,No,Yes,Yes,No,Don't know,Don't know,1258

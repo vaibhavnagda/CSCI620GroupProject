@@ -1,0 +1,55 @@
+README.txt
+CSCI620 Project - Team CMV
+Corie Both, Melissa "Misha" Belisle, Vaibhav Nagda
+
+Setting up the system:
+    Visualize the attributes:
+    The script is written in Python 3.5 and will require pandas and numplot libraries.
+    To run the script, create a directory with 'DATA_TABLES' add all the csv data tables to it.
+    Run the visualise_data.py file to view the data.
+
+    Import the mwb file to get the database with current data and set up into MySQL Workbench.
+    This should also create a user, but you may need to add a user.
+        To do this in MySQL Workbench:
+            Select Users and Privileges.
+            Select Add an account.
+            The application runs with a static user and password (not the most secure, but this is what we are working with for now.)  Create the account with username as java and password as password.
+        To do this via commandline (from MySQL shell):
+            USE mental_health;
+            CREATE USER 'java'@'localhost' IDENTIFIED BY 'password';
+            GRANT ALL PRIVILEGES ON mental_health.* To 'java'@'localhost';
+            FLUSH PRIVILEGES
+
+    The database should then be fully set up.
+    There is also a little set up regarding the Java application:
+        Dependencies need to be added. Using IntelliJ this can be done relatively easily.
+        Under Project Structure, select Modules and then select Dependencies. Here you can add the jar files for jxbrowser: jxbrowser-6.17.jar, jxbrowser-linux64-6.17.jar, jxbrowser-mac-6.17.jar, jxbrowser-win32-6.17.jar, and license.jar.
+        Make sure that MySQL is also included by including the bin file as a Library by going to the Libraries tab and selecting the + to add another library.
+
+        This should be all of the set up that is needed for the application.
+        Note: if the browser has an issue finding the mentalhealth.html for browser.loadURL, you can change this to "file:/..." where ... is the complete path to the html page in this project.
+
+    From here, you should be able to run the application!
+
+
+Separation of Tasks:
+    Corie
+        -created the Create Tables for Anonymity and Person
+        -wrote queries that we thought would be most useful for looking at
+        -handled using JDBC for connecting Java to the database
+        -created the UI for the front end of database access
+        -ReadMe.txt
+
+    Melissa
+        -modeled the diagram for relational database
+        -created Create Tables for Medical History and Consequences
+        -wrote queries that we thought would be most useful for looking at
+        -ran the data analysis using Weka
+
+    Vaibhav
+        -created the ER diagram for if we were to model the database as a survey database
+        -created the Create Tables for Company and Survey
+        -handled data visualizations
+        -put together slides for presentation materials
+
+

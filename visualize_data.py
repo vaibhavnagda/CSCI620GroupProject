@@ -140,8 +140,6 @@ def main():
     for i in complicated_data:
         flags[i] = 1
     for f in files:
-        # if 'Person' in f:
-        #     getfeatures(f, flags)
         if 'Survey' not in f:
             getfeatures(f, flags)
     pass
